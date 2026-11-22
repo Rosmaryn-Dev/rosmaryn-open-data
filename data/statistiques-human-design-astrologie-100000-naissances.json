@@ -1,0 +1,4090 @@
+[
+ {
+  "famille": "Type (Human Design)",
+  "code": "generator",
+  "libelle": "Générateur",
+  "effectif": 35535,
+  "part_pourcent": 35.54,
+  "naissances": 100000
+ },
+ {
+  "famille": "Type (Human Design)",
+  "code": "manifesting-generator",
+  "libelle": "Générateur Manifesteur",
+  "effectif": 32365,
+  "part_pourcent": 32.37,
+  "naissances": 100000
+ },
+ {
+  "famille": "Type (Human Design)",
+  "code": "manifestor",
+  "libelle": "Manifesteur",
+  "effectif": 9861,
+  "part_pourcent": 9.86,
+  "naissances": 100000
+ },
+ {
+  "famille": "Type (Human Design)",
+  "code": "projector",
+  "libelle": "Projecteur",
+  "effectif": 21147,
+  "part_pourcent": 21.15,
+  "naissances": 100000
+ },
+ {
+  "famille": "Type (Human Design)",
+  "code": "reflector",
+  "libelle": "Réflecteur",
+  "effectif": 1092,
+  "part_pourcent": 1.09,
+  "naissances": 100000
+ },
+ {
+  "famille": "Autorité (Human Design)",
+  "code": "ego",
+  "libelle": "Ego",
+  "effectif": 1302,
+  "part_pourcent": 1.3,
+  "naissances": 100000
+ },
+ {
+  "famille": "Autorité (Human Design)",
+  "code": "emotional",
+  "libelle": "Émotionnelle",
+  "effectif": 52415,
+  "part_pourcent": 52.42,
+  "naissances": 100000
+ },
+ {
+  "famille": "Autorité (Human Design)",
+  "code": "lunar",
+  "libelle": "Lunaire",
+  "effectif": 1092,
+  "part_pourcent": 1.09,
+  "naissances": 100000
+ },
+ {
+  "famille": "Autorité (Human Design)",
+  "code": "mental",
+  "libelle": "Mentale",
+  "effectif": 2106,
+  "part_pourcent": 2.11,
+  "naissances": 100000
+ },
+ {
+  "famille": "Autorité (Human Design)",
+  "code": "sacral",
+  "libelle": "Sacrale",
+  "effectif": 31992,
+  "part_pourcent": 31.99,
+  "naissances": 100000
+ },
+ {
+  "famille": "Autorité (Human Design)",
+  "code": "self",
+  "libelle": "Soi",
+  "effectif": 2471,
+  "part_pourcent": 2.47,
+  "naissances": 100000
+ },
+ {
+  "famille": "Autorité (Human Design)",
+  "code": "splenic",
+  "libelle": "Splénique",
+  "effectif": 8622,
+  "part_pourcent": 8.62,
+  "naissances": 100000
+ },
+ {
+  "famille": "Définition (Human Design)",
+  "code": "none",
+  "libelle": "Sans définition",
+  "effectif": 1092,
+  "part_pourcent": 1.09,
+  "naissances": 100000
+ },
+ {
+  "famille": "Définition (Human Design)",
+  "code": "quadruple-split",
+  "libelle": "Quadruple Split",
+  "effectif": 638,
+  "part_pourcent": 0.64,
+  "naissances": 100000
+ },
+ {
+  "famille": "Définition (Human Design)",
+  "code": "single",
+  "libelle": "Simple",
+  "effectif": 38919,
+  "part_pourcent": 38.92,
+  "naissances": 100000
+ },
+ {
+  "famille": "Définition (Human Design)",
+  "code": "split-large",
+  "libelle": "Split Large",
+  "effectif": 10043,
+  "part_pourcent": 10.04,
+  "naissances": 100000
+ },
+ {
+  "famille": "Définition (Human Design)",
+  "code": "split-small",
+  "libelle": "Split Small",
+  "effectif": 37169,
+  "part_pourcent": 37.17,
+  "naissances": 100000
+ },
+ {
+  "famille": "Définition (Human Design)",
+  "code": "triple-split",
+  "libelle": "Triple Split",
+  "effectif": 12139,
+  "part_pourcent": 12.14,
+  "naissances": 100000
+ },
+ {
+  "famille": "Profil (Human Design)",
+  "code": "1/3",
+  "libelle": "1/3",
+  "effectif": 14418,
+  "part_pourcent": 14.42,
+  "naissances": 100000
+ },
+ {
+  "famille": "Profil (Human Design)",
+  "code": "1/4",
+  "libelle": "1/4",
+  "effectif": 2435,
+  "part_pourcent": 2.44,
+  "naissances": 100000
+ },
+ {
+  "famille": "Profil (Human Design)",
+  "code": "2/4",
+  "libelle": "2/4",
+  "effectif": 14209,
+  "part_pourcent": 14.21,
+  "naissances": 100000
+ },
+ {
+  "famille": "Profil (Human Design)",
+  "code": "2/5",
+  "libelle": "2/5",
+  "effectif": 2176,
+  "part_pourcent": 2.18,
+  "naissances": 100000
+ },
+ {
+  "famille": "Profil (Human Design)",
+  "code": "3/5",
+  "libelle": "3/5",
+  "effectif": 14590,
+  "part_pourcent": 14.59,
+  "naissances": 100000
+ },
+ {
+  "famille": "Profil (Human Design)",
+  "code": "3/6",
+  "libelle": "3/6",
+  "effectif": 2177,
+  "part_pourcent": 2.18,
+  "naissances": 100000
+ },
+ {
+  "famille": "Profil (Human Design)",
+  "code": "4/1",
+  "libelle": "4/1",
+  "effectif": 2217,
+  "part_pourcent": 2.22,
+  "naissances": 100000
+ },
+ {
+  "famille": "Profil (Human Design)",
+  "code": "4/6",
+  "libelle": "4/6",
+  "effectif": 14491,
+  "part_pourcent": 14.49,
+  "naissances": 100000
+ },
+ {
+  "famille": "Profil (Human Design)",
+  "code": "5/1",
+  "libelle": "5/1",
+  "effectif": 14492,
+  "part_pourcent": 14.49,
+  "naissances": 100000
+ },
+ {
+  "famille": "Profil (Human Design)",
+  "code": "5/2",
+  "libelle": "5/2",
+  "effectif": 2229,
+  "part_pourcent": 2.23,
+  "naissances": 100000
+ },
+ {
+  "famille": "Profil (Human Design)",
+  "code": "6/2",
+  "libelle": "6/2",
+  "effectif": 14300,
+  "part_pourcent": 14.3,
+  "naissances": 100000
+ },
+ {
+  "famille": "Profil (Human Design)",
+  "code": "6/3",
+  "libelle": "6/3",
+  "effectif": 2266,
+  "part_pourcent": 2.27,
+  "naissances": 100000
+ },
+ {
+  "famille": "Centre défini (Human Design)",
+  "code": "ajna",
+  "libelle": "Ajna",
+  "effectif": 48450,
+  "part_pourcent": 48.45,
+  "naissances": 100000
+ },
+ {
+  "famille": "Centre défini (Human Design)",
+  "code": "g",
+  "libelle": "G",
+  "effectif": 56928,
+  "part_pourcent": 56.93,
+  "naissances": 100000
+ },
+ {
+  "famille": "Centre défini (Human Design)",
+  "code": "head",
+  "libelle": "Tête",
+  "effectif": 27449,
+  "part_pourcent": 27.45,
+  "naissances": 100000
+ },
+ {
+  "famille": "Centre défini (Human Design)",
+  "code": "heart",
+  "libelle": "Cœur",
+  "effectif": 35413,
+  "part_pourcent": 35.41,
+  "naissances": 100000
+ },
+ {
+  "famille": "Centre défini (Human Design)",
+  "code": "root",
+  "libelle": "Racine",
+  "effectif": 61434,
+  "part_pourcent": 61.43,
+  "naissances": 100000
+ },
+ {
+  "famille": "Centre défini (Human Design)",
+  "code": "sacral",
+  "libelle": "Sacral",
+  "effectif": 67900,
+  "part_pourcent": 67.9,
+  "naissances": 100000
+ },
+ {
+  "famille": "Centre défini (Human Design)",
+  "code": "solar",
+  "libelle": "Plexus Solaire",
+  "effectif": 52415,
+  "part_pourcent": 52.42,
+  "naissances": 100000
+ },
+ {
+  "famille": "Centre défini (Human Design)",
+  "code": "spleen",
+  "libelle": "Splénique",
+  "effectif": 55713,
+  "part_pourcent": 55.71,
+  "naissances": 100000
+ },
+ {
+  "famille": "Centre défini (Human Design)",
+  "code": "throat",
+  "libelle": "Gorge",
+  "effectif": 70705,
+  "part_pourcent": 70.71,
+  "naissances": 100000
+ },
+ {
+  "famille": "Canal défini (Human Design)",
+  "code": "1-8",
+  "libelle": "1-8",
+  "effectif": 7999,
+  "part_pourcent": 8.0,
+  "naissances": 100000
+ },
+ {
+  "famille": "Canal défini (Human Design)",
+  "code": "2-14",
+  "libelle": "2-14",
+  "effectif": 8359,
+  "part_pourcent": 8.36,
+  "naissances": 100000
+ },
+ {
+  "famille": "Canal défini (Human Design)",
+  "code": "3-60",
+  "libelle": "3-60",
+  "effectif": 12609,
+  "part_pourcent": 12.61,
+  "naissances": 100000
+ },
+ {
+  "famille": "Canal défini (Human Design)",
+  "code": "4-63",
+  "libelle": "4-63",
+  "effectif": 8335,
+  "part_pourcent": 8.34,
+  "naissances": 100000
+ },
+ {
+  "famille": "Canal défini (Human Design)",
+  "code": "5-15",
+  "libelle": "5-15",
+  "effectif": 8745,
+  "part_pourcent": 8.75,
+  "naissances": 100000
+ },
+ {
+  "famille": "Canal défini (Human Design)",
+  "code": "6-59",
+  "libelle": "6-59",
+  "effectif": 10428,
+  "part_pourcent": 10.43,
+  "naissances": 100000
+ },
+ {
+  "famille": "Canal défini (Human Design)",
+  "code": "7-31",
+  "libelle": "7-31",
+  "effectif": 9804,
+  "part_pourcent": 9.8,
+  "naissances": 100000
+ },
+ {
+  "famille": "Canal défini (Human Design)",
+  "code": "9-52",
+  "libelle": "9-52",
+  "effectif": 8260,
+  "part_pourcent": 8.26,
+  "naissances": 100000
+ },
+ {
+  "famille": "Canal défini (Human Design)",
+  "code": "10-20",
+  "libelle": "10-20",
+  "effectif": 7150,
+  "part_pourcent": 7.15,
+  "naissances": 100000
+ },
+ {
+  "famille": "Canal défini (Human Design)",
+  "code": "10-34",
+  "libelle": "10-34",
+  "effectif": 9599,
+  "part_pourcent": 9.6,
+  "naissances": 100000
+ },
+ {
+  "famille": "Canal défini (Human Design)",
+  "code": "10-57",
+  "libelle": "10-57",
+  "effectif": 8870,
+  "part_pourcent": 8.87,
+  "naissances": 100000
+ },
+ {
+  "famille": "Canal défini (Human Design)",
+  "code": "11-56",
+  "libelle": "11-56",
+  "effectif": 8662,
+  "part_pourcent": 8.66,
+  "naissances": 100000
+ },
+ {
+  "famille": "Canal défini (Human Design)",
+  "code": "12-22",
+  "libelle": "12-22",
+  "effectif": 8411,
+  "part_pourcent": 8.41,
+  "naissances": 100000
+ },
+ {
+  "famille": "Canal défini (Human Design)",
+  "code": "13-33",
+  "libelle": "13-33",
+  "effectif": 9679,
+  "part_pourcent": 9.68,
+  "naissances": 100000
+ },
+ {
+  "famille": "Canal défini (Human Design)",
+  "code": "16-48",
+  "libelle": "16-48",
+  "effectif": 8026,
+  "part_pourcent": 8.03,
+  "naissances": 100000
+ },
+ {
+  "famille": "Canal défini (Human Design)",
+  "code": "17-62",
+  "libelle": "17-62",
+  "effectif": 8053,
+  "part_pourcent": 8.05,
+  "naissances": 100000
+ },
+ {
+  "famille": "Canal défini (Human Design)",
+  "code": "18-58",
+  "libelle": "18-58",
+  "effectif": 10888,
+  "part_pourcent": 10.89,
+  "naissances": 100000
+ },
+ {
+  "famille": "Canal défini (Human Design)",
+  "code": "19-49",
+  "libelle": "19-49",
+  "effectif": 10812,
+  "part_pourcent": 10.81,
+  "naissances": 100000
+ },
+ {
+  "famille": "Canal défini (Human Design)",
+  "code": "20-34",
+  "libelle": "20-34",
+  "effectif": 14699,
+  "part_pourcent": 14.7,
+  "naissances": 100000
+ },
+ {
+  "famille": "Canal défini (Human Design)",
+  "code": "20-57",
+  "libelle": "20-57",
+  "effectif": 7469,
+  "part_pourcent": 7.47,
+  "naissances": 100000
+ },
+ {
+  "famille": "Canal défini (Human Design)",
+  "code": "21-45",
+  "libelle": "21-45",
+  "effectif": 7022,
+  "part_pourcent": 7.02,
+  "naissances": 100000
+ },
+ {
+  "famille": "Canal défini (Human Design)",
+  "code": "23-43",
+  "libelle": "23-43",
+  "effectif": 14441,
+  "part_pourcent": 14.44,
+  "naissances": 100000
+ },
+ {
+  "famille": "Canal défini (Human Design)",
+  "code": "24-61",
+  "libelle": "24-61",
+  "effectif": 9271,
+  "part_pourcent": 9.27,
+  "naissances": 100000
+ },
+ {
+  "famille": "Canal défini (Human Design)",
+  "code": "25-51",
+  "libelle": "25-51",
+  "effectif": 8360,
+  "part_pourcent": 8.36,
+  "naissances": 100000
+ },
+ {
+  "famille": "Canal défini (Human Design)",
+  "code": "26-44",
+  "libelle": "26-44",
+  "effectif": 10099,
+  "part_pourcent": 10.1,
+  "naissances": 100000
+ },
+ {
+  "famille": "Canal défini (Human Design)",
+  "code": "27-50",
+  "libelle": "27-50",
+  "effectif": 8937,
+  "part_pourcent": 8.94,
+  "naissances": 100000
+ },
+ {
+  "famille": "Canal défini (Human Design)",
+  "code": "28-38",
+  "libelle": "28-38",
+  "effectif": 10169,
+  "part_pourcent": 10.17,
+  "naissances": 100000
+ },
+ {
+  "famille": "Canal défini (Human Design)",
+  "code": "29-46",
+  "libelle": "29-46",
+  "effectif": 8857,
+  "part_pourcent": 8.86,
+  "naissances": 100000
+ },
+ {
+  "famille": "Canal défini (Human Design)",
+  "code": "30-41",
+  "libelle": "30-41",
+  "effectif": 8234,
+  "part_pourcent": 8.23,
+  "naissances": 100000
+ },
+ {
+  "famille": "Canal défini (Human Design)",
+  "code": "32-54",
+  "libelle": "32-54",
+  "effectif": 9395,
+  "part_pourcent": 9.4,
+  "naissances": 100000
+ },
+ {
+  "famille": "Canal défini (Human Design)",
+  "code": "34-57",
+  "libelle": "34-57",
+  "effectif": 10592,
+  "part_pourcent": 10.59,
+  "naissances": 100000
+ },
+ {
+  "famille": "Canal défini (Human Design)",
+  "code": "35-36",
+  "libelle": "35-36",
+  "effectif": 7813,
+  "part_pourcent": 7.81,
+  "naissances": 100000
+ },
+ {
+  "famille": "Canal défini (Human Design)",
+  "code": "37-40",
+  "libelle": "37-40",
+  "effectif": 15016,
+  "part_pourcent": 15.02,
+  "naissances": 100000
+ },
+ {
+  "famille": "Canal défini (Human Design)",
+  "code": "39-55",
+  "libelle": "39-55",
+  "effectif": 9916,
+  "part_pourcent": 9.92,
+  "naissances": 100000
+ },
+ {
+  "famille": "Canal défini (Human Design)",
+  "code": "42-53",
+  "libelle": "42-53",
+  "effectif": 9096,
+  "part_pourcent": 9.1,
+  "naissances": 100000
+ },
+ {
+  "famille": "Canal défini (Human Design)",
+  "code": "47-64",
+  "libelle": "47-64",
+  "effectif": 12468,
+  "part_pourcent": 12.47,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "1",
+  "libelle": "1",
+  "effectif": 33205,
+  "part_pourcent": 33.21,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "2",
+  "libelle": "2",
+  "effectif": 27690,
+  "part_pourcent": 27.69,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "3",
+  "libelle": "3",
+  "effectif": 28407,
+  "part_pourcent": 28.41,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "4",
+  "libelle": "4",
+  "effectif": 32139,
+  "part_pourcent": 32.14,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "5",
+  "libelle": "5",
+  "effectif": 32437,
+  "part_pourcent": 32.44,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "6",
+  "libelle": "6",
+  "effectif": 31149,
+  "part_pourcent": 31.15,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "7",
+  "libelle": "7",
+  "effectif": 33088,
+  "part_pourcent": 33.09,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "8",
+  "libelle": "8",
+  "effectif": 27327,
+  "part_pourcent": 27.33,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "9",
+  "libelle": "9",
+  "effectif": 31643,
+  "part_pourcent": 31.64,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "10",
+  "libelle": "10",
+  "effectif": 30603,
+  "part_pourcent": 30.6,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "11",
+  "libelle": "11",
+  "effectif": 31092,
+  "part_pourcent": 31.09,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "12",
+  "libelle": "12",
+  "effectif": 29401,
+  "part_pourcent": 29.4,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "13",
+  "libelle": "13",
+  "effectif": 30143,
+  "part_pourcent": 30.14,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "14",
+  "libelle": "14",
+  "effectif": 31762,
+  "part_pourcent": 31.76,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "15",
+  "libelle": "15",
+  "effectif": 30516,
+  "part_pourcent": 30.52,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "16",
+  "libelle": "16",
+  "effectif": 27785,
+  "part_pourcent": 27.79,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "17",
+  "libelle": "17",
+  "effectif": 28285,
+  "part_pourcent": 28.29,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "18",
+  "libelle": "18",
+  "effectif": 31396,
+  "part_pourcent": 31.4,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "19",
+  "libelle": "19",
+  "effectif": 30111,
+  "part_pourcent": 30.11,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "20",
+  "libelle": "20",
+  "effectif": 27413,
+  "part_pourcent": 27.41,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "21",
+  "libelle": "21",
+  "effectif": 28157,
+  "part_pourcent": 28.16,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "22",
+  "libelle": "22",
+  "effectif": 30662,
+  "part_pourcent": 30.66,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "23",
+  "libelle": "23",
+  "effectif": 27963,
+  "part_pourcent": 27.96,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "24",
+  "libelle": "24",
+  "effectif": 28279,
+  "part_pourcent": 28.28,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "25",
+  "libelle": "25",
+  "effectif": 28774,
+  "part_pourcent": 28.77,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "26",
+  "libelle": "26",
+  "effectif": 32092,
+  "part_pourcent": 32.09,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "27",
+  "libelle": "27",
+  "effectif": 29175,
+  "part_pourcent": 29.18,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "28",
+  "libelle": "28",
+  "effectif": 31321,
+  "part_pourcent": 31.32,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "29",
+  "libelle": "29",
+  "effectif": 31709,
+  "part_pourcent": 31.71,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "30",
+  "libelle": "30",
+  "effectif": 30656,
+  "part_pourcent": 30.66,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "31",
+  "libelle": "31",
+  "effectif": 31664,
+  "part_pourcent": 31.66,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "32",
+  "libelle": "32",
+  "effectif": 31783,
+  "part_pourcent": 31.78,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "33",
+  "libelle": "33",
+  "effectif": 32205,
+  "part_pourcent": 32.21,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "34",
+  "libelle": "34",
+  "effectif": 32514,
+  "part_pourcent": 32.51,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "35",
+  "libelle": "35",
+  "effectif": 28178,
+  "part_pourcent": 28.18,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "36",
+  "libelle": "36",
+  "effectif": 30267,
+  "part_pourcent": 30.27,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "37",
+  "libelle": "37",
+  "effectif": 30259,
+  "part_pourcent": 30.26,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "38",
+  "libelle": "38",
+  "effectif": 30226,
+  "part_pourcent": 30.23,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "39",
+  "libelle": "39",
+  "effectif": 31922,
+  "part_pourcent": 31.92,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "40",
+  "libelle": "40",
+  "effectif": 30801,
+  "part_pourcent": 30.8,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "41",
+  "libelle": "41",
+  "effectif": 30782,
+  "part_pourcent": 30.78,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "42",
+  "libelle": "42",
+  "effectif": 28235,
+  "part_pourcent": 28.24,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "43",
+  "libelle": "43",
+  "effectif": 32803,
+  "part_pourcent": 32.8,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "44",
+  "libelle": "44",
+  "effectif": 33032,
+  "part_pourcent": 33.03,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "45",
+  "libelle": "45",
+  "effectif": 26982,
+  "part_pourcent": 26.98,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "46",
+  "libelle": "46",
+  "effectif": 30172,
+  "part_pourcent": 30.17,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "47",
+  "libelle": "47",
+  "effectif": 31565,
+  "part_pourcent": 31.57,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "48",
+  "libelle": "48",
+  "effectif": 32872,
+  "part_pourcent": 32.87,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "49",
+  "libelle": "49",
+  "effectif": 31075,
+  "part_pourcent": 31.08,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "50",
+  "libelle": "50",
+  "effectif": 31001,
+  "part_pourcent": 31.0,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "51",
+  "libelle": "51",
+  "effectif": 28156,
+  "part_pourcent": 28.16,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "52",
+  "libelle": "52",
+  "effectif": 30696,
+  "part_pourcent": 30.7,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "53",
+  "libelle": "53",
+  "effectif": 32373,
+  "part_pourcent": 32.37,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "54",
+  "libelle": "54",
+  "effectif": 31154,
+  "part_pourcent": 31.15,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "55",
+  "libelle": "55",
+  "effectif": 31127,
+  "part_pourcent": 31.13,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "56",
+  "libelle": "56",
+  "effectif": 31699,
+  "part_pourcent": 31.7,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "57",
+  "libelle": "57",
+  "effectif": 31896,
+  "part_pourcent": 31.9,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "58",
+  "libelle": "58",
+  "effectif": 31254,
+  "part_pourcent": 31.25,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "59",
+  "libelle": "59",
+  "effectif": 32540,
+  "part_pourcent": 32.54,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "60",
+  "libelle": "60",
+  "effectif": 33539,
+  "part_pourcent": 33.54,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "61",
+  "libelle": "61",
+  "effectif": 31397,
+  "part_pourcent": 31.4,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "62",
+  "libelle": "62",
+  "effectif": 31768,
+  "part_pourcent": 31.77,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "63",
+  "libelle": "63",
+  "effectif": 29250,
+  "part_pourcent": 29.25,
+  "naissances": 100000
+ },
+ {
+  "famille": "Porte activée (Human Design)",
+  "code": "64",
+  "libelle": "64",
+  "effectif": 31842,
+  "part_pourcent": 31.84,
+  "naissances": 100000
+ },
+ {
+  "famille": "Signe solaire (astrologie tropicale)",
+  "code": "balance",
+  "libelle": "Balance",
+  "effectif": 8210,
+  "part_pourcent": 8.21,
+  "naissances": 100000
+ },
+ {
+  "famille": "Signe solaire (astrologie tropicale)",
+  "code": "belier",
+  "libelle": "Bélier",
+  "effectif": 8311,
+  "part_pourcent": 8.31,
+  "naissances": 100000
+ },
+ {
+  "famille": "Signe solaire (astrologie tropicale)",
+  "code": "cancer",
+  "libelle": "Cancer",
+  "effectif": 8743,
+  "part_pourcent": 8.74,
+  "naissances": 100000
+ },
+ {
+  "famille": "Signe solaire (astrologie tropicale)",
+  "code": "capricorne",
+  "libelle": "Capricorne",
+  "effectif": 8048,
+  "part_pourcent": 8.05,
+  "naissances": 100000
+ },
+ {
+  "famille": "Signe solaire (astrologie tropicale)",
+  "code": "gemeaux",
+  "libelle": "Gémeaux",
+  "effectif": 8641,
+  "part_pourcent": 8.64,
+  "naissances": 100000
+ },
+ {
+  "famille": "Signe solaire (astrologie tropicale)",
+  "code": "lion",
+  "libelle": "Lion",
+  "effectif": 8395,
+  "part_pourcent": 8.4,
+  "naissances": 100000
+ },
+ {
+  "famille": "Signe solaire (astrologie tropicale)",
+  "code": "poissons",
+  "libelle": "Poissons",
+  "effectif": 8278,
+  "part_pourcent": 8.28,
+  "naissances": 100000
+ },
+ {
+  "famille": "Signe solaire (astrologie tropicale)",
+  "code": "sagittaire",
+  "libelle": "Sagittaire",
+  "effectif": 8160,
+  "part_pourcent": 8.16,
+  "naissances": 100000
+ },
+ {
+  "famille": "Signe solaire (astrologie tropicale)",
+  "code": "scorpion",
+  "libelle": "Scorpion",
+  "effectif": 8192,
+  "part_pourcent": 8.19,
+  "naissances": 100000
+ },
+ {
+  "famille": "Signe solaire (astrologie tropicale)",
+  "code": "taureau",
+  "libelle": "Taureau",
+  "effectif": 8412,
+  "part_pourcent": 8.41,
+  "naissances": 100000
+ },
+ {
+  "famille": "Signe solaire (astrologie tropicale)",
+  "code": "verseau",
+  "libelle": "Verseau",
+  "effectif": 8060,
+  "part_pourcent": 8.06,
+  "naissances": 100000
+ },
+ {
+  "famille": "Signe solaire (astrologie tropicale)",
+  "code": "vierge",
+  "libelle": "Vierge",
+  "effectif": 8550,
+  "part_pourcent": 8.55,
+  "naissances": 100000
+ },
+ {
+  "famille": "Signe lunaire (astrologie tropicale)",
+  "code": "balance",
+  "libelle": "Balance",
+  "effectif": 8297,
+  "part_pourcent": 8.3,
+  "naissances": 100000
+ },
+ {
+  "famille": "Signe lunaire (astrologie tropicale)",
+  "code": "belier",
+  "libelle": "Bélier",
+  "effectif": 8281,
+  "part_pourcent": 8.28,
+  "naissances": 100000
+ },
+ {
+  "famille": "Signe lunaire (astrologie tropicale)",
+  "code": "cancer",
+  "libelle": "Cancer",
+  "effectif": 8424,
+  "part_pourcent": 8.42,
+  "naissances": 100000
+ },
+ {
+  "famille": "Signe lunaire (astrologie tropicale)",
+  "code": "capricorne",
+  "libelle": "Capricorne",
+  "effectif": 8245,
+  "part_pourcent": 8.25,
+  "naissances": 100000
+ },
+ {
+  "famille": "Signe lunaire (astrologie tropicale)",
+  "code": "gemeaux",
+  "libelle": "Gémeaux",
+  "effectif": 8461,
+  "part_pourcent": 8.46,
+  "naissances": 100000
+ },
+ {
+  "famille": "Signe lunaire (astrologie tropicale)",
+  "code": "lion",
+  "libelle": "Lion",
+  "effectif": 8265,
+  "part_pourcent": 8.27,
+  "naissances": 100000
+ },
+ {
+  "famille": "Signe lunaire (astrologie tropicale)",
+  "code": "poissons",
+  "libelle": "Poissons",
+  "effectif": 8421,
+  "part_pourcent": 8.42,
+  "naissances": 100000
+ },
+ {
+  "famille": "Signe lunaire (astrologie tropicale)",
+  "code": "sagittaire",
+  "libelle": "Sagittaire",
+  "effectif": 8454,
+  "part_pourcent": 8.45,
+  "naissances": 100000
+ },
+ {
+  "famille": "Signe lunaire (astrologie tropicale)",
+  "code": "scorpion",
+  "libelle": "Scorpion",
+  "effectif": 8308,
+  "part_pourcent": 8.31,
+  "naissances": 100000
+ },
+ {
+  "famille": "Signe lunaire (astrologie tropicale)",
+  "code": "taureau",
+  "libelle": "Taureau",
+  "effectif": 8244,
+  "part_pourcent": 8.24,
+  "naissances": 100000
+ },
+ {
+  "famille": "Signe lunaire (astrologie tropicale)",
+  "code": "verseau",
+  "libelle": "Verseau",
+  "effectif": 8156,
+  "part_pourcent": 8.16,
+  "naissances": 100000
+ },
+ {
+  "famille": "Signe lunaire (astrologie tropicale)",
+  "code": "vierge",
+  "libelle": "Vierge",
+  "effectif": 8444,
+  "part_pourcent": 8.44,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "1",
+  "libelle": "1. Vehuiah",
+  "effectif": 1369,
+  "part_pourcent": 1.37,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "2",
+  "libelle": "2. Jeliel",
+  "effectif": 1362,
+  "part_pourcent": 1.36,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "3",
+  "libelle": "3. Sitael",
+  "effectif": 1404,
+  "part_pourcent": 1.4,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "4",
+  "libelle": "4. Elemiah",
+  "effectif": 1405,
+  "part_pourcent": 1.41,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "5",
+  "libelle": "5. Mahasiah",
+  "effectif": 1399,
+  "part_pourcent": 1.4,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "6",
+  "libelle": "6. Lelahel",
+  "effectif": 1372,
+  "part_pourcent": 1.37,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "7",
+  "libelle": "7. Achaiah",
+  "effectif": 1385,
+  "part_pourcent": 1.39,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "8",
+  "libelle": "8. Cahethel",
+  "effectif": 1403,
+  "part_pourcent": 1.4,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "9",
+  "libelle": "9. Haziel",
+  "effectif": 1393,
+  "part_pourcent": 1.39,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "10",
+  "libelle": "10. Aladiah",
+  "effectif": 1378,
+  "part_pourcent": 1.38,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "11",
+  "libelle": "11. Lauviah",
+  "effectif": 1404,
+  "part_pourcent": 1.4,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "12",
+  "libelle": "12. Hahaiah",
+  "effectif": 1449,
+  "part_pourcent": 1.45,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "13",
+  "libelle": "13. Iezalel",
+  "effectif": 1474,
+  "part_pourcent": 1.47,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "14",
+  "libelle": "14. Mebahel",
+  "effectif": 1480,
+  "part_pourcent": 1.48,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "15",
+  "libelle": "15. Hariel",
+  "effectif": 1396,
+  "part_pourcent": 1.4,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "16",
+  "libelle": "16. Hakamiah",
+  "effectif": 1446,
+  "part_pourcent": 1.45,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "17",
+  "libelle": "17. Lauviah",
+  "effectif": 1433,
+  "part_pourcent": 1.43,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "18",
+  "libelle": "18. Caliel",
+  "effectif": 1412,
+  "part_pourcent": 1.41,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "19",
+  "libelle": "19. Leuviah",
+  "effectif": 1441,
+  "part_pourcent": 1.44,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "20",
+  "libelle": "20. Pahaliah",
+  "effectif": 1413,
+  "part_pourcent": 1.41,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "21",
+  "libelle": "21. Nelchael",
+  "effectif": 1433,
+  "part_pourcent": 1.43,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "22",
+  "libelle": "22. Ieiaiel",
+  "effectif": 1486,
+  "part_pourcent": 1.49,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "23",
+  "libelle": "23. Melahel",
+  "effectif": 1513,
+  "part_pourcent": 1.51,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "24",
+  "libelle": "24. Hahiuiah",
+  "effectif": 1457,
+  "part_pourcent": 1.46,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "25",
+  "libelle": "25. Nith-Haiah",
+  "effectif": 1430,
+  "part_pourcent": 1.43,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "26",
+  "libelle": "26. Haaiah",
+  "effectif": 1365,
+  "part_pourcent": 1.37,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "27",
+  "libelle": "27. Ierathel",
+  "effectif": 1416,
+  "part_pourcent": 1.42,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "28",
+  "libelle": "28. Séheiah",
+  "effectif": 1441,
+  "part_pourcent": 1.44,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "29",
+  "libelle": "29. Reiiel",
+  "effectif": 1362,
+  "part_pourcent": 1.36,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "30",
+  "libelle": "30. Omael",
+  "effectif": 1381,
+  "part_pourcent": 1.38,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "31",
+  "libelle": "31. Lecabel",
+  "effectif": 1450,
+  "part_pourcent": 1.45,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "32",
+  "libelle": "32. Vasariah",
+  "effectif": 1428,
+  "part_pourcent": 1.43,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "33",
+  "libelle": "33. Iehuiah",
+  "effectif": 1436,
+  "part_pourcent": 1.44,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "34",
+  "libelle": "34. Lehahiah",
+  "effectif": 1427,
+  "part_pourcent": 1.43,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "35",
+  "libelle": "35. Chavakiah",
+  "effectif": 1418,
+  "part_pourcent": 1.42,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "36",
+  "libelle": "36. Menadel",
+  "effectif": 1391,
+  "part_pourcent": 1.39,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "37",
+  "libelle": "37. Aniel",
+  "effectif": 1413,
+  "part_pourcent": 1.41,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "38",
+  "libelle": "38. Haamiah",
+  "effectif": 1308,
+  "part_pourcent": 1.31,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "39",
+  "libelle": "39. Rehael",
+  "effectif": 1388,
+  "part_pourcent": 1.39,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "40",
+  "libelle": "40. Ieiazel",
+  "effectif": 1410,
+  "part_pourcent": 1.41,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "41",
+  "libelle": "41. Hahahel",
+  "effectif": 1357,
+  "part_pourcent": 1.36,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "42",
+  "libelle": "42. Mikael",
+  "effectif": 1334,
+  "part_pourcent": 1.33,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "43",
+  "libelle": "43. Veualiah",
+  "effectif": 1268,
+  "part_pourcent": 1.27,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "44",
+  "libelle": "44. Ielahiah",
+  "effectif": 1345,
+  "part_pourcent": 1.35,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "45",
+  "libelle": "45. Sealiah",
+  "effectif": 1358,
+  "part_pourcent": 1.36,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "46",
+  "libelle": "46. Ariel",
+  "effectif": 1468,
+  "part_pourcent": 1.47,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "47",
+  "libelle": "47. Asaliah",
+  "effectif": 1353,
+  "part_pourcent": 1.35,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "48",
+  "libelle": "48. Mihael",
+  "effectif": 1400,
+  "part_pourcent": 1.4,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "49",
+  "libelle": "49. Vehuel",
+  "effectif": 1367,
+  "part_pourcent": 1.37,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "50",
+  "libelle": "50. Daniel",
+  "effectif": 1370,
+  "part_pourcent": 1.37,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "51",
+  "libelle": "51. Hahasiah",
+  "effectif": 1307,
+  "part_pourcent": 1.31,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "52",
+  "libelle": "52. Imamiah",
+  "effectif": 1379,
+  "part_pourcent": 1.38,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "53",
+  "libelle": "53. Nanael",
+  "effectif": 1383,
+  "part_pourcent": 1.38,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "54",
+  "libelle": "54. Nithael",
+  "effectif": 1354,
+  "part_pourcent": 1.35,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "55",
+  "libelle": "55. Mebahiah",
+  "effectif": 1364,
+  "part_pourcent": 1.36,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "56",
+  "libelle": "56. Poiel",
+  "effectif": 1334,
+  "part_pourcent": 1.33,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "57",
+  "libelle": "57. Nemamiah",
+  "effectif": 1321,
+  "part_pourcent": 1.32,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "58",
+  "libelle": "58. Ieialel",
+  "effectif": 1335,
+  "part_pourcent": 1.34,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "59",
+  "libelle": "59. Harahel",
+  "effectif": 1325,
+  "part_pourcent": 1.33,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "60",
+  "libelle": "60. Mitzrael",
+  "effectif": 1369,
+  "part_pourcent": 1.37,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "61",
+  "libelle": "61. Umabel",
+  "effectif": 1351,
+  "part_pourcent": 1.35,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "62",
+  "libelle": "62. Iah-hel",
+  "effectif": 1369,
+  "part_pourcent": 1.37,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "63",
+  "libelle": "63. Anauel",
+  "effectif": 1311,
+  "part_pourcent": 1.31,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "64",
+  "libelle": "64. Mehiel",
+  "effectif": 1291,
+  "part_pourcent": 1.29,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "65",
+  "libelle": "65. Damabiah",
+  "effectif": 1401,
+  "part_pourcent": 1.4,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "66",
+  "libelle": "66. Manakel",
+  "effectif": 1337,
+  "part_pourcent": 1.34,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "67",
+  "libelle": "67. Eiael",
+  "effectif": 1350,
+  "part_pourcent": 1.35,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "68",
+  "libelle": "68. Habuhiah",
+  "effectif": 1425,
+  "part_pourcent": 1.43,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "69",
+  "libelle": "69. Rochel",
+  "effectif": 1409,
+  "part_pourcent": 1.41,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "70",
+  "libelle": "70. Jabamiah",
+  "effectif": 1381,
+  "part_pourcent": 1.38,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "71",
+  "libelle": "71. Haiaiel",
+  "effectif": 1377,
+  "part_pourcent": 1.38,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, corps physique (72 anges)",
+  "code": "72",
+  "libelle": "72. Mumiah",
+  "effectif": 1336,
+  "part_pourcent": 1.34,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "372",
+  "libelle": "Croix d’Angle Droit de l’Imprévu IV",
+  "effectif": 1033,
+  "part_pourcent": 1.03,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "373",
+  "libelle": "Croix de Juxtaposition de la Fantaisie",
+  "effectif": 35,
+  "part_pourcent": 0.04,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "374",
+  "libelle": "Croix d’Angle Gauche de l’Alpha II",
+  "effectif": 508,
+  "part_pourcent": 0.51,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "375",
+  "libelle": "Croix d’Angle Droit des Quatre Chemins IV",
+  "effectif": 990,
+  "part_pourcent": 0.99,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "376",
+  "libelle": "Croix de Juxtaposition du Besoin",
+  "effectif": 29,
+  "part_pourcent": 0.03,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "377",
+  "libelle": "Croix d’Angle Gauche du Raffinement II",
+  "effectif": 506,
+  "part_pourcent": 0.51,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "378",
+  "libelle": "Croix d’Angle Droit du Sphinx I",
+  "effectif": 884,
+  "part_pourcent": 0.88,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "379",
+  "libelle": "Croix de Juxtaposition de l’Écoute",
+  "effectif": 26,
+  "part_pourcent": 0.03,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "380",
+  "libelle": "Croix d’Angle Gauche des Masques I",
+  "effectif": 513,
+  "part_pourcent": 0.51,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "381",
+  "libelle": "Croix d’Angle Droit de l’Explication I",
+  "effectif": 1016,
+  "part_pourcent": 1.02,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "382",
+  "libelle": "Croix de Juxtaposition des Principes",
+  "effectif": 30,
+  "part_pourcent": 0.03,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "383",
+  "libelle": "Croix d’Angle Droit de la Contagion I",
+  "effectif": 938,
+  "part_pourcent": 0.94,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "384",
+  "libelle": "Croix de Juxtaposition du Destin",
+  "effectif": 37,
+  "part_pourcent": 0.04,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "385",
+  "libelle": "Croix d’Angle Gauche de l’Industrie I",
+  "effectif": 523,
+  "part_pourcent": 0.52,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "386",
+  "libelle": "Croix d’Angle Droit du Phénix Dormant I",
+  "effectif": 996,
+  "part_pourcent": 1.0,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "387",
+  "libelle": "Croix de Juxtaposition des Humeurs",
+  "effectif": 40,
+  "part_pourcent": 0.04,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "388",
+  "libelle": "Croix d’Angle Gauche de l’Esprit I",
+  "effectif": 486,
+  "part_pourcent": 0.49,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "389",
+  "libelle": "Croix d’Angle Droit de la Planification I",
+  "effectif": 1041,
+  "part_pourcent": 1.04,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "390",
+  "libelle": "Croix de Juxtaposition des Négociations",
+  "effectif": 32,
+  "part_pourcent": 0.03,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "391",
+  "libelle": "Croix d’Angle Gauche de la Migration I",
+  "effectif": 525,
+  "part_pourcent": 0.53,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "392",
+  "libelle": "Croix d’Angle Droit de la Conscience I",
+  "effectif": 1030,
+  "part_pourcent": 1.03,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "393",
+  "libelle": "Croix de Juxtaposition des Doutes",
+  "effectif": 31,
+  "part_pourcent": 0.03,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "394",
+  "libelle": "Croix d’Angle Gauche de Dominion I",
+  "effectif": 531,
+  "part_pourcent": 0.53,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "395",
+  "libelle": "Croix d’Angle Droit de la Dominance I",
+  "effectif": 996,
+  "part_pourcent": 1.0,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "396",
+  "libelle": "Croix de Juxtaposition de la Grâce",
+  "effectif": 35,
+  "part_pourcent": 0.04,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "397",
+  "libelle": "Croix d’Angle Gauche de la Divulgation I",
+  "effectif": 514,
+  "part_pourcent": 0.51,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "398",
+  "libelle": "Croix d’Angle Droit de l’Éden I",
+  "effectif": 984,
+  "part_pourcent": 0.98,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "399",
+  "libelle": "Croix de Juxtaposition de la Crise",
+  "effectif": 39,
+  "part_pourcent": 0.04,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "400",
+  "libelle": "Croix d’Angle Gauche du Plan Matériel I",
+  "effectif": 498,
+  "part_pourcent": 0.5,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "401",
+  "libelle": "Croix d’Angle Droit du Vaisseau de l’Amour I",
+  "effectif": 982,
+  "part_pourcent": 0.98,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "402",
+  "libelle": "Croix de Juxtaposition de l’Innocence",
+  "effectif": 32,
+  "part_pourcent": 0.03,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "403",
+  "libelle": "Croix d’Angle Gauche de la Guérison I",
+  "effectif": 505,
+  "part_pourcent": 0.51,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "404",
+  "libelle": "Croix d’Angle Droit du Service I",
+  "effectif": 997,
+  "part_pourcent": 1.0,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "405",
+  "libelle": "Croix de Juxtaposition des Opinions",
+  "effectif": 35,
+  "part_pourcent": 0.04,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "406",
+  "libelle": "Croix d’Angle Gauche du Bouleversement I",
+  "effectif": 506,
+  "part_pourcent": 0.51,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "407",
+  "libelle": "Croix d’Angle Droit de la Tension I",
+  "effectif": 1006,
+  "part_pourcent": 1.01,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "408",
+  "libelle": "Croix de Juxtaposition du Contrôle",
+  "effectif": 29,
+  "part_pourcent": 0.03,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "409",
+  "libelle": "Croix d’Angle Gauche de l’Effort I",
+  "effectif": 550,
+  "part_pourcent": 0.55,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "410",
+  "libelle": "Croix d’Angle Droit de la Pénétration I",
+  "effectif": 1030,
+  "part_pourcent": 1.03,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "411",
+  "libelle": "Croix de Juxtaposition du Choc",
+  "effectif": 32,
+  "part_pourcent": 0.03,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "412",
+  "libelle": "Croix d’Angle Gauche du Clairon I",
+  "effectif": 510,
+  "part_pourcent": 0.51,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "413",
+  "libelle": "Croix d’Angle Droit de Maïa I",
+  "effectif": 1013,
+  "part_pourcent": 1.01,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "414",
+  "libelle": "Croix de Juxtaposition de l’Accomplissement",
+  "effectif": 42,
+  "part_pourcent": 0.04,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "415",
+  "libelle": "Croix d’Angle Gauche de la Limitation I",
+  "effectif": 553,
+  "part_pourcent": 0.55,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "416",
+  "libelle": "Croix d’Angle Droit des Lois I",
+  "effectif": 955,
+  "part_pourcent": 0.96,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "417",
+  "libelle": "Croix de Juxtaposition de la Mutation",
+  "effectif": 34,
+  "part_pourcent": 0.03,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "418",
+  "libelle": "Croix d’Angle Droit de l’Imprévu I",
+  "effectif": 1020,
+  "part_pourcent": 1.02,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "419",
+  "libelle": "Croix de Juxtaposition de la Bienveillance",
+  "effectif": 30,
+  "part_pourcent": 0.03,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "420",
+  "libelle": "Croix d’Angle Gauche de l’Alignement I",
+  "effectif": 544,
+  "part_pourcent": 0.54,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "421",
+  "libelle": "Croix d’Angle Droit des Quatre Chemins I",
+  "effectif": 1034,
+  "part_pourcent": 1.03,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "422",
+  "libelle": "Croix de Juxtaposition de la Rationalisation",
+  "effectif": 32,
+  "part_pourcent": 0.03,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "423",
+  "libelle": "Croix d’Angle Gauche de l’Incarnation I",
+  "effectif": 503,
+  "part_pourcent": 0.5,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "424",
+  "libelle": "Croix d’Angle Droit de l’Explication II",
+  "effectif": 1018,
+  "part_pourcent": 1.02,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "425",
+  "libelle": "Croix de Juxtaposition de l’Intégration",
+  "effectif": 36,
+  "part_pourcent": 0.04,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "426",
+  "libelle": "Croix d’Angle Gauche du Dévouement I",
+  "effectif": 518,
+  "part_pourcent": 0.52,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "427",
+  "libelle": "Croix d’Angle Droit de la Contagion II",
+  "effectif": 1045,
+  "part_pourcent": 1.05,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "428",
+  "libelle": "Croix de Juxtaposition de la Contribution",
+  "effectif": 34,
+  "part_pourcent": 0.03,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "429",
+  "libelle": "Croix d’Angle Gauche de l’Incertitude I",
+  "effectif": 564,
+  "part_pourcent": 0.56,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "430",
+  "libelle": "Croix d’Angle Droit du Phénix Dormant II",
+  "effectif": 1070,
+  "part_pourcent": 1.07,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "431",
+  "libelle": "Croix de Juxtaposition du Moment Présent",
+  "effectif": 37,
+  "part_pourcent": 0.04,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "432",
+  "libelle": "Croix d’Angle Gauche de la Dualité I",
+  "effectif": 538,
+  "part_pourcent": 0.54,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "433",
+  "libelle": "Croix d’Angle Droit de la Planification II",
+  "effectif": 1075,
+  "part_pourcent": 1.08,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "434",
+  "libelle": "Croix de Juxtaposition de l’Expérimentation",
+  "effectif": 43,
+  "part_pourcent": 0.04,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "435",
+  "libelle": "Croix d’Angle Gauche de l’Identification I",
+  "effectif": 572,
+  "part_pourcent": 0.57,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "436",
+  "libelle": "Croix d’Angle Droit de la Conscience II",
+  "effectif": 980,
+  "part_pourcent": 0.98,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "437",
+  "libelle": "Croix de Juxtaposition de l’Expérience",
+  "effectif": 40,
+  "part_pourcent": 0.04,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "438",
+  "libelle": "Croix d’Angle Gauche de la Séparation I",
+  "effectif": 540,
+  "part_pourcent": 0.54,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "439",
+  "libelle": "Croix d’Angle Droit de la Dominance II",
+  "effectif": 1044,
+  "part_pourcent": 1.04,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "440",
+  "libelle": "Croix de Juxtaposition de la Possession",
+  "effectif": 38,
+  "part_pourcent": 0.04,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "441",
+  "libelle": "Croix d’Angle Gauche de la Confrontation I",
+  "effectif": 539,
+  "part_pourcent": 0.54,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "442",
+  "libelle": "Croix d’Angle Droit de l’Éden II",
+  "effectif": 1065,
+  "part_pourcent": 1.07,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "443",
+  "libelle": "Croix de Juxtaposition de l’Éloquence",
+  "effectif": 29,
+  "part_pourcent": 0.03,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "444",
+  "libelle": "Croix d’Angle Gauche de l’Éducation I",
+  "effectif": 512,
+  "part_pourcent": 0.51,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "445",
+  "libelle": "Croix de Juxtaposition des Extrêmes",
+  "effectif": 35,
+  "part_pourcent": 0.04,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "446",
+  "libelle": "Croix d’Angle Gauche de la Prévention I",
+  "effectif": 552,
+  "part_pourcent": 0.55,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "447",
+  "libelle": "Croix d’Angle Droit du Service II",
+  "effectif": 981,
+  "part_pourcent": 0.98,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "448",
+  "libelle": "Croix de Juxtaposition de l’Immobilité du Calme",
+  "effectif": 40,
+  "part_pourcent": 0.04,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "449",
+  "libelle": "Croix d’Angle Gauche des Demandes I",
+  "effectif": 513,
+  "part_pourcent": 0.51,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "450",
+  "libelle": "Croix d’Angle Droit de la Tension II",
+  "effectif": 1102,
+  "part_pourcent": 1.1,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "451",
+  "libelle": "Croix de Juxtaposition de la Provocation",
+  "effectif": 27,
+  "part_pourcent": 0.03,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "452",
+  "libelle": "Croix d’Angle Gauche de l’Individualisme I",
+  "effectif": 512,
+  "part_pourcent": 0.51,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "453",
+  "libelle": "Croix d’Angle Droit de la Pénétration II",
+  "effectif": 1037,
+  "part_pourcent": 1.04,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "454",
+  "libelle": "Croix de Juxtaposition des Commencements",
+  "effectif": 47,
+  "part_pourcent": 0.05,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "455",
+  "libelle": "Croix d’Angle Gauche des Cycles I",
+  "effectif": 585,
+  "part_pourcent": 0.59,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "456",
+  "libelle": "Croix d’Angle Droit de Maïa II",
+  "effectif": 1092,
+  "part_pourcent": 1.09,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "457",
+  "libelle": "Croix de Juxtaposition du Détail",
+  "effectif": 43,
+  "part_pourcent": 0.04,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "458",
+  "libelle": "Croix d’Angle Gauche de l’Obscurantisme I",
+  "effectif": 530,
+  "part_pourcent": 0.53,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "459",
+  "libelle": "Croix d’Angle Droit des Lois II",
+  "effectif": 1082,
+  "part_pourcent": 1.08,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "460",
+  "libelle": "Croix de Juxtaposition de la Stimulation",
+  "effectif": 28,
+  "part_pourcent": 0.03,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "461",
+  "libelle": "Croix d’Angle Gauche de la Distraction I",
+  "effectif": 527,
+  "part_pourcent": 0.53,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "462",
+  "libelle": "Croix d’Angle Droit de l’Imprévu II",
+  "effectif": 1048,
+  "part_pourcent": 1.05,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "463",
+  "libelle": "Croix de Juxtaposition de l’Influence",
+  "effectif": 35,
+  "part_pourcent": 0.04,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "464",
+  "libelle": "Croix d’Angle Gauche de l’Alpha I",
+  "effectif": 507,
+  "part_pourcent": 0.51,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "465",
+  "libelle": "Croix d’Angle Droit des Quatre Chemins II",
+  "effectif": 1015,
+  "part_pourcent": 1.02,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "466",
+  "libelle": "Croix de Juxtaposition de la Retraite",
+  "effectif": 45,
+  "part_pourcent": 0.05,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "467",
+  "libelle": "Croix d’Angle Gauche du Raffinement I",
+  "effectif": 500,
+  "part_pourcent": 0.5,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "468",
+  "libelle": "Croix de Juxtaposition de l’Interaction",
+  "effectif": 49,
+  "part_pourcent": 0.05,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "469",
+  "libelle": "Croix de Juxtaposition de l’Expression des Formules",
+  "effectif": 32,
+  "part_pourcent": 0.03,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "470",
+  "libelle": "Croix d’Angle Droit de la Contagion III",
+  "effectif": 982,
+  "part_pourcent": 0.98,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "471",
+  "libelle": "Croix de Juxtaposition de l’Engagement",
+  "effectif": 25,
+  "part_pourcent": 0.03,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "472",
+  "libelle": "Croix d’Angle Gauche de l’Industrie II",
+  "effectif": 556,
+  "part_pourcent": 0.56,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "473",
+  "libelle": "Croix d’Angle Droit du Phénix Dormant III",
+  "effectif": 1050,
+  "part_pourcent": 1.05,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "474",
+  "libelle": "Croix de Juxtaposition de la Stratégie",
+  "effectif": 40,
+  "part_pourcent": 0.04,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "475",
+  "libelle": "Croix d’Angle Gauche de l’Esprit II",
+  "effectif": 532,
+  "part_pourcent": 0.53,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "476",
+  "libelle": "Croix d’Angle Droit de la Planification III",
+  "effectif": 1046,
+  "part_pourcent": 1.05,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "477",
+  "libelle": "Croix de Juxtaposition du Démenti",
+  "effectif": 37,
+  "part_pourcent": 0.04,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "478",
+  "libelle": "Croix d’Angle Gauche de la Migration II",
+  "effectif": 542,
+  "part_pourcent": 0.54,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "479",
+  "libelle": "Croix d’Angle Droit de la Conscience III",
+  "effectif": 1032,
+  "part_pourcent": 1.03,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "480",
+  "libelle": "Croix de Juxtaposition de la Confusion",
+  "effectif": 43,
+  "part_pourcent": 0.04,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "481",
+  "libelle": "Croix d’Angle Gauche de Dominion II",
+  "effectif": 542,
+  "part_pourcent": 0.54,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "482",
+  "libelle": "Croix d’Angle Droit de la Dominance III",
+  "effectif": 1032,
+  "part_pourcent": 1.03,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "483",
+  "libelle": "Croix de Juxtaposition de l’Oppression",
+  "effectif": 31,
+  "part_pourcent": 0.03,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "484",
+  "libelle": "Croix d’Angle Gauche de la Divulgation II",
+  "effectif": 514,
+  "part_pourcent": 0.51,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "485",
+  "libelle": "Croix d’Angle Droit de l’Éden III",
+  "effectif": 1045,
+  "part_pourcent": 1.05,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "486",
+  "libelle": "Croix de Juxtaposition du Conflit",
+  "effectif": 39,
+  "part_pourcent": 0.04,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "487",
+  "libelle": "Croix d’Angle Gauche du Plan Matériel II",
+  "effectif": 519,
+  "part_pourcent": 0.52,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "488",
+  "libelle": "Croix de Juxtaposition de la Coïncidence",
+  "effectif": 43,
+  "part_pourcent": 0.04,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "489",
+  "libelle": "Croix d’Angle Droit du Service III",
+  "effectif": 1020,
+  "part_pourcent": 1.02,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "490",
+  "libelle": "Croix de Juxtaposition de la Correction",
+  "effectif": 36,
+  "part_pourcent": 0.04,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "491",
+  "libelle": "Croix d’Angle Gauche du Bouleversement II",
+  "effectif": 470,
+  "part_pourcent": 0.47,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "492",
+  "libelle": "Croix d’Angle Droit de la Tension III",
+  "effectif": 977,
+  "part_pourcent": 0.98,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "493",
+  "libelle": "Croix de Juxtaposition de la Profondeur",
+  "effectif": 30,
+  "part_pourcent": 0.03,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "494",
+  "libelle": "Croix d’Angle Gauche de l’Effort II",
+  "effectif": 545,
+  "part_pourcent": 0.55,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "495",
+  "libelle": "Croix d’Angle Droit de la Pénétration III",
+  "effectif": 1038,
+  "part_pourcent": 1.04,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "496",
+  "libelle": "Croix de Juxtaposition de l’Intuition",
+  "effectif": 36,
+  "part_pourcent": 0.04,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "497",
+  "libelle": "Croix d’Angle Gauche du Clairon II",
+  "effectif": 509,
+  "part_pourcent": 0.51,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "498",
+  "libelle": "Croix d’Angle Droit de Maïa III",
+  "effectif": 961,
+  "part_pourcent": 0.96,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "499",
+  "libelle": "Croix de Juxtaposition de la Conservation",
+  "effectif": 24,
+  "part_pourcent": 0.02,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "500",
+  "libelle": "Croix d’Angle Gauche de la Limitation II",
+  "effectif": 561,
+  "part_pourcent": 0.56,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "501",
+  "libelle": "Croix d’Angle Droit des Lois III",
+  "effectif": 935,
+  "part_pourcent": 0.94,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "502",
+  "libelle": "Croix de Juxtaposition des Valeurs",
+  "effectif": 29,
+  "part_pourcent": 0.03,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "503",
+  "libelle": "Croix d’Angle Gauche des Souhaits II",
+  "effectif": 484,
+  "part_pourcent": 0.48,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "504",
+  "libelle": "Croix d’Angle Droit de l’Imprévu III",
+  "effectif": 915,
+  "part_pourcent": 0.92,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "505",
+  "libelle": "Croix de Juxtaposition des Risques",
+  "effectif": 33,
+  "part_pourcent": 0.03,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "506",
+  "libelle": "Croix d’Angle Gauche de l’Alignement II",
+  "effectif": 492,
+  "part_pourcent": 0.49,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "507",
+  "libelle": "Croix d’Angle Droit des Quatre Chemins III",
+  "effectif": 1008,
+  "part_pourcent": 1.01,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "508",
+  "libelle": "Croix de Juxtaposition de la Vigilance",
+  "effectif": 31,
+  "part_pourcent": 0.03,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "509",
+  "libelle": "Croix d’Angle Gauche de l’Incarnation II",
+  "effectif": 503,
+  "part_pourcent": 0.5,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "510",
+  "libelle": "Croix de Juxtaposition de l’Expression de Soi",
+  "effectif": 36,
+  "part_pourcent": 0.04,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "511",
+  "libelle": "Croix d’Angle Gauche du Défi II",
+  "effectif": 536,
+  "part_pourcent": 0.54,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "512",
+  "libelle": "Croix d’Angle Droit de l’Explication IV",
+  "effectif": 987,
+  "part_pourcent": 0.99,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "513",
+  "libelle": "Croix de Juxtaposition de la Perspicacité",
+  "effectif": 55,
+  "part_pourcent": 0.06,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "514",
+  "libelle": "Croix d’Angle Gauche du Dévouement II",
+  "effectif": 523,
+  "part_pourcent": 0.52,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "515",
+  "libelle": "Croix d’Angle Droit de la Contagion IV",
+  "effectif": 1008,
+  "part_pourcent": 1.01,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "516",
+  "libelle": "Croix de Juxtaposition de la Valorisation",
+  "effectif": 30,
+  "part_pourcent": 0.03,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "517",
+  "libelle": "Croix d’Angle Gauche de l’Incertitude II",
+  "effectif": 533,
+  "part_pourcent": 0.53,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "518",
+  "libelle": "Croix d’Angle Droit du Phénix Dormant IV",
+  "effectif": 995,
+  "part_pourcent": 1.0,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "519",
+  "libelle": "Croix de Juxtaposition du Pouvoir",
+  "effectif": 22,
+  "part_pourcent": 0.02,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "520",
+  "libelle": "Croix d’Angle Gauche de la Dualité II",
+  "effectif": 528,
+  "part_pourcent": 0.53,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "521",
+  "libelle": "Croix d’Angle Droit de la Planification IV",
+  "effectif": 991,
+  "part_pourcent": 0.99,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "522",
+  "libelle": "Croix de Juxtaposition de la Focalisation",
+  "effectif": 33,
+  "part_pourcent": 0.03,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "523",
+  "libelle": "Croix d’Angle Gauche de l’Identification II",
+  "effectif": 488,
+  "part_pourcent": 0.49,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "524",
+  "libelle": "Croix d’Angle Droit de la Conscience IV",
+  "effectif": 952,
+  "part_pourcent": 0.95,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "525",
+  "libelle": "Croix de Juxtaposition des Habitudes",
+  "effectif": 36,
+  "part_pourcent": 0.04,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "526",
+  "libelle": "Croix d’Angle Gauche de la Séparation II",
+  "effectif": 533,
+  "part_pourcent": 0.53,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "527",
+  "libelle": "Croix d’Angle Droit de la Dominance IV",
+  "effectif": 977,
+  "part_pourcent": 0.98,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "528",
+  "libelle": "Croix de Juxtaposition du Tricheur",
+  "effectif": 34,
+  "part_pourcent": 0.03,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "529",
+  "libelle": "Croix d’Angle Gauche de la Confrontation II",
+  "effectif": 516,
+  "part_pourcent": 0.52,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "530",
+  "libelle": "Croix d’Angle Droit de l’Éden IV",
+  "effectif": 985,
+  "part_pourcent": 0.99,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "531",
+  "libelle": "Croix de Juxtaposition des Idées",
+  "effectif": 43,
+  "part_pourcent": 0.04,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "532",
+  "libelle": "Croix d’Angle Gauche de l’Éducation II",
+  "effectif": 512,
+  "part_pourcent": 0.51,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "533",
+  "libelle": "Croix de Juxtaposition du Comportement",
+  "effectif": 31,
+  "part_pourcent": 0.03,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "534",
+  "libelle": "Croix d’Angle Droit du Service IV",
+  "effectif": 941,
+  "part_pourcent": 0.94,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "535",
+  "libelle": "Croix de Juxtaposition de la Vitalité",
+  "effectif": 33,
+  "part_pourcent": 0.03,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "536",
+  "libelle": "Croix d’Angle Gauche des Demandes II",
+  "effectif": 522,
+  "part_pourcent": 0.52,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "537",
+  "libelle": "Croix d’Angle Droit de la Tension IV",
+  "effectif": 980,
+  "part_pourcent": 0.98,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "538",
+  "libelle": "Croix de Juxtaposition de l’Opposition",
+  "effectif": 30,
+  "part_pourcent": 0.03,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "539",
+  "libelle": "Croix d’Angle Gauche de l’Individualisme II",
+  "effectif": 496,
+  "part_pourcent": 0.5,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "540",
+  "libelle": "Croix d’Angle Droit de la Pénétration IV",
+  "effectif": 982,
+  "part_pourcent": 0.98,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "541",
+  "libelle": "Croix de Juxtaposition de l’Ambition",
+  "effectif": 25,
+  "part_pourcent": 0.03,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "542",
+  "libelle": "Croix d’Angle Gauche des Cycles II",
+  "effectif": 475,
+  "part_pourcent": 0.48,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "543",
+  "libelle": "Croix d’Angle Droit de Maïa IV",
+  "effectif": 967,
+  "part_pourcent": 0.97,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "544",
+  "libelle": "Croix de Juxtaposition de la Pensée",
+  "effectif": 34,
+  "part_pourcent": 0.03,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "545",
+  "libelle": "Croix d’Angle Gauche de l’Obscurantisme II",
+  "effectif": 530,
+  "part_pourcent": 0.53,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "546",
+  "libelle": "Croix d’Angle Droit des Lois IV",
+  "effectif": 975,
+  "part_pourcent": 0.98,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "547",
+  "libelle": "Croix de Juxtaposition de la Limitation",
+  "effectif": 32,
+  "part_pourcent": 0.03,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "548",
+  "libelle": "Croix d’Angle Gauche de la Distraction II",
+  "effectif": 471,
+  "part_pourcent": 0.47,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "549",
+  "libelle": "Croix d’Angle Gauche de la Révolution I",
+  "effectif": 523,
+  "part_pourcent": 0.52,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "550",
+  "libelle": "Croix d’Angle Gauche des Souhaits I",
+  "effectif": 507,
+  "part_pourcent": 0.51,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "551",
+  "libelle": "Croix d’Angle Droit du Sphinx II",
+  "effectif": 1019,
+  "part_pourcent": 1.02,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "552",
+  "libelle": "Croix de Juxtaposition du Conducteur",
+  "effectif": 28,
+  "part_pourcent": 0.03,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "553",
+  "libelle": "Croix d’Angle Gauche du Défi I",
+  "effectif": 481,
+  "part_pourcent": 0.48,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "554",
+  "libelle": "Croix d’Angle Droit du Vaisseau de l’Amour II",
+  "effectif": 1049,
+  "part_pourcent": 1.05,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "555",
+  "libelle": "Croix d’Angle Droit du Sphinx III",
+  "effectif": 1048,
+  "part_pourcent": 1.05,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "556",
+  "libelle": "Croix d’Angle Gauche des Masques II",
+  "effectif": 532,
+  "part_pourcent": 0.53,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "557",
+  "libelle": "Croix d’Angle Droit de l’Explication III",
+  "effectif": 1016,
+  "part_pourcent": 1.02,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "558",
+  "libelle": "Croix d’Angle Gauche de la Révolution II",
+  "effectif": 485,
+  "part_pourcent": 0.49,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "559",
+  "libelle": "Croix d’Angle Droit du Vaisseau de l’Amour III",
+  "effectif": 974,
+  "part_pourcent": 0.97,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "560",
+  "libelle": "Croix d’Angle Gauche de la Guérison II",
+  "effectif": 522,
+  "part_pourcent": 0.52,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "561",
+  "libelle": "Croix d’Angle Droit du Sphinx IV",
+  "effectif": 1024,
+  "part_pourcent": 1.02,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "562",
+  "libelle": "Croix d’Angle Droit du Vaisseau de l’Amour IV",
+  "effectif": 986,
+  "part_pourcent": 0.99,
+  "naissances": 100000
+ },
+ {
+  "famille": "Croix d’incarnation (Human Design)",
+  "code": "563",
+  "libelle": "Croix d’Angle Gauche de la Prévention II",
+  "effectif": 521,
+  "part_pourcent": 0.52,
+  "naissances": 100000
+ },
+ {
+  "famille": "Chemin de vie (numérologie)",
+  "code": "1",
+  "libelle": "1",
+  "effectif": 11233,
+  "part_pourcent": 11.23,
+  "naissances": 100000
+ },
+ {
+  "famille": "Chemin de vie (numérologie)",
+  "code": "2",
+  "libelle": "2",
+  "effectif": 4716,
+  "part_pourcent": 4.72,
+  "naissances": 100000
+ },
+ {
+  "famille": "Chemin de vie (numérologie)",
+  "code": "3",
+  "libelle": "3",
+  "effectif": 11280,
+  "part_pourcent": 11.28,
+  "naissances": 100000
+ },
+ {
+  "famille": "Chemin de vie (numérologie)",
+  "code": "4",
+  "libelle": "4",
+  "effectif": 7902,
+  "part_pourcent": 7.9,
+  "naissances": 100000
+ },
+ {
+  "famille": "Chemin de vie (numérologie)",
+  "code": "5",
+  "libelle": "5",
+  "effectif": 10902,
+  "part_pourcent": 10.9,
+  "naissances": 100000
+ },
+ {
+  "famille": "Chemin de vie (numérologie)",
+  "code": "6",
+  "libelle": "6",
+  "effectif": 10291,
+  "part_pourcent": 10.29,
+  "naissances": 100000
+ },
+ {
+  "famille": "Chemin de vie (numérologie)",
+  "code": "7",
+  "libelle": "7",
+  "effectif": 11112,
+  "part_pourcent": 11.11,
+  "naissances": 100000
+ },
+ {
+  "famille": "Chemin de vie (numérologie)",
+  "code": "8",
+  "libelle": "8",
+  "effectif": 11252,
+  "part_pourcent": 11.25,
+  "naissances": 100000
+ },
+ {
+  "famille": "Chemin de vie (numérologie)",
+  "code": "9",
+  "libelle": "9",
+  "effectif": 11167,
+  "part_pourcent": 11.17,
+  "naissances": 100000
+ },
+ {
+  "famille": "Chemin de vie (numérologie)",
+  "code": "11",
+  "libelle": "11",
+  "effectif": 6316,
+  "part_pourcent": 6.32,
+  "naissances": 100000
+ },
+ {
+  "famille": "Chemin de vie (numérologie)",
+  "code": "22",
+  "libelle": "22",
+  "effectif": 3117,
+  "part_pourcent": 3.12,
+  "naissances": 100000
+ },
+ {
+  "famille": "Chemin de vie (numérologie)",
+  "code": "33",
+  "libelle": "33",
+  "effectif": 712,
+  "part_pourcent": 0.71,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "1",
+  "libelle": "1. Vehuiah",
+  "effectif": 1632,
+  "part_pourcent": 1.63,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "2",
+  "libelle": "2. Jeliel",
+  "effectif": 1625,
+  "part_pourcent": 1.63,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "3",
+  "libelle": "3. Sitael",
+  "effectif": 1570,
+  "part_pourcent": 1.57,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "4",
+  "libelle": "4. Elemiah",
+  "effectif": 1592,
+  "part_pourcent": 1.59,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "5",
+  "libelle": "5. Mahasiah",
+  "effectif": 1568,
+  "part_pourcent": 1.57,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "6",
+  "libelle": "6. Lelahel",
+  "effectif": 1340,
+  "part_pourcent": 1.34,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "7",
+  "libelle": "7. Achaiah",
+  "effectif": 1348,
+  "part_pourcent": 1.35,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "8",
+  "libelle": "8. Cahethel",
+  "effectif": 1340,
+  "part_pourcent": 1.34,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "9",
+  "libelle": "9. Haziel",
+  "effectif": 1323,
+  "part_pourcent": 1.32,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "10",
+  "libelle": "10. Aladiah",
+  "effectif": 1372,
+  "part_pourcent": 1.37,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "11",
+  "libelle": "11. Lauviah",
+  "effectif": 1360,
+  "part_pourcent": 1.36,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "12",
+  "libelle": "12. Hahaiah",
+  "effectif": 1338,
+  "part_pourcent": 1.34,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "13",
+  "libelle": "13. Iezalel",
+  "effectif": 1367,
+  "part_pourcent": 1.37,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "14",
+  "libelle": "14. Mebahel",
+  "effectif": 1396,
+  "part_pourcent": 1.4,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "15",
+  "libelle": "15. Hariel",
+  "effectif": 1411,
+  "part_pourcent": 1.41,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "16",
+  "libelle": "16. Hakamiah",
+  "effectif": 1373,
+  "part_pourcent": 1.37,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "17",
+  "libelle": "17. Lauviah",
+  "effectif": 1454,
+  "part_pourcent": 1.45,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "18",
+  "libelle": "18. Caliel",
+  "effectif": 1373,
+  "part_pourcent": 1.37,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "19",
+  "libelle": "19. Leuviah",
+  "effectif": 1344,
+  "part_pourcent": 1.34,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "20",
+  "libelle": "20. Pahaliah",
+  "effectif": 1389,
+  "part_pourcent": 1.39,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "21",
+  "libelle": "21. Nelchael",
+  "effectif": 1329,
+  "part_pourcent": 1.33,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "22",
+  "libelle": "22. Ieiaiel",
+  "effectif": 1451,
+  "part_pourcent": 1.45,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "23",
+  "libelle": "23. Melahel",
+  "effectif": 1336,
+  "part_pourcent": 1.34,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "24",
+  "libelle": "24. Hahiuiah",
+  "effectif": 1455,
+  "part_pourcent": 1.46,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "25",
+  "libelle": "25. Nith-Haiah",
+  "effectif": 1399,
+  "part_pourcent": 1.4,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "26",
+  "libelle": "26. Haaiah",
+  "effectif": 1333,
+  "part_pourcent": 1.33,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "27",
+  "libelle": "27. Ierathel",
+  "effectif": 1393,
+  "part_pourcent": 1.39,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "28",
+  "libelle": "28. Séheiah",
+  "effectif": 1334,
+  "part_pourcent": 1.33,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "29",
+  "libelle": "29. Reiiel",
+  "effectif": 1379,
+  "part_pourcent": 1.38,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "30",
+  "libelle": "30. Omael",
+  "effectif": 1394,
+  "part_pourcent": 1.39,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "31",
+  "libelle": "31. Lecabel",
+  "effectif": 1339,
+  "part_pourcent": 1.34,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "32",
+  "libelle": "32. Vasariah",
+  "effectif": 1345,
+  "part_pourcent": 1.35,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "33",
+  "libelle": "33. Iehuiah",
+  "effectif": 1371,
+  "part_pourcent": 1.37,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "34",
+  "libelle": "34. Lehahiah",
+  "effectif": 1375,
+  "part_pourcent": 1.38,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "35",
+  "libelle": "35. Chavakiah",
+  "effectif": 1362,
+  "part_pourcent": 1.36,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "36",
+  "libelle": "36. Menadel",
+  "effectif": 1360,
+  "part_pourcent": 1.36,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "37",
+  "libelle": "37. Aniel",
+  "effectif": 1318,
+  "part_pourcent": 1.32,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "38",
+  "libelle": "38. Haamiah",
+  "effectif": 1403,
+  "part_pourcent": 1.4,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "39",
+  "libelle": "39. Rehael",
+  "effectif": 1388,
+  "part_pourcent": 1.39,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "40",
+  "libelle": "40. Ieiazel",
+  "effectif": 1410,
+  "part_pourcent": 1.41,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "41",
+  "libelle": "41. Hahahel",
+  "effectif": 1333,
+  "part_pourcent": 1.33,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "42",
+  "libelle": "42. Mikael",
+  "effectif": 1385,
+  "part_pourcent": 1.39,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "43",
+  "libelle": "43. Veualiah",
+  "effectif": 1375,
+  "part_pourcent": 1.38,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "44",
+  "libelle": "44. Ielahiah",
+  "effectif": 1376,
+  "part_pourcent": 1.38,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "45",
+  "libelle": "45. Sealiah",
+  "effectif": 1359,
+  "part_pourcent": 1.36,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "46",
+  "libelle": "46. Ariel",
+  "effectif": 1350,
+  "part_pourcent": 1.35,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "47",
+  "libelle": "47. Asaliah",
+  "effectif": 1389,
+  "part_pourcent": 1.39,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "48",
+  "libelle": "48. Mihael",
+  "effectif": 1416,
+  "part_pourcent": 1.42,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "49",
+  "libelle": "49. Vehuel",
+  "effectif": 1355,
+  "part_pourcent": 1.36,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "50",
+  "libelle": "50. Daniel",
+  "effectif": 1324,
+  "part_pourcent": 1.32,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "51",
+  "libelle": "51. Hahasiah",
+  "effectif": 1421,
+  "part_pourcent": 1.42,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "52",
+  "libelle": "52. Imamiah",
+  "effectif": 1350,
+  "part_pourcent": 1.35,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "53",
+  "libelle": "53. Nanael",
+  "effectif": 1306,
+  "part_pourcent": 1.31,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "54",
+  "libelle": "54. Nithael",
+  "effectif": 1323,
+  "part_pourcent": 1.32,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "55",
+  "libelle": "55. Mebahiah",
+  "effectif": 1384,
+  "part_pourcent": 1.38,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "56",
+  "libelle": "56. Poiel",
+  "effectif": 1386,
+  "part_pourcent": 1.39,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "57",
+  "libelle": "57. Nemamiah",
+  "effectif": 1403,
+  "part_pourcent": 1.4,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "58",
+  "libelle": "58. Ieialel",
+  "effectif": 1498,
+  "part_pourcent": 1.5,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "59",
+  "libelle": "59. Harahel",
+  "effectif": 1380,
+  "part_pourcent": 1.38,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "60",
+  "libelle": "60. Mitzrael",
+  "effectif": 1334,
+  "part_pourcent": 1.33,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "61",
+  "libelle": "61. Umabel",
+  "effectif": 1362,
+  "part_pourcent": 1.36,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "62",
+  "libelle": "62. Iah-hel",
+  "effectif": 1450,
+  "part_pourcent": 1.45,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "63",
+  "libelle": "63. Anauel",
+  "effectif": 1371,
+  "part_pourcent": 1.37,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "64",
+  "libelle": "64. Mehiel",
+  "effectif": 1378,
+  "part_pourcent": 1.38,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "65",
+  "libelle": "65. Damabiah",
+  "effectif": 1402,
+  "part_pourcent": 1.4,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "66",
+  "libelle": "66. Manakel",
+  "effectif": 1370,
+  "part_pourcent": 1.37,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "67",
+  "libelle": "67. Eiael",
+  "effectif": 1318,
+  "part_pourcent": 1.32,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "68",
+  "libelle": "68. Habuhiah",
+  "effectif": 1364,
+  "part_pourcent": 1.36,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "69",
+  "libelle": "69. Rochel",
+  "effectif": 1397,
+  "part_pourcent": 1.4,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "70",
+  "libelle": "70. Jabamiah",
+  "effectif": 1377,
+  "part_pourcent": 1.38,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "71",
+  "libelle": "71. Haiaiel",
+  "effectif": 1416,
+  "part_pourcent": 1.42,
+  "naissances": 100000
+ },
+ {
+  "famille": "Ange de naissance, cœur (72 anges)",
+  "code": "72",
+  "libelle": "72. Mumiah",
+  "effectif": 1359,
+  "part_pourcent": 1.36,
+  "naissances": 100000
+ }
+]

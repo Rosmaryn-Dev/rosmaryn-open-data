@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Rosmaryn open data explorer</title>
+<meta name="description" content="Explore the open datasets of Rosmaryn: Human Design and astrology frequencies in 100,000 births, 3,296 public domain esoteric books, and a concordance of angels and demons. CC BY 4.0.">
+<link rel="canonical" href="https://rosmaryn-dev.github.io/rosmaryn-open-data/">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Dataset","name":"Rosmaryn open data","description":"Human Design and astrology frequencies in 100,000 births, public domain esoteric books, and a concordance of angels and demons, published by Rosmaryn.","license":"https://creativecommons.org/licenses/by/4.0/","url":"https://rosmaryn-dev.github.io/rosmaryn-open-data/","creator":{"@type":"Organization","name":"Rosmaryn","url":"https://rosmaryn.app/","sameAs":["https://github.com/Rosmaryn-Dev","https://huggingface.co/Rosmaryn","https://www.data.gouv.fr/organizations/rosmaryn/"]},"distribution":[{"@type":"DataDownload","encodingFormat":"text/csv","contentUrl":"https://raw.githubusercontent.com/Rosmaryn-Dev/rosmaryn-open-data/main/data/statistiques-human-design-astrologie-100000-naissances.csv"},{"@type":"DataDownload","encodingFormat":"text/csv","contentUrl":"https://raw.githubusercontent.com/Rosmaryn-Dev/rosmaryn-open-data/main/data/ouvrages-libres.csv"},{"@type":"DataDownload","encodingFormat":"text/csv","contentUrl":"https://raw.githubusercontent.com/Rosmaryn-Dev/rosmaryn-open-data/main/data/concordance-anges-demons.csv"}]}</script>
+<style>
+:root{--bg:#f6f3ee;--surface:#fffdf9;--fg:#1f2430;--muted:#5d6270;--line:#e2dbd0;--accent:#8a6a2f;--bar:#b08a45}
+@media (prefers-color-scheme:dark){:root{--bg:#16181d;--surface:#1e2128;--fg:#ece8e1;--muted:#a4a7b0;--line:#2f333c;--accent:#d1ad6a;--bar:#c69c55}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.55 system-ui,-apple-system,"Segoe UI",sans-serif}
+main{max-width:960px;margin:0 auto;padding:2rem 16px 4rem}h1{font:600 1.8rem Georgia,serif;margin:0 0 .4rem}p{margin:.4rem 0}
+a{color:var(--accent)}.muted{color:var(--muted);font-size:.9rem}
+nav{display:flex;flex-wrap:wrap;gap:.3rem;margin:1.4rem 0 1rem;border-bottom:1px solid var(--line)}
+nav button{font:500 .95rem inherit;color:var(--muted);background:none;border:0;border-bottom:2px solid transparent;padding:.55rem .7rem;margin-bottom:-1px;cursor:pointer}
+nav button[aria-selected=true]{color:var(--fg);border-bottom-color:var(--accent)}
+.box{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:1rem}
+select,input{font:inherit;color:var(--fg);background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:.45rem .55rem;max-width:100%}
+.ctl{display:flex;flex-wrap:wrap;gap:.6rem;margin-bottom:.9rem}
+.row{display:grid;grid-template-columns:minmax(7rem,14rem) 1fr 4.5rem;gap:.6rem;align-items:center;padding:.18rem 0;font-size:.9rem}
+.track{background:var(--line);border-radius:3px;height:.8rem}.fill{background:var(--bar);height:100%;border-radius:3px}
+.num{text-align:right;font-variant-numeric:tabular-nums}
+table{border-collapse:collapse;width:100%;font-size:.88rem}th,td{text-align:left;padding:.4rem .5rem;border-bottom:1px solid var(--line);vertical-align:top}
+th{color:var(--muted);font-weight:500}.scroll{overflow-x:auto}
+footer{margin-top:2rem}
+</style>
+</head>
+<body>
+<main>
+<h1>Rosmaryn open data</h1>
+<p>Open datasets published by <a href="https://rosmaryn.app/">Rosmaryn</a>, a holistic self-knowledge platform that brings together Human Design, astrology and numerology. Licence <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>: please credit Rosmaryn with a link.</p>
+<p class="muted">Files and history: <a href="https://github.com/Rosmaryn-Dev/rosmaryn-open-data">GitHub</a> · <a href="https://huggingface.co/Rosmaryn">Hugging Face</a> · <a href="https://www.data.gouv.fr/organizations/rosmaryn/">data.gouv.fr</a> · <a href="https://library.rosmaryn.app/donnees/">Rosmaryn Library</a></p>
+<nav role="tablist" aria-label="Datasets">
+<button role="tab" aria-selected="true" data-p="stats">100,000 births</button>
+<button role="tab" aria-selected="false" data-p="books">Public domain books</button>
+<button role="tab" aria-selected="false" data-p="conc">Angels and demons</button>
+</nav>
+<section id="stats" class="box"><p class="muted">Frequencies computed by Rosmaryn on 100,000 random births between 1910 and 2025. Your own chart: <a href="https://rosmaryn.app/en/">free Body Graph and birth chart calculators</a>.</p>
+<div class="ctl"><label>Family <select id="fam"></select></label></div><div id="bars" aria-live="polite"></div></section>
+<section id="books" class="box" hidden><div class="ctl"><input id="q" type="search" placeholder="Title or author" aria-label="Search books"><select id="disc" aria-label="Discipline"></select><select id="lang" aria-label="Language"></select></div>
+<p class="muted" id="nb"></p><div class="scroll"><table><thead><tr><th>Title</th><th>Author</th><th>Year</th><th>Lang.</th><th>Discipline</th></tr></thead><tbody id="tb"></tbody></table></div></section>
+<section id="conc" class="box" hidden><p class="muted">Names found in the Book of Enoch, the Key of Solomon and the Goetia, with their references.</p>
+<div class="ctl"><input id="qc" type="search" placeholder="Name" aria-label="Search names"></div><div class="scroll"><table><thead><tr><th>Name</th><th>Other spellings</th><th>Nature</th><th>Enoch</th><th>Key of Solomon</th><th>Goetia</th></tr></thead><tbody id="tc"></tbody></table></div></section>
+<footer class="muted">Rosmaryn · <a href="https://rosmaryn.app/">rosmaryn.app</a> · <a href="https://rosmaryn.pro/">Rosmaryn Pro</a> · <a href="https://academy.rosmaryn.app/">Rosmaryn Academy</a> · <a href="https://library.rosmaryn.app/">Rosmaryn Library</a></footer>
+</main>
+<script>
+function csv(t){t=t.replace(/^﻿/,'');var R=[],r=[],f='',q=false;for(var i=0;i<t.length;i++){var c=t[i];if(q){if(c=='"'){if(t[i+1]=='"'){f+='"';i++}else q=false}else f+=c}else if(c=='"')q=true;else if(c==','){r.push(f);f=''}else if(c=='\n'){r.push(f);R.push(r);r=[];f=''}else if(c!='\r')f+=c}if(f||r.length){r.push(f);R.push(r)}var h=R.shift();return R.filter(function(x){return x.length>1}).map(function(x){var o={};h.forEach(function(k,j){o[k]=x[j]||''});return o})}
+function el(t,txt,href){var e=document.createElement(t);if(href){var a=document.createElement('a');a.href=href;a.textContent=txt;e.appendChild(a)}else e.textContent=txt;return e}
+document.querySelectorAll('nav button').forEach(function(b){b.onclick=function(){document.querySelectorAll('nav button').forEach(function(x){x.setAttribute('aria-selected',x===b);document.getElementById(x.dataset.p).hidden=x!==b})}});
+fetch('data/statistiques-human-design-astrologie-100000-naissances.csv').then(function(r){return r.text()}).then(function(t){var S=csv(t),fams=[];S.forEach(function(s){if(fams.indexOf(s.famille)<0)fams.push(s.famille)});var sel=document.getElementById('fam');fams.forEach(function(f){sel.add(new Option(f,f))});
+function draw(){var L=S.filter(function(s){return s.famille===sel.value}).sort(function(a,b){return b.part_pourcent-a.part_pourcent}),m=Math.max.apply(null,L.map(function(s){return +s.part_pourcent})),box=document.getElementById('bars');box.innerHTML='';L.forEach(function(s){var r=document.createElement('div');r.className='row';r.appendChild(el('span',s.libelle));var tr=document.createElement('div');tr.className='track';var f=document.createElement('div');f.className='fill';f.style.width=(100*s.part_pourcent/m)+'%';tr.appendChild(f);r.appendChild(tr);var n=el('span',(+s.part_pourcent).toFixed(2)+' %');n.className='num';r.appendChild(n);box.appendChild(r)})}sel.onchange=draw;draw()});
+fetch('data/ouvrages-libres.csv').then(function(r){return r.text()}).then(function(t){var B=csv(t),q=document.getElementById('q'),d=document.getElementById('disc'),l=document.getElementById('lang');
+function opts(s,k,lab){s.add(new Option(lab,''));Array.from(new Set(B.map(function(b){return b[k]}))).sort().forEach(function(v){s.add(new Option(v,v))})}opts(d,'discipline','All disciplines');opts(l,'langue','All languages');
+function draw(){var w=q.value.toLowerCase(),L=B.filter(function(b){return(!d.value||b.discipline===d.value)&&(!l.value||b.langue===l.value)&&(!w||(b.titre+' '+b.auteur).toLowerCase().indexOf(w)>=0)}),tb=document.getElementById('tb');tb.innerHTML='';document.getElementById('nb').textContent=L.length+' books'+(L.length>200?', first 200 shown':'');L.slice(0,200).forEach(function(b){var r=document.createElement('tr');r.appendChild(el('td',b.titre,b.page));r.appendChild(el('td',b.auteur));r.appendChild(el('td',b.annee));r.appendChild(el('td',b.langue));r.appendChild(el('td',b.discipline));tb.appendChild(r)})}[q,d,l].forEach(function(x){x.oninput=draw});draw()});
+fetch('data/concordance-anges-demons.csv').then(function(r){return r.text()}).then(function(t){var C=csv(t),q=document.getElementById('qc');function draw(){var w=q.value.toLowerCase(),tb=document.getElementById('tc');tb.innerHTML='';C.filter(function(c){return!w||(c.nom+' '+c.autres_graphies).toLowerCase().indexOf(w)>=0}).forEach(function(c){var r=document.createElement('tr');[c.nom,c.autres_graphies,c.nature,c.henoch_references,c.cle_de_salomon_references,c.goetia_numero?('#'+c.goetia_numero+' '+c.goetia_titre):''].forEach(function(v){r.appendChild(el('td',v))});tb.appendChild(r)})}q.oninput=draw;draw()});
+</script>
+</body>
+</html>

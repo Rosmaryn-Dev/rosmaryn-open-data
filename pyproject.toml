@@ -1,0 +1,28 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "rosmaryn-open-data"
+version = "1.0.0"
+description = "Open datasets by Rosmaryn: Human Design and astrology frequencies in 100,000 births, public domain esoteric books, concordance of angels and demons (CC BY 4.0)."
+readme = "README.md"
+license = { text = "CC-BY-4.0" }
+authors = [{ name = "Rosmaryn" }]
+requires-python = ">=3.8"
+keywords = ["human design", "astrology", "numerology", "esotericism", "public domain", "open data", "dataset"]
+classifiers = ["Programming Language :: Python :: 3", "Topic :: Scientific/Engineering", "Topic :: Religion", "Intended Audience :: Science/Research"]
+
+[project.urls]
+Homepage = "https://rosmaryn.app/"
+Explorer = "https://rosmaryn-dev.github.io/rosmaryn-open-data/"
+Source = "https://github.com/Rosmaryn-Dev/rosmaryn-open-data"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/rosmaryn_open_data"]
+
+[tool.hatch.build.targets.wheel.force-include]
+"data" = "rosmaryn_open_data/data"
+
+[tool.hatch.build.targets.sdist]
+include = ["src", "data/*.json", "README.md", "LICENSE", "CITATION.cff"]
