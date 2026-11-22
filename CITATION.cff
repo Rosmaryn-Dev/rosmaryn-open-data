@@ -8,6 +8,10 @@ authors:
 license: CC-BY-4.0
 repository-code: "https://github.com/Rosmaryn-Dev/rosmaryn-open-data"
 url: "https://library.rosmaryn.app/donnees/"
+identifiers:
+  - type: doi
+    value: "10.7910/DVN/5OD5DT"
+    description: "Public domain esoteric books, archived on Harvard Dataverse"
 keywords:
   - esotericism
   - public domain

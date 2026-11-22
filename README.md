@@ -5,7 +5,7 @@ Open datasets published by [Rosmaryn](https://rosmaryn.app/), a holistic self-kn
 ## Datasets
 
 ### Public domain esoteric books
-`data/ouvrages-libres.csv` and `data/ouvrages-libres.json`
+`data/ouvrages-libres.csv` and `data/ouvrages-libres.json`. Archived on Harvard Dataverse: [doi:10.7910/DVN/5OD5DT](https://doi.org/10.7910/DVN/5OD5DT)
 
 3,296 public domain books and open access articles presented by [Rosmaryn Library](https://library.rosmaryn.app/), in 33 languages and 42 subjects, from alchemy and astrology to Kabbalah and the I Ching. 767 books can be downloaded as PDF on Library.
 
