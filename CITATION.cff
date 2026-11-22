@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use these datasets, please cite them as below."
+title: "Rosmaryn open data"
+type: dataset
+authors:
+  - name: "Rosmaryn"
+    website: "https://rosmaryn.app/"
+license: CC-BY-4.0
+repository-code: "https://github.com/Rosmaryn-Dev/rosmaryn-open-data"
+url: "https://library.rosmaryn.app/donnees/"
+keywords:
+  - esotericism
+  - public domain
+  - human design
+  - astrology
+  - open data

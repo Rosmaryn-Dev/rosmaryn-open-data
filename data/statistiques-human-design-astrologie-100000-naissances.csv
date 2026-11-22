@@ -1,0 +1,512 @@
+﻿famille,code,libelle,effectif,part_pourcent,naissances
+"Type (Human Design)",generator,Générateur,35535,35.54,100000
+"Type (Human Design)",manifesting-generator,"Générateur Manifesteur",32365,32.37,100000
+"Type (Human Design)",manifestor,Manifesteur,9861,9.86,100000
+"Type (Human Design)",projector,Projecteur,21147,21.15,100000
+"Type (Human Design)",reflector,Réflecteur,1092,1.09,100000
+"Autorité (Human Design)",ego,Ego,1302,1.3,100000
+"Autorité (Human Design)",emotional,Émotionnelle,52415,52.42,100000
+"Autorité (Human Design)",lunar,Lunaire,1092,1.09,100000
+"Autorité (Human Design)",mental,Mentale,2106,2.11,100000
+"Autorité (Human Design)",sacral,Sacrale,31992,31.99,100000
+"Autorité (Human Design)",self,Soi,2471,2.47,100000
+"Autorité (Human Design)",splenic,Splénique,8622,8.62,100000
+"Définition (Human Design)",none,"Sans définition",1092,1.09,100000
+"Définition (Human Design)",quadruple-split,"Quadruple Split",638,0.64,100000
+"Définition (Human Design)",single,Simple,38919,38.92,100000
+"Définition (Human Design)",split-large,"Split Large",10043,10.04,100000
+"Définition (Human Design)",split-small,"Split Small",37169,37.17,100000
+"Définition (Human Design)",triple-split,"Triple Split",12139,12.14,100000
+"Profil (Human Design)",1/3,1/3,14418,14.42,100000
+"Profil (Human Design)",1/4,1/4,2435,2.44,100000
+"Profil (Human Design)",2/4,2/4,14209,14.21,100000
+"Profil (Human Design)",2/5,2/5,2176,2.18,100000
+"Profil (Human Design)",3/5,3/5,14590,14.59,100000
+"Profil (Human Design)",3/6,3/6,2177,2.18,100000
+"Profil (Human Design)",4/1,4/1,2217,2.22,100000
+"Profil (Human Design)",4/6,4/6,14491,14.49,100000
+"Profil (Human Design)",5/1,5/1,14492,14.49,100000
+"Profil (Human Design)",5/2,5/2,2229,2.23,100000
+"Profil (Human Design)",6/2,6/2,14300,14.3,100000
+"Profil (Human Design)",6/3,6/3,2266,2.27,100000
+"Centre défini (Human Design)",ajna,Ajna,48450,48.45,100000
+"Centre défini (Human Design)",g,G,56928,56.93,100000
+"Centre défini (Human Design)",head,Tête,27449,27.45,100000
+"Centre défini (Human Design)",heart,Cœur,35413,35.41,100000
+"Centre défini (Human Design)",root,Racine,61434,61.43,100000
+"Centre défini (Human Design)",sacral,Sacral,67900,67.9,100000
+"Centre défini (Human Design)",solar,"Plexus Solaire",52415,52.42,100000
+"Centre défini (Human Design)",spleen,Splénique,55713,55.71,100000
+"Centre défini (Human Design)",throat,Gorge,70705,70.71,100000
+"Canal défini (Human Design)",1-8,1-8,7999,8,100000
+"Canal défini (Human Design)",2-14,2-14,8359,8.36,100000
+"Canal défini (Human Design)",3-60,3-60,12609,12.61,100000
+"Canal défini (Human Design)",4-63,4-63,8335,8.34,100000
+"Canal défini (Human Design)",5-15,5-15,8745,8.75,100000
+"Canal défini (Human Design)",6-59,6-59,10428,10.43,100000
+"Canal défini (Human Design)",7-31,7-31,9804,9.8,100000
+"Canal défini (Human Design)",9-52,9-52,8260,8.26,100000
+"Canal défini (Human Design)",10-20,10-20,7150,7.15,100000
+"Canal défini (Human Design)",10-34,10-34,9599,9.6,100000
+"Canal défini (Human Design)",10-57,10-57,8870,8.87,100000
+"Canal défini (Human Design)",11-56,11-56,8662,8.66,100000
+"Canal défini (Human Design)",12-22,12-22,8411,8.41,100000
+"Canal défini (Human Design)",13-33,13-33,9679,9.68,100000
+"Canal défini (Human Design)",16-48,16-48,8026,8.03,100000
+"Canal défini (Human Design)",17-62,17-62,8053,8.05,100000
+"Canal défini (Human Design)",18-58,18-58,10888,10.89,100000
+"Canal défini (Human Design)",19-49,19-49,10812,10.81,100000
+"Canal défini (Human Design)",20-34,20-34,14699,14.7,100000
+"Canal défini (Human Design)",20-57,20-57,7469,7.47,100000
+"Canal défini (Human Design)",21-45,21-45,7022,7.02,100000
+"Canal défini (Human Design)",23-43,23-43,14441,14.44,100000
+"Canal défini (Human Design)",24-61,24-61,9271,9.27,100000
+"Canal défini (Human Design)",25-51,25-51,8360,8.36,100000
+"Canal défini (Human Design)",26-44,26-44,10099,10.1,100000
+"Canal défini (Human Design)",27-50,27-50,8937,8.94,100000
+"Canal défini (Human Design)",28-38,28-38,10169,10.17,100000
+"Canal défini (Human Design)",29-46,29-46,8857,8.86,100000
+"Canal défini (Human Design)",30-41,30-41,8234,8.23,100000
+"Canal défini (Human Design)",32-54,32-54,9395,9.4,100000
+"Canal défini (Human Design)",34-57,34-57,10592,10.59,100000
+"Canal défini (Human Design)",35-36,35-36,7813,7.81,100000
+"Canal défini (Human Design)",37-40,37-40,15016,15.02,100000
+"Canal défini (Human Design)",39-55,39-55,9916,9.92,100000
+"Canal défini (Human Design)",42-53,42-53,9096,9.1,100000
+"Canal défini (Human Design)",47-64,47-64,12468,12.47,100000
+"Porte activée (Human Design)",1,1,33205,33.21,100000
+"Porte activée (Human Design)",2,2,27690,27.69,100000
+"Porte activée (Human Design)",3,3,28407,28.41,100000
+"Porte activée (Human Design)",4,4,32139,32.14,100000
+"Porte activée (Human Design)",5,5,32437,32.44,100000
+"Porte activée (Human Design)",6,6,31149,31.15,100000
+"Porte activée (Human Design)",7,7,33088,33.09,100000
+"Porte activée (Human Design)",8,8,27327,27.33,100000
+"Porte activée (Human Design)",9,9,31643,31.64,100000
+"Porte activée (Human Design)",10,10,30603,30.6,100000
+"Porte activée (Human Design)",11,11,31092,31.09,100000
+"Porte activée (Human Design)",12,12,29401,29.4,100000
+"Porte activée (Human Design)",13,13,30143,30.14,100000
+"Porte activée (Human Design)",14,14,31762,31.76,100000
+"Porte activée (Human Design)",15,15,30516,30.52,100000
+"Porte activée (Human Design)",16,16,27785,27.79,100000
+"Porte activée (Human Design)",17,17,28285,28.29,100000
+"Porte activée (Human Design)",18,18,31396,31.4,100000
+"Porte activée (Human Design)",19,19,30111,30.11,100000
+"Porte activée (Human Design)",20,20,27413,27.41,100000
+"Porte activée (Human Design)",21,21,28157,28.16,100000
+"Porte activée (Human Design)",22,22,30662,30.66,100000
+"Porte activée (Human Design)",23,23,27963,27.96,100000
+"Porte activée (Human Design)",24,24,28279,28.28,100000
+"Porte activée (Human Design)",25,25,28774,28.77,100000
+"Porte activée (Human Design)",26,26,32092,32.09,100000
+"Porte activée (Human Design)",27,27,29175,29.18,100000
+"Porte activée (Human Design)",28,28,31321,31.32,100000
+"Porte activée (Human Design)",29,29,31709,31.71,100000
+"Porte activée (Human Design)",30,30,30656,30.66,100000
+"Porte activée (Human Design)",31,31,31664,31.66,100000
+"Porte activée (Human Design)",32,32,31783,31.78,100000
+"Porte activée (Human Design)",33,33,32205,32.21,100000
+"Porte activée (Human Design)",34,34,32514,32.51,100000
+"Porte activée (Human Design)",35,35,28178,28.18,100000
+"Porte activée (Human Design)",36,36,30267,30.27,100000
+"Porte activée (Human Design)",37,37,30259,30.26,100000
+"Porte activée (Human Design)",38,38,30226,30.23,100000
+"Porte activée (Human Design)",39,39,31922,31.92,100000
+"Porte activée (Human Design)",40,40,30801,30.8,100000
+"Porte activée (Human Design)",41,41,30782,30.78,100000
+"Porte activée (Human Design)",42,42,28235,28.24,100000
+"Porte activée (Human Design)",43,43,32803,32.8,100000
+"Porte activée (Human Design)",44,44,33032,33.03,100000
+"Porte activée (Human Design)",45,45,26982,26.98,100000
+"Porte activée (Human Design)",46,46,30172,30.17,100000
+"Porte activée (Human Design)",47,47,31565,31.57,100000
+"Porte activée (Human Design)",48,48,32872,32.87,100000
+"Porte activée (Human Design)",49,49,31075,31.08,100000
+"Porte activée (Human Design)",50,50,31001,31,100000
+"Porte activée (Human Design)",51,51,28156,28.16,100000
+"Porte activée (Human Design)",52,52,30696,30.7,100000
+"Porte activée (Human Design)",53,53,32373,32.37,100000
+"Porte activée (Human Design)",54,54,31154,31.15,100000
+"Porte activée (Human Design)",55,55,31127,31.13,100000
+"Porte activée (Human Design)",56,56,31699,31.7,100000
+"Porte activée (Human Design)",57,57,31896,31.9,100000
+"Porte activée (Human Design)",58,58,31254,31.25,100000
+"Porte activée (Human Design)",59,59,32540,32.54,100000
+"Porte activée (Human Design)",60,60,33539,33.54,100000
+"Porte activée (Human Design)",61,61,31397,31.4,100000
+"Porte activée (Human Design)",62,62,31768,31.77,100000
+"Porte activée (Human Design)",63,63,29250,29.25,100000
+"Porte activée (Human Design)",64,64,31842,31.84,100000
+"Signe solaire (astrologie tropicale)",balance,Balance,8210,8.21,100000
+"Signe solaire (astrologie tropicale)",belier,Bélier,8311,8.31,100000
+"Signe solaire (astrologie tropicale)",cancer,Cancer,8743,8.74,100000
+"Signe solaire (astrologie tropicale)",capricorne,Capricorne,8048,8.05,100000
+"Signe solaire (astrologie tropicale)",gemeaux,Gémeaux,8641,8.64,100000
+"Signe solaire (astrologie tropicale)",lion,Lion,8395,8.4,100000
+"Signe solaire (astrologie tropicale)",poissons,Poissons,8278,8.28,100000
+"Signe solaire (astrologie tropicale)",sagittaire,Sagittaire,8160,8.16,100000
+"Signe solaire (astrologie tropicale)",scorpion,Scorpion,8192,8.19,100000
+"Signe solaire (astrologie tropicale)",taureau,Taureau,8412,8.41,100000
+"Signe solaire (astrologie tropicale)",verseau,Verseau,8060,8.06,100000
+"Signe solaire (astrologie tropicale)",vierge,Vierge,8550,8.55,100000
+"Signe lunaire (astrologie tropicale)",balance,Balance,8297,8.3,100000
+"Signe lunaire (astrologie tropicale)",belier,Bélier,8281,8.28,100000
+"Signe lunaire (astrologie tropicale)",cancer,Cancer,8424,8.42,100000
+"Signe lunaire (astrologie tropicale)",capricorne,Capricorne,8245,8.25,100000
+"Signe lunaire (astrologie tropicale)",gemeaux,Gémeaux,8461,8.46,100000
+"Signe lunaire (astrologie tropicale)",lion,Lion,8265,8.27,100000
+"Signe lunaire (astrologie tropicale)",poissons,Poissons,8421,8.42,100000
+"Signe lunaire (astrologie tropicale)",sagittaire,Sagittaire,8454,8.45,100000
+"Signe lunaire (astrologie tropicale)",scorpion,Scorpion,8308,8.31,100000
+"Signe lunaire (astrologie tropicale)",taureau,Taureau,8244,8.24,100000
+"Signe lunaire (astrologie tropicale)",verseau,Verseau,8156,8.16,100000
+"Signe lunaire (astrologie tropicale)",vierge,Vierge,8444,8.44,100000
+"Ange de naissance, corps physique (72 anges)",1,"1. Vehuiah",1369,1.37,100000
+"Ange de naissance, corps physique (72 anges)",2,"2. Jeliel",1362,1.36,100000
+"Ange de naissance, corps physique (72 anges)",3,"3. Sitael",1404,1.4,100000
+"Ange de naissance, corps physique (72 anges)",4,"4. Elemiah",1405,1.41,100000
+"Ange de naissance, corps physique (72 anges)",5,"5. Mahasiah",1399,1.4,100000
+"Ange de naissance, corps physique (72 anges)",6,"6. Lelahel",1372,1.37,100000
+"Ange de naissance, corps physique (72 anges)",7,"7. Achaiah",1385,1.39,100000
+"Ange de naissance, corps physique (72 anges)",8,"8. Cahethel",1403,1.4,100000
+"Ange de naissance, corps physique (72 anges)",9,"9. Haziel",1393,1.39,100000
+"Ange de naissance, corps physique (72 anges)",10,"10. Aladiah",1378,1.38,100000
+"Ange de naissance, corps physique (72 anges)",11,"11. Lauviah",1404,1.4,100000
+"Ange de naissance, corps physique (72 anges)",12,"12. Hahaiah",1449,1.45,100000
+"Ange de naissance, corps physique (72 anges)",13,"13. Iezalel",1474,1.47,100000
+"Ange de naissance, corps physique (72 anges)",14,"14. Mebahel",1480,1.48,100000
+"Ange de naissance, corps physique (72 anges)",15,"15. Hariel",1396,1.4,100000
+"Ange de naissance, corps physique (72 anges)",16,"16. Hakamiah",1446,1.45,100000
+"Ange de naissance, corps physique (72 anges)",17,"17. Lauviah",1433,1.43,100000
+"Ange de naissance, corps physique (72 anges)",18,"18. Caliel",1412,1.41,100000
+"Ange de naissance, corps physique (72 anges)",19,"19. Leuviah",1441,1.44,100000
+"Ange de naissance, corps physique (72 anges)",20,"20. Pahaliah",1413,1.41,100000
+"Ange de naissance, corps physique (72 anges)",21,"21. Nelchael",1433,1.43,100000
+"Ange de naissance, corps physique (72 anges)",22,"22. Ieiaiel",1486,1.49,100000
+"Ange de naissance, corps physique (72 anges)",23,"23. Melahel",1513,1.51,100000
+"Ange de naissance, corps physique (72 anges)",24,"24. Hahiuiah",1457,1.46,100000
+"Ange de naissance, corps physique (72 anges)",25,"25. Nith-Haiah",1430,1.43,100000
+"Ange de naissance, corps physique (72 anges)",26,"26. Haaiah",1365,1.37,100000
+"Ange de naissance, corps physique (72 anges)",27,"27. Ierathel",1416,1.42,100000
+"Ange de naissance, corps physique (72 anges)",28,"28. Séheiah",1441,1.44,100000
+"Ange de naissance, corps physique (72 anges)",29,"29. Reiiel",1362,1.36,100000
+"Ange de naissance, corps physique (72 anges)",30,"30. Omael",1381,1.38,100000
+"Ange de naissance, corps physique (72 anges)",31,"31. Lecabel",1450,1.45,100000
+"Ange de naissance, corps physique (72 anges)",32,"32. Vasariah",1428,1.43,100000
+"Ange de naissance, corps physique (72 anges)",33,"33. Iehuiah",1436,1.44,100000
+"Ange de naissance, corps physique (72 anges)",34,"34. Lehahiah",1427,1.43,100000
+"Ange de naissance, corps physique (72 anges)",35,"35. Chavakiah",1418,1.42,100000
+"Ange de naissance, corps physique (72 anges)",36,"36. Menadel",1391,1.39,100000
+"Ange de naissance, corps physique (72 anges)",37,"37. Aniel",1413,1.41,100000
+"Ange de naissance, corps physique (72 anges)",38,"38. Haamiah",1308,1.31,100000
+"Ange de naissance, corps physique (72 anges)",39,"39. Rehael",1388,1.39,100000
+"Ange de naissance, corps physique (72 anges)",40,"40. Ieiazel",1410,1.41,100000
+"Ange de naissance, corps physique (72 anges)",41,"41. Hahahel",1357,1.36,100000
+"Ange de naissance, corps physique (72 anges)",42,"42. Mikael",1334,1.33,100000
+"Ange de naissance, corps physique (72 anges)",43,"43. Veualiah",1268,1.27,100000
+"Ange de naissance, corps physique (72 anges)",44,"44. Ielahiah",1345,1.35,100000
+"Ange de naissance, corps physique (72 anges)",45,"45. Sealiah",1358,1.36,100000
+"Ange de naissance, corps physique (72 anges)",46,"46. Ariel",1468,1.47,100000
+"Ange de naissance, corps physique (72 anges)",47,"47. Asaliah",1353,1.35,100000
+"Ange de naissance, corps physique (72 anges)",48,"48. Mihael",1400,1.4,100000
+"Ange de naissance, corps physique (72 anges)",49,"49. Vehuel",1367,1.37,100000
+"Ange de naissance, corps physique (72 anges)",50,"50. Daniel",1370,1.37,100000
+"Ange de naissance, corps physique (72 anges)",51,"51. Hahasiah",1307,1.31,100000
+"Ange de naissance, corps physique (72 anges)",52,"52. Imamiah",1379,1.38,100000
+"Ange de naissance, corps physique (72 anges)",53,"53. Nanael",1383,1.38,100000
+"Ange de naissance, corps physique (72 anges)",54,"54. Nithael",1354,1.35,100000
+"Ange de naissance, corps physique (72 anges)",55,"55. Mebahiah",1364,1.36,100000
+"Ange de naissance, corps physique (72 anges)",56,"56. Poiel",1334,1.33,100000
+"Ange de naissance, corps physique (72 anges)",57,"57. Nemamiah",1321,1.32,100000
+"Ange de naissance, corps physique (72 anges)",58,"58. Ieialel",1335,1.34,100000
+"Ange de naissance, corps physique (72 anges)",59,"59. Harahel",1325,1.33,100000
+"Ange de naissance, corps physique (72 anges)",60,"60. Mitzrael",1369,1.37,100000
+"Ange de naissance, corps physique (72 anges)",61,"61. Umabel",1351,1.35,100000
+"Ange de naissance, corps physique (72 anges)",62,"62. Iah-hel",1369,1.37,100000
+"Ange de naissance, corps physique (72 anges)",63,"63. Anauel",1311,1.31,100000
+"Ange de naissance, corps physique (72 anges)",64,"64. Mehiel",1291,1.29,100000
+"Ange de naissance, corps physique (72 anges)",65,"65. Damabiah",1401,1.4,100000
+"Ange de naissance, corps physique (72 anges)",66,"66. Manakel",1337,1.34,100000
+"Ange de naissance, corps physique (72 anges)",67,"67. Eiael",1350,1.35,100000
+"Ange de naissance, corps physique (72 anges)",68,"68. Habuhiah",1425,1.43,100000
+"Ange de naissance, corps physique (72 anges)",69,"69. Rochel",1409,1.41,100000
+"Ange de naissance, corps physique (72 anges)",70,"70. Jabamiah",1381,1.38,100000
+"Ange de naissance, corps physique (72 anges)",71,"71. Haiaiel",1377,1.38,100000
+"Ange de naissance, corps physique (72 anges)",72,"72. Mumiah",1336,1.34,100000
+"Croix d’incarnation (Human Design)",372,"Croix d’Angle Droit de l’Imprévu IV",1033,1.03,100000
+"Croix d’incarnation (Human Design)",373,"Croix de Juxtaposition de la Fantaisie",35,0.04,100000
+"Croix d’incarnation (Human Design)",374,"Croix d’Angle Gauche de l’Alpha II",508,0.51,100000
+"Croix d’incarnation (Human Design)",375,"Croix d’Angle Droit des Quatre Chemins IV",990,0.99,100000
+"Croix d’incarnation (Human Design)",376,"Croix de Juxtaposition du Besoin",29,0.03,100000
+"Croix d’incarnation (Human Design)",377,"Croix d’Angle Gauche du Raffinement II",506,0.51,100000
+"Croix d’incarnation (Human Design)",378,"Croix d’Angle Droit du Sphinx I",884,0.88,100000
+"Croix d’incarnation (Human Design)",379,"Croix de Juxtaposition de l’Écoute",26,0.03,100000
+"Croix d’incarnation (Human Design)",380,"Croix d’Angle Gauche des Masques I",513,0.51,100000
+"Croix d’incarnation (Human Design)",381,"Croix d’Angle Droit de l’Explication I",1016,1.02,100000
+"Croix d’incarnation (Human Design)",382,"Croix de Juxtaposition des Principes",30,0.03,100000
+"Croix d’incarnation (Human Design)",383,"Croix d’Angle Droit de la Contagion I",938,0.94,100000
+"Croix d’incarnation (Human Design)",384,"Croix de Juxtaposition du Destin",37,0.04,100000
+"Croix d’incarnation (Human Design)",385,"Croix d’Angle Gauche de l’Industrie I",523,0.52,100000
+"Croix d’incarnation (Human Design)",386,"Croix d’Angle Droit du Phénix Dormant I",996,1,100000
+"Croix d’incarnation (Human Design)",387,"Croix de Juxtaposition des Humeurs",40,0.04,100000
+"Croix d’incarnation (Human Design)",388,"Croix d’Angle Gauche de l’Esprit I",486,0.49,100000
+"Croix d’incarnation (Human Design)",389,"Croix d’Angle Droit de la Planification I",1041,1.04,100000
+"Croix d’incarnation (Human Design)",390,"Croix de Juxtaposition des Négociations",32,0.03,100000
+"Croix d’incarnation (Human Design)",391,"Croix d’Angle Gauche de la Migration I",525,0.53,100000
+"Croix d’incarnation (Human Design)",392,"Croix d’Angle Droit de la Conscience I",1030,1.03,100000
+"Croix d’incarnation (Human Design)",393,"Croix de Juxtaposition des Doutes",31,0.03,100000
+"Croix d’incarnation (Human Design)",394,"Croix d’Angle Gauche de Dominion I",531,0.53,100000
+"Croix d’incarnation (Human Design)",395,"Croix d’Angle Droit de la Dominance I",996,1,100000
+"Croix d’incarnation (Human Design)",396,"Croix de Juxtaposition de la Grâce",35,0.04,100000
+"Croix d’incarnation (Human Design)",397,"Croix d’Angle Gauche de la Divulgation I",514,0.51,100000
+"Croix d’incarnation (Human Design)",398,"Croix d’Angle Droit de l’Éden I",984,0.98,100000
+"Croix d’incarnation (Human Design)",399,"Croix de Juxtaposition de la Crise",39,0.04,100000
+"Croix d’incarnation (Human Design)",400,"Croix d’Angle Gauche du Plan Matériel I",498,0.5,100000
+"Croix d’incarnation (Human Design)",401,"Croix d’Angle Droit du Vaisseau de l’Amour I",982,0.98,100000
+"Croix d’incarnation (Human Design)",402,"Croix de Juxtaposition de l’Innocence",32,0.03,100000
+"Croix d’incarnation (Human Design)",403,"Croix d’Angle Gauche de la Guérison I",505,0.51,100000
+"Croix d’incarnation (Human Design)",404,"Croix d’Angle Droit du Service I",997,1,100000
+"Croix d’incarnation (Human Design)",405,"Croix de Juxtaposition des Opinions",35,0.04,100000
+"Croix d’incarnation (Human Design)",406,"Croix d’Angle Gauche du Bouleversement I",506,0.51,100000
+"Croix d’incarnation (Human Design)",407,"Croix d’Angle Droit de la Tension I",1006,1.01,100000
+"Croix d’incarnation (Human Design)",408,"Croix de Juxtaposition du Contrôle",29,0.03,100000
+"Croix d’incarnation (Human Design)",409,"Croix d’Angle Gauche de l’Effort I",550,0.55,100000
+"Croix d’incarnation (Human Design)",410,"Croix d’Angle Droit de la Pénétration I",1030,1.03,100000
+"Croix d’incarnation (Human Design)",411,"Croix de Juxtaposition du Choc",32,0.03,100000
+"Croix d’incarnation (Human Design)",412,"Croix d’Angle Gauche du Clairon I",510,0.51,100000
+"Croix d’incarnation (Human Design)",413,"Croix d’Angle Droit de Maïa I",1013,1.01,100000
+"Croix d’incarnation (Human Design)",414,"Croix de Juxtaposition de l’Accomplissement",42,0.04,100000
+"Croix d’incarnation (Human Design)",415,"Croix d’Angle Gauche de la Limitation I",553,0.55,100000
+"Croix d’incarnation (Human Design)",416,"Croix d’Angle Droit des Lois I",955,0.96,100000
+"Croix d’incarnation (Human Design)",417,"Croix de Juxtaposition de la Mutation",34,0.03,100000
+"Croix d’incarnation (Human Design)",418,"Croix d’Angle Droit de l’Imprévu I",1020,1.02,100000
+"Croix d’incarnation (Human Design)",419,"Croix de Juxtaposition de la Bienveillance",30,0.03,100000
+"Croix d’incarnation (Human Design)",420,"Croix d’Angle Gauche de l’Alignement I",544,0.54,100000
+"Croix d’incarnation (Human Design)",421,"Croix d’Angle Droit des Quatre Chemins I",1034,1.03,100000
+"Croix d’incarnation (Human Design)",422,"Croix de Juxtaposition de la Rationalisation",32,0.03,100000
+"Croix d’incarnation (Human Design)",423,"Croix d’Angle Gauche de l’Incarnation I",503,0.5,100000
+"Croix d’incarnation (Human Design)",424,"Croix d’Angle Droit de l’Explication II",1018,1.02,100000
+"Croix d’incarnation (Human Design)",425,"Croix de Juxtaposition de l’Intégration",36,0.04,100000
+"Croix d’incarnation (Human Design)",426,"Croix d’Angle Gauche du Dévouement I",518,0.52,100000
+"Croix d’incarnation (Human Design)",427,"Croix d’Angle Droit de la Contagion II",1045,1.05,100000
+"Croix d’incarnation (Human Design)",428,"Croix de Juxtaposition de la Contribution",34,0.03,100000
+"Croix d’incarnation (Human Design)",429,"Croix d’Angle Gauche de l’Incertitude I",564,0.56,100000
+"Croix d’incarnation (Human Design)",430,"Croix d’Angle Droit du Phénix Dormant II",1070,1.07,100000
+"Croix d’incarnation (Human Design)",431,"Croix de Juxtaposition du Moment Présent",37,0.04,100000
+"Croix d’incarnation (Human Design)",432,"Croix d’Angle Gauche de la Dualité I",538,0.54,100000
+"Croix d’incarnation (Human Design)",433,"Croix d’Angle Droit de la Planification II",1075,1.08,100000
+"Croix d’incarnation (Human Design)",434,"Croix de Juxtaposition de l’Expérimentation",43,0.04,100000
+"Croix d’incarnation (Human Design)",435,"Croix d’Angle Gauche de l’Identification I",572,0.57,100000
+"Croix d’incarnation (Human Design)",436,"Croix d’Angle Droit de la Conscience II",980,0.98,100000
+"Croix d’incarnation (Human Design)",437,"Croix de Juxtaposition de l’Expérience",40,0.04,100000
+"Croix d’incarnation (Human Design)",438,"Croix d’Angle Gauche de la Séparation I",540,0.54,100000
+"Croix d’incarnation (Human Design)",439,"Croix d’Angle Droit de la Dominance II",1044,1.04,100000
+"Croix d’incarnation (Human Design)",440,"Croix de Juxtaposition de la Possession",38,0.04,100000
+"Croix d’incarnation (Human Design)",441,"Croix d’Angle Gauche de la Confrontation I",539,0.54,100000
+"Croix d’incarnation (Human Design)",442,"Croix d’Angle Droit de l’Éden II",1065,1.07,100000
+"Croix d’incarnation (Human Design)",443,"Croix de Juxtaposition de l’Éloquence",29,0.03,100000
+"Croix d’incarnation (Human Design)",444,"Croix d’Angle Gauche de l’Éducation I",512,0.51,100000
+"Croix d’incarnation (Human Design)",445,"Croix de Juxtaposition des Extrêmes",35,0.04,100000
+"Croix d’incarnation (Human Design)",446,"Croix d’Angle Gauche de la Prévention I",552,0.55,100000
+"Croix d’incarnation (Human Design)",447,"Croix d’Angle Droit du Service II",981,0.98,100000
+"Croix d’incarnation (Human Design)",448,"Croix de Juxtaposition de l’Immobilité du Calme",40,0.04,100000
+"Croix d’incarnation (Human Design)",449,"Croix d’Angle Gauche des Demandes I",513,0.51,100000
+"Croix d’incarnation (Human Design)",450,"Croix d’Angle Droit de la Tension II",1102,1.1,100000
+"Croix d’incarnation (Human Design)",451,"Croix de Juxtaposition de la Provocation",27,0.03,100000
+"Croix d’incarnation (Human Design)",452,"Croix d’Angle Gauche de l’Individualisme I",512,0.51,100000
+"Croix d’incarnation (Human Design)",453,"Croix d’Angle Droit de la Pénétration II",1037,1.04,100000
+"Croix d’incarnation (Human Design)",454,"Croix de Juxtaposition des Commencements",47,0.05,100000
+"Croix d’incarnation (Human Design)",455,"Croix d’Angle Gauche des Cycles I",585,0.59,100000
+"Croix d’incarnation (Human Design)",456,"Croix d’Angle Droit de Maïa II",1092,1.09,100000
+"Croix d’incarnation (Human Design)",457,"Croix de Juxtaposition du Détail",43,0.04,100000
+"Croix d’incarnation (Human Design)",458,"Croix d’Angle Gauche de l’Obscurantisme I",530,0.53,100000
+"Croix d’incarnation (Human Design)",459,"Croix d’Angle Droit des Lois II",1082,1.08,100000
+"Croix d’incarnation (Human Design)",460,"Croix de Juxtaposition de la Stimulation",28,0.03,100000
+"Croix d’incarnation (Human Design)",461,"Croix d’Angle Gauche de la Distraction I",527,0.53,100000
+"Croix d’incarnation (Human Design)",462,"Croix d’Angle Droit de l’Imprévu II",1048,1.05,100000
+"Croix d’incarnation (Human Design)",463,"Croix de Juxtaposition de l’Influence",35,0.04,100000
+"Croix d’incarnation (Human Design)",464,"Croix d’Angle Gauche de l’Alpha I",507,0.51,100000
+"Croix d’incarnation (Human Design)",465,"Croix d’Angle Droit des Quatre Chemins II",1015,1.02,100000
+"Croix d’incarnation (Human Design)",466,"Croix de Juxtaposition de la Retraite",45,0.05,100000
+"Croix d’incarnation (Human Design)",467,"Croix d’Angle Gauche du Raffinement I",500,0.5,100000
+"Croix d’incarnation (Human Design)",468,"Croix de Juxtaposition de l’Interaction",49,0.05,100000
+"Croix d’incarnation (Human Design)",469,"Croix de Juxtaposition de l’Expression des Formules",32,0.03,100000
+"Croix d’incarnation (Human Design)",470,"Croix d’Angle Droit de la Contagion III",982,0.98,100000
+"Croix d’incarnation (Human Design)",471,"Croix de Juxtaposition de l’Engagement",25,0.03,100000
+"Croix d’incarnation (Human Design)",472,"Croix d’Angle Gauche de l’Industrie II",556,0.56,100000
+"Croix d’incarnation (Human Design)",473,"Croix d’Angle Droit du Phénix Dormant III",1050,1.05,100000
+"Croix d’incarnation (Human Design)",474,"Croix de Juxtaposition de la Stratégie",40,0.04,100000
+"Croix d’incarnation (Human Design)",475,"Croix d’Angle Gauche de l’Esprit II",532,0.53,100000
+"Croix d’incarnation (Human Design)",476,"Croix d’Angle Droit de la Planification III",1046,1.05,100000
+"Croix d’incarnation (Human Design)",477,"Croix de Juxtaposition du Démenti",37,0.04,100000
+"Croix d’incarnation (Human Design)",478,"Croix d’Angle Gauche de la Migration II",542,0.54,100000
+"Croix d’incarnation (Human Design)",479,"Croix d’Angle Droit de la Conscience III",1032,1.03,100000
+"Croix d’incarnation (Human Design)",480,"Croix de Juxtaposition de la Confusion",43,0.04,100000
+"Croix d’incarnation (Human Design)",481,"Croix d’Angle Gauche de Dominion II",542,0.54,100000
+"Croix d’incarnation (Human Design)",482,"Croix d’Angle Droit de la Dominance III",1032,1.03,100000
+"Croix d’incarnation (Human Design)",483,"Croix de Juxtaposition de l’Oppression",31,0.03,100000
+"Croix d’incarnation (Human Design)",484,"Croix d’Angle Gauche de la Divulgation II",514,0.51,100000
+"Croix d’incarnation (Human Design)",485,"Croix d’Angle Droit de l’Éden III",1045,1.05,100000
+"Croix d’incarnation (Human Design)",486,"Croix de Juxtaposition du Conflit",39,0.04,100000
+"Croix d’incarnation (Human Design)",487,"Croix d’Angle Gauche du Plan Matériel II",519,0.52,100000
+"Croix d’incarnation (Human Design)",488,"Croix de Juxtaposition de la Coïncidence",43,0.04,100000
+"Croix d’incarnation (Human Design)",489,"Croix d’Angle Droit du Service III",1020,1.02,100000
+"Croix d’incarnation (Human Design)",490,"Croix de Juxtaposition de la Correction",36,0.04,100000
+"Croix d’incarnation (Human Design)",491,"Croix d’Angle Gauche du Bouleversement II",470,0.47,100000
+"Croix d’incarnation (Human Design)",492,"Croix d’Angle Droit de la Tension III",977,0.98,100000
+"Croix d’incarnation (Human Design)",493,"Croix de Juxtaposition de la Profondeur",30,0.03,100000
+"Croix d’incarnation (Human Design)",494,"Croix d’Angle Gauche de l’Effort II",545,0.55,100000
+"Croix d’incarnation (Human Design)",495,"Croix d’Angle Droit de la Pénétration III",1038,1.04,100000
+"Croix d’incarnation (Human Design)",496,"Croix de Juxtaposition de l’Intuition",36,0.04,100000
+"Croix d’incarnation (Human Design)",497,"Croix d’Angle Gauche du Clairon II",509,0.51,100000
+"Croix d’incarnation (Human Design)",498,"Croix d’Angle Droit de Maïa III",961,0.96,100000
+"Croix d’incarnation (Human Design)",499,"Croix de Juxtaposition de la Conservation",24,0.02,100000
+"Croix d’incarnation (Human Design)",500,"Croix d’Angle Gauche de la Limitation II",561,0.56,100000
+"Croix d’incarnation (Human Design)",501,"Croix d’Angle Droit des Lois III",935,0.94,100000
+"Croix d’incarnation (Human Design)",502,"Croix de Juxtaposition des Valeurs",29,0.03,100000
+"Croix d’incarnation (Human Design)",503,"Croix d’Angle Gauche des Souhaits II",484,0.48,100000
+"Croix d’incarnation (Human Design)",504,"Croix d’Angle Droit de l’Imprévu III",915,0.92,100000
+"Croix d’incarnation (Human Design)",505,"Croix de Juxtaposition des Risques",33,0.03,100000
+"Croix d’incarnation (Human Design)",506,"Croix d’Angle Gauche de l’Alignement II",492,0.49,100000
+"Croix d’incarnation (Human Design)",507,"Croix d’Angle Droit des Quatre Chemins III",1008,1.01,100000
+"Croix d’incarnation (Human Design)",508,"Croix de Juxtaposition de la Vigilance",31,0.03,100000
+"Croix d’incarnation (Human Design)",509,"Croix d’Angle Gauche de l’Incarnation II",503,0.5,100000
+"Croix d’incarnation (Human Design)",510,"Croix de Juxtaposition de l’Expression de Soi",36,0.04,100000
+"Croix d’incarnation (Human Design)",511,"Croix d’Angle Gauche du Défi II",536,0.54,100000
+"Croix d’incarnation (Human Design)",512,"Croix d’Angle Droit de l’Explication IV",987,0.99,100000
+"Croix d’incarnation (Human Design)",513,"Croix de Juxtaposition de la Perspicacité",55,0.06,100000
+"Croix d’incarnation (Human Design)",514,"Croix d’Angle Gauche du Dévouement II",523,0.52,100000
+"Croix d’incarnation (Human Design)",515,"Croix d’Angle Droit de la Contagion IV",1008,1.01,100000
+"Croix d’incarnation (Human Design)",516,"Croix de Juxtaposition de la Valorisation",30,0.03,100000
+"Croix d’incarnation (Human Design)",517,"Croix d’Angle Gauche de l’Incertitude II",533,0.53,100000
+"Croix d’incarnation (Human Design)",518,"Croix d’Angle Droit du Phénix Dormant IV",995,1,100000
+"Croix d’incarnation (Human Design)",519,"Croix de Juxtaposition du Pouvoir",22,0.02,100000
+"Croix d’incarnation (Human Design)",520,"Croix d’Angle Gauche de la Dualité II",528,0.53,100000
+"Croix d’incarnation (Human Design)",521,"Croix d’Angle Droit de la Planification IV",991,0.99,100000
+"Croix d’incarnation (Human Design)",522,"Croix de Juxtaposition de la Focalisation",33,0.03,100000
+"Croix d’incarnation (Human Design)",523,"Croix d’Angle Gauche de l’Identification II",488,0.49,100000
+"Croix d’incarnation (Human Design)",524,"Croix d’Angle Droit de la Conscience IV",952,0.95,100000
+"Croix d’incarnation (Human Design)",525,"Croix de Juxtaposition des Habitudes",36,0.04,100000
+"Croix d’incarnation (Human Design)",526,"Croix d’Angle Gauche de la Séparation II",533,0.53,100000
+"Croix d’incarnation (Human Design)",527,"Croix d’Angle Droit de la Dominance IV",977,0.98,100000
+"Croix d’incarnation (Human Design)",528,"Croix de Juxtaposition du Tricheur",34,0.03,100000
+"Croix d’incarnation (Human Design)",529,"Croix d’Angle Gauche de la Confrontation II",516,0.52,100000
+"Croix d’incarnation (Human Design)",530,"Croix d’Angle Droit de l’Éden IV",985,0.99,100000
+"Croix d’incarnation (Human Design)",531,"Croix de Juxtaposition des Idées",43,0.04,100000
+"Croix d’incarnation (Human Design)",532,"Croix d’Angle Gauche de l’Éducation II",512,0.51,100000
+"Croix d’incarnation (Human Design)",533,"Croix de Juxtaposition du Comportement",31,0.03,100000
+"Croix d’incarnation (Human Design)",534,"Croix d’Angle Droit du Service IV",941,0.94,100000
+"Croix d’incarnation (Human Design)",535,"Croix de Juxtaposition de la Vitalité",33,0.03,100000
+"Croix d’incarnation (Human Design)",536,"Croix d’Angle Gauche des Demandes II",522,0.52,100000
+"Croix d’incarnation (Human Design)",537,"Croix d’Angle Droit de la Tension IV",980,0.98,100000
+"Croix d’incarnation (Human Design)",538,"Croix de Juxtaposition de l’Opposition",30,0.03,100000
+"Croix d’incarnation (Human Design)",539,"Croix d’Angle Gauche de l’Individualisme II",496,0.5,100000
+"Croix d’incarnation (Human Design)",540,"Croix d’Angle Droit de la Pénétration IV",982,0.98,100000
+"Croix d’incarnation (Human Design)",541,"Croix de Juxtaposition de l’Ambition",25,0.03,100000
+"Croix d’incarnation (Human Design)",542,"Croix d’Angle Gauche des Cycles II",475,0.48,100000
+"Croix d’incarnation (Human Design)",543,"Croix d’Angle Droit de Maïa IV",967,0.97,100000
+"Croix d’incarnation (Human Design)",544,"Croix de Juxtaposition de la Pensée",34,0.03,100000
+"Croix d’incarnation (Human Design)",545,"Croix d’Angle Gauche de l’Obscurantisme II",530,0.53,100000
+"Croix d’incarnation (Human Design)",546,"Croix d’Angle Droit des Lois IV",975,0.98,100000
+"Croix d’incarnation (Human Design)",547,"Croix de Juxtaposition de la Limitation",32,0.03,100000
+"Croix d’incarnation (Human Design)",548,"Croix d’Angle Gauche de la Distraction II",471,0.47,100000
+"Croix d’incarnation (Human Design)",549,"Croix d’Angle Gauche de la Révolution I",523,0.52,100000
+"Croix d’incarnation (Human Design)",550,"Croix d’Angle Gauche des Souhaits I",507,0.51,100000
+"Croix d’incarnation (Human Design)",551,"Croix d’Angle Droit du Sphinx II",1019,1.02,100000
+"Croix d’incarnation (Human Design)",552,"Croix de Juxtaposition du Conducteur",28,0.03,100000
+"Croix d’incarnation (Human Design)",553,"Croix d’Angle Gauche du Défi I",481,0.48,100000
+"Croix d’incarnation (Human Design)",554,"Croix d’Angle Droit du Vaisseau de l’Amour II",1049,1.05,100000
+"Croix d’incarnation (Human Design)",555,"Croix d’Angle Droit du Sphinx III",1048,1.05,100000
+"Croix d’incarnation (Human Design)",556,"Croix d’Angle Gauche des Masques II",532,0.53,100000
+"Croix d’incarnation (Human Design)",557,"Croix d’Angle Droit de l’Explication III",1016,1.02,100000
+"Croix d’incarnation (Human Design)",558,"Croix d’Angle Gauche de la Révolution II",485,0.49,100000
+"Croix d’incarnation (Human Design)",559,"Croix d’Angle Droit du Vaisseau de l’Amour III",974,0.97,100000
+"Croix d’incarnation (Human Design)",560,"Croix d’Angle Gauche de la Guérison II",522,0.52,100000
+"Croix d’incarnation (Human Design)",561,"Croix d’Angle Droit du Sphinx IV",1024,1.02,100000
+"Croix d’incarnation (Human Design)",562,"Croix d’Angle Droit du Vaisseau de l’Amour IV",986,0.99,100000
+"Croix d’incarnation (Human Design)",563,"Croix d’Angle Gauche de la Prévention II",521,0.52,100000
+"Chemin de vie (numérologie)",1,1,11233,11.23,100000
+"Chemin de vie (numérologie)",2,2,4716,4.72,100000
+"Chemin de vie (numérologie)",3,3,11280,11.28,100000
+"Chemin de vie (numérologie)",4,4,7902,7.9,100000
+"Chemin de vie (numérologie)",5,5,10902,10.9,100000
+"Chemin de vie (numérologie)",6,6,10291,10.29,100000
+"Chemin de vie (numérologie)",7,7,11112,11.11,100000
+"Chemin de vie (numérologie)",8,8,11252,11.25,100000
+"Chemin de vie (numérologie)",9,9,11167,11.17,100000
+"Chemin de vie (numérologie)",11,11,6316,6.32,100000
+"Chemin de vie (numérologie)",22,22,3117,3.12,100000
+"Chemin de vie (numérologie)",33,33,712,0.71,100000
+"Ange de naissance, cœur (72 anges)",1,"1. Vehuiah",1632,1.63,100000
+"Ange de naissance, cœur (72 anges)",2,"2. Jeliel",1625,1.63,100000
+"Ange de naissance, cœur (72 anges)",3,"3. Sitael",1570,1.57,100000
+"Ange de naissance, cœur (72 anges)",4,"4. Elemiah",1592,1.59,100000
+"Ange de naissance, cœur (72 anges)",5,"5. Mahasiah",1568,1.57,100000
+"Ange de naissance, cœur (72 anges)",6,"6. Lelahel",1340,1.34,100000
+"Ange de naissance, cœur (72 anges)",7,"7. Achaiah",1348,1.35,100000
+"Ange de naissance, cœur (72 anges)",8,"8. Cahethel",1340,1.34,100000
+"Ange de naissance, cœur (72 anges)",9,"9. Haziel",1323,1.32,100000
+"Ange de naissance, cœur (72 anges)",10,"10. Aladiah",1372,1.37,100000
+"Ange de naissance, cœur (72 anges)",11,"11. Lauviah",1360,1.36,100000
+"Ange de naissance, cœur (72 anges)",12,"12. Hahaiah",1338,1.34,100000
+"Ange de naissance, cœur (72 anges)",13,"13. Iezalel",1367,1.37,100000
+"Ange de naissance, cœur (72 anges)",14,"14. Mebahel",1396,1.4,100000
+"Ange de naissance, cœur (72 anges)",15,"15. Hariel",1411,1.41,100000
+"Ange de naissance, cœur (72 anges)",16,"16. Hakamiah",1373,1.37,100000
+"Ange de naissance, cœur (72 anges)",17,"17. Lauviah",1454,1.45,100000
+"Ange de naissance, cœur (72 anges)",18,"18. Caliel",1373,1.37,100000
+"Ange de naissance, cœur (72 anges)",19,"19. Leuviah",1344,1.34,100000
+"Ange de naissance, cœur (72 anges)",20,"20. Pahaliah",1389,1.39,100000
+"Ange de naissance, cœur (72 anges)",21,"21. Nelchael",1329,1.33,100000
+"Ange de naissance, cœur (72 anges)",22,"22. Ieiaiel",1451,1.45,100000
+"Ange de naissance, cœur (72 anges)",23,"23. Melahel",1336,1.34,100000
+"Ange de naissance, cœur (72 anges)",24,"24. Hahiuiah",1455,1.46,100000
+"Ange de naissance, cœur (72 anges)",25,"25. Nith-Haiah",1399,1.4,100000
+"Ange de naissance, cœur (72 anges)",26,"26. Haaiah",1333,1.33,100000
+"Ange de naissance, cœur (72 anges)",27,"27. Ierathel",1393,1.39,100000
+"Ange de naissance, cœur (72 anges)",28,"28. Séheiah",1334,1.33,100000
+"Ange de naissance, cœur (72 anges)",29,"29. Reiiel",1379,1.38,100000
+"Ange de naissance, cœur (72 anges)",30,"30. Omael",1394,1.39,100000
+"Ange de naissance, cœur (72 anges)",31,"31. Lecabel",1339,1.34,100000
+"Ange de naissance, cœur (72 anges)",32,"32. Vasariah",1345,1.35,100000
+"Ange de naissance, cœur (72 anges)",33,"33. Iehuiah",1371,1.37,100000
+"Ange de naissance, cœur (72 anges)",34,"34. Lehahiah",1375,1.38,100000
+"Ange de naissance, cœur (72 anges)",35,"35. Chavakiah",1362,1.36,100000
+"Ange de naissance, cœur (72 anges)",36,"36. Menadel",1360,1.36,100000
+"Ange de naissance, cœur (72 anges)",37,"37. Aniel",1318,1.32,100000
+"Ange de naissance, cœur (72 anges)",38,"38. Haamiah",1403,1.4,100000
+"Ange de naissance, cœur (72 anges)",39,"39. Rehael",1388,1.39,100000
+"Ange de naissance, cœur (72 anges)",40,"40. Ieiazel",1410,1.41,100000
+"Ange de naissance, cœur (72 anges)",41,"41. Hahahel",1333,1.33,100000
+"Ange de naissance, cœur (72 anges)",42,"42. Mikael",1385,1.39,100000
+"Ange de naissance, cœur (72 anges)",43,"43. Veualiah",1375,1.38,100000
+"Ange de naissance, cœur (72 anges)",44,"44. Ielahiah",1376,1.38,100000
+"Ange de naissance, cœur (72 anges)",45,"45. Sealiah",1359,1.36,100000
+"Ange de naissance, cœur (72 anges)",46,"46. Ariel",1350,1.35,100000
+"Ange de naissance, cœur (72 anges)",47,"47. Asaliah",1389,1.39,100000
+"Ange de naissance, cœur (72 anges)",48,"48. Mihael",1416,1.42,100000
+"Ange de naissance, cœur (72 anges)",49,"49. Vehuel",1355,1.36,100000
+"Ange de naissance, cœur (72 anges)",50,"50. Daniel",1324,1.32,100000
+"Ange de naissance, cœur (72 anges)",51,"51. Hahasiah",1421,1.42,100000
+"Ange de naissance, cœur (72 anges)",52,"52. Imamiah",1350,1.35,100000
+"Ange de naissance, cœur (72 anges)",53,"53. Nanael",1306,1.31,100000
+"Ange de naissance, cœur (72 anges)",54,"54. Nithael",1323,1.32,100000
+"Ange de naissance, cœur (72 anges)",55,"55. Mebahiah",1384,1.38,100000
+"Ange de naissance, cœur (72 anges)",56,"56. Poiel",1386,1.39,100000
+"Ange de naissance, cœur (72 anges)",57,"57. Nemamiah",1403,1.4,100000
+"Ange de naissance, cœur (72 anges)",58,"58. Ieialel",1498,1.5,100000
+"Ange de naissance, cœur (72 anges)",59,"59. Harahel",1380,1.38,100000
+"Ange de naissance, cœur (72 anges)",60,"60. Mitzrael",1334,1.33,100000
+"Ange de naissance, cœur (72 anges)",61,"61. Umabel",1362,1.36,100000
+"Ange de naissance, cœur (72 anges)",62,"62. Iah-hel",1450,1.45,100000
+"Ange de naissance, cœur (72 anges)",63,"63. Anauel",1371,1.37,100000
+"Ange de naissance, cœur (72 anges)",64,"64. Mehiel",1378,1.38,100000
+"Ange de naissance, cœur (72 anges)",65,"65. Damabiah",1402,1.4,100000
+"Ange de naissance, cœur (72 anges)",66,"66. Manakel",1370,1.37,100000
+"Ange de naissance, cœur (72 anges)",67,"67. Eiael",1318,1.32,100000
+"Ange de naissance, cœur (72 anges)",68,"68. Habuhiah",1364,1.36,100000
+"Ange de naissance, cœur (72 anges)",69,"69. Rochel",1397,1.4,100000
+"Ange de naissance, cœur (72 anges)",70,"70. Jabamiah",1377,1.38,100000
+"Ange de naissance, cœur (72 anges)",71,"71. Haiaiel",1416,1.42,100000
+"Ange de naissance, cœur (72 anges)",72,"72. Mumiah",1359,1.36,100000

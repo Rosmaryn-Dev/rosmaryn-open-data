@@ -1,0 +1,3006 @@
+{
+    "titre": "Concordance des anges et des démons : Livre d’Hénoch, Clé de Salomon, Goétia",
+    "source": "https://library.rosmaryn.app/concordance/anges-et-demons/",
+    "licence": "CC BY 4.0",
+    "attribution": "Rosmaryn Library",
+    "textes": [
+        "Livre d’Hénoch, trad. R. H. Charles (1912) et François Martin (1906)",
+        "The Key of Solomon the King, éd. S. L. MacGregor Mathers (1889)",
+        "The Lesser Key of Solomon, Goetia, éd. L. W. de Laurence (1916)"
+    ],
+    "mis_a_jour": "2026-11-22",
+    "nombre": 182,
+    "entrees": [
+        {
+            "nom": "Semjaza",
+            "autres_graphies": [
+                "Samjaza",
+                "Semyaza",
+                "Amiziras",
+                "Samiaziz"
+            ],
+            "nature": "Veilleur",
+            "henoch": [
+                {
+                    "ref": "6:7",
+                    "page_charles_1912": "16",
+                    "graphie_martin_1906": "Semjaza"
+                },
+                {
+                    "ref": "8:3",
+                    "page_charles_1912": "19",
+                    "graphie_martin_1906": "Amiziras"
+                },
+                {
+                    "ref": "9:7",
+                    "page_charles_1912": "21",
+                    "graphie_martin_1906": "Semyaza"
+                },
+                {
+                    "ref": "10:11",
+                    "page_charles_1912": "24",
+                    "graphie_martin_1906": "Semyaza"
+                },
+                {
+                    "ref": "69:2",
+                    "page_charles_1912": "137",
+                    "graphie_martin_1906": "Semyaza"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Arakib",
+            "autres_graphies": [
+                "Arakiba"
+            ],
+            "nature": "Veilleur",
+            "henoch": [
+                {
+                    "ref": "6:7",
+                    "page_charles_1912": "16",
+                    "graphie_martin_1906": "Arakib"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Aramiel",
+            "autres_graphies": [
+                "Raméél"
+            ],
+            "nature": "Veilleur",
+            "henoch": [
+                {
+                    "ref": "6:7",
+                    "page_charles_1912": "16",
+                    "graphie_martin_1906": "Aramiel"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Kokabiel",
+            "autres_graphies": [
+                "Kokabiél",
+                "Kokabél",
+                "Kékabél",
+                "Kékabiél",
+                "Kôkabiel",
+                "Kôkabel"
+            ],
+            "nature": "Veilleur",
+            "henoch": [
+                {
+                    "ref": "6:7",
+                    "page_charles_1912": "16",
+                    "graphie_martin_1906": "Kôkabiel"
+                },
+                {
+                    "ref": "8:3",
+                    "page_charles_1912": "19",
+                    "graphie_martin_1906": "Kôkabiel"
+                },
+                {
+                    "ref": "69:2",
+                    "page_charles_1912": "137",
+                    "graphie_martin_1906": "Kôkabel"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Tamiel",
+            "autres_graphies": [
+                "Tamiél"
+            ],
+            "nature": "Veilleur",
+            "henoch": [
+                {
+                    "ref": "6:7",
+                    "page_charles_1912": "16",
+                    "graphie_martin_1906": "Tamiel"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Ramiel",
+            "autres_graphies": [
+                "Ramiél",
+                "Ramjal",
+                "Rimjal",
+                "Rumyal"
+            ],
+            "nature": "Veilleur",
+            "henoch": [
+                {
+                    "ref": "6:7",
+                    "page_charles_1912": "16",
+                    "graphie_martin_1906": "Ramiel"
+                },
+                {
+                    "ref": "69:2",
+                    "page_charles_1912": "137",
+                    "graphie_martin_1906": "Rumyal"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Daniel",
+            "autres_graphies": [
+                "Danél",
+                "Danjal"
+            ],
+            "nature": "Veilleur",
+            "henoch": [
+                {
+                    "ref": "6:7",
+                    "page_charles_1912": "16",
+                    "graphie_martin_1906": "Daniel"
+                },
+                {
+                    "ref": "69:2",
+                    "page_charles_1912": "137",
+                    "graphie_martin_1906": "Daniel"
+                }
+            ],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre X",
+                    "page_mathers_1889": "45"
+                },
+                {
+                    "ref": "livre II, chapitre II",
+                    "page_mathers_1889": "76"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Ezéqiel",
+            "autres_graphies": [
+                "Ezéqéél",
+                "Néqél",
+                "Neqel"
+            ],
+            "nature": "Veilleur",
+            "henoch": [
+                {
+                    "ref": "6:7",
+                    "page_charles_1912": "16",
+                    "graphie_martin_1906": "Ezéqiel"
+                },
+                {
+                    "ref": "8:3",
+                    "page_charles_1912": "19",
+                    "graphie_martin_1906": "Tamiel"
+                },
+                {
+                    "ref": "69:2",
+                    "page_charles_1912": "137",
+                    "graphie_martin_1906": "Neqel"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Baraqiel",
+            "autres_graphies": [
+                "Baraqijal",
+                "Baraqél"
+            ],
+            "nature": "Veilleur",
+            "henoch": [
+                {
+                    "ref": "6:7",
+                    "page_charles_1912": "16",
+                    "graphie_martin_1906": "Baraqiel"
+                },
+                {
+                    "ref": "8:3",
+                    "page_charles_1912": "19",
+                    "graphie_martin_1906": "Baraqiel"
+                },
+                {
+                    "ref": "69:2",
+                    "page_charles_1912": "137",
+                    "graphie_martin_1906": "Baraqiel"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Azazel",
+            "autres_graphies": [
+                "Azazél",
+                "Azaël",
+                "Asiél",
+                "Aséaél",
+                "Asaël",
+                "Asaryalyor"
+            ],
+            "nature": "Veilleur",
+            "henoch": [
+                {
+                    "ref": "6:7",
+                    "page_charles_1912": "16",
+                    "graphie_martin_1906": "Asaël"
+                },
+                {
+                    "ref": "8:1",
+                    "page_charles_1912": "18",
+                    "graphie_martin_1906": "Azazel"
+                },
+                {
+                    "ref": "9:6",
+                    "page_charles_1912": "21",
+                    "graphie_martin_1906": "Azazel"
+                },
+                {
+                    "ref": "10:4",
+                    "page_charles_1912": "23",
+                    "graphie_martin_1906": "Asaryalyor"
+                },
+                {
+                    "ref": "13:1",
+                    "page_charles_1912": "29",
+                    "graphie_martin_1906": "Azazel"
+                },
+                {
+                    "ref": "54:5",
+                    "page_charles_1912": "106",
+                    "graphie_martin_1906": "Azazel"
+                },
+                {
+                    "ref": "55:4",
+                    "page_charles_1912": "108",
+                    "graphie_martin_1906": "Azazel"
+                },
+                {
+                    "ref": "69:2",
+                    "page_charles_1912": "137",
+                    "graphie_martin_1906": "Azazel"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Armaros",
+            "autres_graphies": [
+                "Armarés"
+            ],
+            "nature": "Veilleur",
+            "henoch": [
+                {
+                    "ref": "6:7",
+                    "page_charles_1912": "16",
+                    "graphie_martin_1906": "Armaros"
+                },
+                {
+                    "ref": "8:3",
+                    "page_charles_1912": "19",
+                    "graphie_martin_1906": "Armaros"
+                },
+                {
+                    "ref": "69:2",
+                    "page_charles_1912": "137",
+                    "graphie_martin_1906": "Armaros"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Batariel",
+            "autres_graphies": [
+                "Batarél",
+                "Batarjal",
+                "Bataryal"
+            ],
+            "nature": "Veilleur",
+            "henoch": [
+                {
+                    "ref": "6:7",
+                    "page_charles_1912": "16",
+                    "graphie_martin_1906": "Batariel"
+                },
+                {
+                    "ref": "69:2",
+                    "page_charles_1912": "137",
+                    "graphie_martin_1906": "Bataryal"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Ananiel",
+            "autres_graphies": [
+                "Ananél",
+                "Hananél",
+                "Hananel"
+            ],
+            "nature": "Veilleur",
+            "henoch": [
+                {
+                    "ref": "6:7",
+                    "page_charles_1912": "16",
+                    "graphie_martin_1906": "Ananiel"
+                },
+                {
+                    "ref": "69:2",
+                    "page_charles_1912": "137",
+                    "graphie_martin_1906": "Hananel"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Zaqiel",
+            "autres_graphies": [
+                "Zaqiél"
+            ],
+            "nature": "Veilleur",
+            "henoch": [
+                {
+                    "ref": "6:7",
+                    "page_charles_1912": "16",
+                    "graphie_martin_1906": "Zaqilê"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Samsapeel",
+            "autres_graphies": [
+                "Samsapéél",
+                "Shamsiél",
+                "Simipésiél",
+                "Simapisiel"
+            ],
+            "nature": "Veilleur",
+            "henoch": [
+                {
+                    "ref": "6:7",
+                    "page_charles_1912": "16",
+                    "graphie_martin_1906": "SamsapeeH"
+                },
+                {
+                    "ref": "8:3",
+                    "page_charles_1912": "20",
+                    "graphie_martin_1906": ""
+                },
+                {
+                    "ref": "69:2",
+                    "page_charles_1912": "137",
+                    "graphie_martin_1906": "Simapisiel"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Satariel",
+            "autres_graphies": [
+                "Satarél"
+            ],
+            "nature": "Veilleur",
+            "henoch": [
+                {
+                    "ref": "6:7",
+                    "page_charles_1912": "16",
+                    "graphie_martin_1906": "Satariel"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Touriel",
+            "autres_graphies": [
+                "Tirél",
+                "Tarél",
+                "Tariel"
+            ],
+            "nature": "Veilleur",
+            "henoch": [
+                {
+                    "ref": "6:7",
+                    "page_charles_1912": "16",
+                    "graphie_martin_1906": "Touriel"
+                },
+                {
+                    "ref": "69:2",
+                    "page_charles_1912": "137",
+                    "graphie_martin_1906": "Tariel"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Yomeyal",
+            "autres_graphies": [
+                "Jomjaiél",
+                "Rimaél",
+                "Rumael"
+            ],
+            "nature": "Veilleur",
+            "henoch": [
+                {
+                    "ref": "6:7",
+                    "page_charles_1912": "16",
+                    "graphie_martin_1906": "Yomeyal"
+                },
+                {
+                    "ref": "69:2",
+                    "page_charles_1912": "137",
+                    "graphie_martin_1906": "Rumael"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Sariel",
+            "autres_graphies": [
+                "Sariél",
+                "Arazeyal",
+                "Asdariel"
+            ],
+            "nature": "Veilleur",
+            "henoch": [
+                {
+                    "ref": "6:7",
+                    "page_charles_1912": "16",
+                    "graphie_martin_1906": "Arazeyal"
+                },
+                {
+                    "ref": "8:3",
+                    "page_charles_1912": "20",
+                    "graphie_martin_1906": "Asdariel"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Araqiel",
+            "autres_graphies": [
+                "Araqiél"
+            ],
+            "nature": "Veilleur",
+            "henoch": [
+                {
+                    "ref": "8:3",
+                    "page_charles_1912": "20",
+                    "graphie_martin_1906": ""
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Artaqifa",
+            "autres_graphies": [
+                "Artiqifa",
+                "Arstiqifa"
+            ],
+            "nature": "Veilleur",
+            "henoch": [
+                {
+                    "ref": "69:2",
+                    "page_charles_1912": "137",
+                    "graphie_martin_1906": "Arstiqifa"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Armen",
+            "autres_graphies": [
+                "Armén",
+                "Armên"
+            ],
+            "nature": "Veilleur",
+            "henoch": [
+                {
+                    "ref": "69:2",
+                    "page_charles_1912": "137",
+                    "graphie_martin_1906": "Armên"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Touriel (5e du chap. 69)",
+            "autres_graphies": [
+                "Turaél",
+                "Touriel"
+            ],
+            "nature": "Veilleur",
+            "henoch": [
+                {
+                    "ref": "69:2",
+                    "page_charles_1912": "137",
+                    "graphie_martin_1906": "Touriel"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Basasael",
+            "autres_graphies": [
+                "Basasaël",
+                "Basaséjal",
+                "Busaséjal"
+            ],
+            "nature": "Veilleur",
+            "henoch": [
+                {
+                    "ref": "69:2",
+                    "page_charles_1912": "137",
+                    "graphie_martin_1906": "Basasaël"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Touriel (15e du chap. 69)",
+            "autres_graphies": [
+                "Tirél",
+                "Touriel"
+            ],
+            "nature": "Veilleur",
+            "henoch": [
+                {
+                    "ref": "69:2",
+                    "page_charles_1912": "137",
+                    "graphie_martin_1906": "Touriel"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Yetariel",
+            "autres_graphies": [
+                "Jetrél"
+            ],
+            "nature": "Veilleur",
+            "henoch": [
+                {
+                    "ref": "69:2",
+                    "page_charles_1912": "137",
+                    "graphie_martin_1906": "Yetariel"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Tumael",
+            "autres_graphies": [
+                "Tumaël",
+                "Timiél",
+                "Tamaél"
+            ],
+            "nature": "Veilleur",
+            "henoch": [
+                {
+                    "ref": "69:2",
+                    "page_charles_1912": "137",
+                    "graphie_martin_1906": "Tumaël"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Yeqon",
+            "autres_graphies": [
+                "Jeqon",
+                "Jeqén"
+            ],
+            "nature": "autre",
+            "henoch": [
+                {
+                    "ref": "69:4",
+                    "page_charles_1912": "137",
+                    "graphie_martin_1906": "Yeqon"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Asbeel",
+            "autres_graphies": [
+                "Asbeél"
+            ],
+            "nature": "autre",
+            "henoch": [
+                {
+                    "ref": "69:5",
+                    "page_charles_1912": "137",
+                    "graphie_martin_1906": "Asbeel"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Gadriel",
+            "autres_graphies": [
+                "Gadreél",
+                "Gadreel"
+            ],
+            "nature": "autre",
+            "henoch": [
+                {
+                    "ref": "69:6",
+                    "page_charles_1912": "137",
+                    "graphie_martin_1906": "Gadriel"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Penemue",
+            "autres_graphies": [
+                "Pénémie",
+                "Penemu'e"
+            ],
+            "nature": "autre",
+            "henoch": [
+                {
+                    "ref": "69:8",
+                    "page_charles_1912": "138",
+                    "graphie_martin_1906": "Penemu'e"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Kasdeya",
+            "autres_graphies": [
+                "Kasdeya'e",
+                "Kasdeji"
+            ],
+            "nature": "autre",
+            "henoch": [
+                {
+                    "ref": "69:12",
+                    "page_charles_1912": "138",
+                    "graphie_martin_1906": "Kasdeya'e"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Kasbeel",
+            "autres_graphies": [
+                "KAsbeél"
+            ],
+            "nature": "autre",
+            "henoch": [
+                {
+                    "ref": "69:13",
+                    "page_charles_1912": "138",
+                    "graphie_martin_1906": "Kasbeel"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Satan",
+            "autres_graphies": [],
+            "nature": "autre",
+            "henoch": [
+                {
+                    "ref": "54:6",
+                    "page_charles_1912": "106",
+                    "graphie_martin_1906": "Satan"
+                }
+            ],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 16 (pentacle de Saturne)",
+                    "page_mathers_1889": "60"
+                },
+                {
+                    "ref": "fragment ancien de la Clé",
+                    "page_mathers_1889": "110"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Michael",
+            "autres_graphies": [
+                "Michaël"
+            ],
+            "nature": "archange",
+            "henoch": [
+                {
+                    "ref": "9:1",
+                    "page_charles_1912": "20",
+                    "graphie_martin_1906": "Michaël"
+                },
+                {
+                    "ref": "10:11",
+                    "page_charles_1912": "24",
+                    "graphie_martin_1906": "Michaël"
+                },
+                {
+                    "ref": "20:5",
+                    "page_charles_1912": "43",
+                    "graphie_martin_1906": "Michaël"
+                },
+                {
+                    "ref": "40:9",
+                    "page_charles_1912": "78-79",
+                    "graphie_martin_1906": "Michaël"
+                },
+                {
+                    "ref": "54:6",
+                    "page_charles_1912": "106",
+                    "graphie_martin_1906": "Michaël"
+                },
+                {
+                    "ref": "68:3",
+                    "page_charles_1912": "136",
+                    "graphie_martin_1906": "Michaël"
+                },
+                {
+                    "ref": "69:14",
+                    "page_charles_1912": "139",
+                    "graphie_martin_1906": "Michaël"
+                },
+                {
+                    "ref": "71:3",
+                    "page_charles_1912": "143",
+                    "graphie_martin_1906": "Michaël"
+                },
+                {
+                    "ref": "71:8",
+                    "page_charles_1912": "144-145",
+                    "graphie_martin_1906": "Michaël"
+                }
+            ],
+            "cle_de_salomon": [
+                {
+                    "ref": "préface, tables des heures et des planètes",
+                    "page_mathers_1889": "7"
+                },
+                {
+                    "ref": "préface, tables des heures et des planètes",
+                    "page_mathers_1889": "8"
+                },
+                {
+                    "ref": "préface, tables des heures et des planètes",
+                    "page_mathers_1889": "8"
+                },
+                {
+                    "ref": "livre I, chapitre XIII",
+                    "page_mathers_1889": "49"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Gabriel",
+            "autres_graphies": [],
+            "nature": "archange",
+            "henoch": [
+                {
+                    "ref": "9:1",
+                    "page_charles_1912": "20",
+                    "graphie_martin_1906": "Gabriel"
+                },
+                {
+                    "ref": "10:9",
+                    "page_charles_1912": "23",
+                    "graphie_martin_1906": "Gabriel"
+                },
+                {
+                    "ref": "20:7",
+                    "page_charles_1912": "44",
+                    "graphie_martin_1906": "Gabriel"
+                },
+                {
+                    "ref": "40:9",
+                    "page_charles_1912": "78-79",
+                    "graphie_martin_1906": "Gabriel"
+                },
+                {
+                    "ref": "54:6",
+                    "page_charles_1912": "106",
+                    "graphie_martin_1906": "Gabriel"
+                },
+                {
+                    "ref": "71:8",
+                    "page_charles_1912": "144-145",
+                    "graphie_martin_1906": "Gabriel"
+                }
+            ],
+            "cle_de_salomon": [
+                {
+                    "ref": "préface, tables des heures et des planètes",
+                    "page_mathers_1889": "7"
+                },
+                {
+                    "ref": "préface, tables des heures et des planètes",
+                    "page_mathers_1889": "8"
+                },
+                {
+                    "ref": "préface, tables des heures et des planètes",
+                    "page_mathers_1889": "8"
+                },
+                {
+                    "ref": "livre I, chapitre XIII",
+                    "page_mathers_1889": "49"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Raphael",
+            "autres_graphies": [
+                "Raphaël"
+            ],
+            "nature": "archange",
+            "henoch": [
+                {
+                    "ref": "9:1",
+                    "page_charles_1912": "20",
+                    "graphie_martin_1906": "Raphaël"
+                },
+                {
+                    "ref": "10:4",
+                    "page_charles_1912": "23",
+                    "graphie_martin_1906": "Raphaël"
+                },
+                {
+                    "ref": "20:3",
+                    "page_charles_1912": "43",
+                    "graphie_martin_1906": "Raphaël"
+                },
+                {
+                    "ref": "22:3",
+                    "page_charles_1912": "47",
+                    "graphie_martin_1906": "Raphaël"
+                },
+                {
+                    "ref": "32:6",
+                    "page_charles_1912": "61",
+                    "graphie_martin_1906": "Raphaël"
+                },
+                {
+                    "ref": "40:9",
+                    "page_charles_1912": "78-79",
+                    "graphie_martin_1906": "Raphaël"
+                },
+                {
+                    "ref": "54:6",
+                    "page_charles_1912": "106",
+                    "graphie_martin_1906": "Raphaël"
+                },
+                {
+                    "ref": "68:2",
+                    "page_charles_1912": "135",
+                    "graphie_martin_1906": "Raphaël"
+                },
+                {
+                    "ref": "71:8",
+                    "page_charles_1912": "144-145",
+                    "graphie_martin_1906": "Raphaël"
+                }
+            ],
+            "cle_de_salomon": [
+                {
+                    "ref": "préface, tables des heures et des planètes",
+                    "page_mathers_1889": "7"
+                },
+                {
+                    "ref": "préface, tables des heures et des planètes",
+                    "page_mathers_1889": "8"
+                },
+                {
+                    "ref": "préface, tables des heures et des planètes",
+                    "page_mathers_1889": "8"
+                },
+                {
+                    "ref": "livre I, chapitre XIII",
+                    "page_mathers_1889": "49"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Uriel",
+            "autres_graphies": [],
+            "nature": "archange",
+            "henoch": [
+                {
+                    "ref": "9:1",
+                    "page_charles_1912": "20",
+                    "graphie_martin_1906": "Uriel"
+                },
+                {
+                    "ref": "10:1",
+                    "page_charles_1912": "22",
+                    "graphie_martin_1906": ""
+                },
+                {
+                    "ref": "19:1",
+                    "page_charles_1912": "42",
+                    "graphie_martin_1906": "Uriel"
+                },
+                {
+                    "ref": "20:2",
+                    "page_charles_1912": "43",
+                    "graphie_martin_1906": "Uriel"
+                },
+                {
+                    "ref": "21:5",
+                    "page_charles_1912": "44",
+                    "graphie_martin_1906": "Uriel"
+                },
+                {
+                    "ref": "21:9",
+                    "page_charles_1912": "45",
+                    "graphie_martin_1906": "Uriel"
+                },
+                {
+                    "ref": "27:2",
+                    "page_charles_1912": "56",
+                    "graphie_martin_1906": "Uriel"
+                },
+                {
+                    "ref": "33:3",
+                    "page_charles_1912": "62",
+                    "graphie_martin_1906": "Uriel"
+                },
+                {
+                    "ref": "75:3",
+                    "page_charles_1912": "162",
+                    "graphie_martin_1906": "Uriel"
+                },
+                {
+                    "ref": "80:1",
+                    "page_charles_1912": "170",
+                    "graphie_martin_1906": "Uriel"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Phanuel",
+            "autres_graphies": [],
+            "nature": "archange",
+            "henoch": [
+                {
+                    "ref": "40:9",
+                    "page_charles_1912": "78-79",
+                    "graphie_martin_1906": "Phanuel"
+                },
+                {
+                    "ref": "54:6",
+                    "page_charles_1912": "106",
+                    "graphie_martin_1906": "Phanuel"
+                },
+                {
+                    "ref": "71:8",
+                    "page_charles_1912": "144-145",
+                    "graphie_martin_1906": "Phanuel"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Raguel",
+            "autres_graphies": [],
+            "nature": "archange",
+            "henoch": [
+                {
+                    "ref": "20:4",
+                    "page_charles_1912": "43",
+                    "graphie_martin_1906": "Raguel"
+                },
+                {
+                    "ref": "23:4",
+                    "page_charles_1912": "51",
+                    "graphie_martin_1906": "Raguel"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Remiel",
+            "autres_graphies": [],
+            "nature": "archange",
+            "henoch": [
+                {
+                    "ref": "20:8",
+                    "page_charles_1912": "44",
+                    "graphie_martin_1906": ""
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Saraqael",
+            "autres_graphies": [
+                "Saraqiel"
+            ],
+            "nature": "archange",
+            "henoch": [
+                {
+                    "ref": "20:6",
+                    "page_charles_1912": "44",
+                    "graphie_martin_1906": "Saraqiel"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Milkiel",
+            "autres_graphies": [
+                "Milki’él",
+                "Melkejal",
+                "Melkiel"
+            ],
+            "nature": "ange",
+            "henoch": [
+                {
+                    "ref": "82:13",
+                    "page_charles_1912": "177",
+                    "graphie_martin_1906": "Melkiel"
+                },
+                {
+                    "ref": "82:15",
+                    "page_charles_1912": "177",
+                    "graphie_martin_1906": "Melkiel"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Helemmelek",
+            "autres_graphies": [
+                "Hel’emmélék",
+                "Élimelek",
+                "Elimelek"
+            ],
+            "nature": "ange",
+            "henoch": [
+                {
+                    "ref": "82:13",
+                    "page_charles_1912": "177",
+                    "graphie_martin_1906": "Élimelek"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Melejal",
+            "autres_graphies": [
+                "Mél’éjal",
+                "Mêlêyal"
+            ],
+            "nature": "ange",
+            "henoch": [
+                {
+                    "ref": "82:13",
+                    "page_charles_1912": "177",
+                    "graphie_martin_1906": "Mêlêyal"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Narel",
+            "autres_graphies": [
+                "Narél",
+                "Nârel"
+            ],
+            "nature": "ange",
+            "henoch": [
+                {
+                    "ref": "82:13",
+                    "page_charles_1912": "177",
+                    "graphie_martin_1906": "Nârel"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Adnarel",
+            "autres_graphies": [
+                "Adnéar’él"
+            ],
+            "nature": "ange",
+            "henoch": [
+                {
+                    "ref": "82:14",
+                    "page_charles_1912": "177",
+                    "graphie_martin_1906": "Adnarel"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Ijasusael",
+            "autres_graphies": [
+                "Tjastisa’él",
+                "lyasusâel"
+            ],
+            "nature": "ange",
+            "henoch": [
+                {
+                    "ref": "82:14",
+                    "page_charles_1912": "177",
+                    "graphie_martin_1906": "lyasusâel"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Elomeel",
+            "autres_graphies": [
+                "Hlomé’él",
+                "lyelumiel"
+            ],
+            "nature": "ange",
+            "henoch": [
+                {
+                    "ref": "82:14",
+                    "page_charles_1912": "177",
+                    "graphie_martin_1906": "lyelumiel"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Berkael",
+            "autres_graphies": [
+                "Berka’él",
+                "Berkiel"
+            ],
+            "nature": "ange",
+            "henoch": [
+                {
+                    "ref": "82:17",
+                    "page_charles_1912": "177",
+                    "graphie_martin_1906": "Berkiel"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Zelebsel",
+            "autres_graphies": [
+                "Zélebs’él",
+                "Zalbesàel"
+            ],
+            "nature": "ange",
+            "henoch": [
+                {
+                    "ref": "82:17",
+                    "page_charles_1912": "177",
+                    "graphie_martin_1906": "Zalbesàel"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Hilujaseph",
+            "autres_graphies": [
+                "Hildjaséph",
+                "Hêloyasêph"
+            ],
+            "nature": "ange",
+            "henoch": [
+                {
+                    "ref": "82:17",
+                    "page_charles_1912": "177",
+                    "graphie_martin_1906": "Hêloyasêph"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Zotiel",
+            "autres_graphies": [
+                "Zotiél"
+            ],
+            "nature": "ange",
+            "henoch": [
+                {
+                    "ref": "32:2",
+                    "page_charles_1912": "60",
+                    "graphie_martin_1906": "Zotiel"
+                }
+            ],
+            "cle_de_salomon": [],
+            "goetia": null
+        },
+        {
+            "nom": "Cassiel",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "préface, tables des heures et des planètes",
+                    "page_mathers_1889": "7"
+                },
+                {
+                    "ref": "préface, tables des heures et des planètes",
+                    "page_mathers_1889": "8"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Sachiel",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "préface, tables des heures et des planètes",
+                    "page_mathers_1889": "7"
+                },
+                {
+                    "ref": "préface, tables des heures et des planètes",
+                    "page_mathers_1889": "8"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Zamael",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "préface, tables des heures et des planètes",
+                    "page_mathers_1889": "7"
+                },
+                {
+                    "ref": "préface, tables des heures et des planètes",
+                    "page_mathers_1889": "8"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Anael",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "préface, tables des heures et des planètes",
+                    "page_mathers_1889": "7"
+                },
+                {
+                    "ref": "préface, tables des heures et des planètes",
+                    "page_mathers_1889": "8"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Tzaphqiel",
+            "autres_graphies": [],
+            "nature": "archange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "préface, tables des heures et des planètes",
+                    "page_mathers_1889": "8"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Tzadiqel",
+            "autres_graphies": [],
+            "nature": "archange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "préface, tables des heures et des planètes",
+                    "page_mathers_1889": "8"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Khamael",
+            "autres_graphies": [],
+            "nature": "archange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "préface, tables des heures et des planètes",
+                    "page_mathers_1889": "8"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Haniel",
+            "autres_graphies": [],
+            "nature": "archange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "préface, tables des heures et des planètes",
+                    "page_mathers_1889": "8"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Omeliel",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 13 (pentacle de Saturne)",
+                    "page_mathers_1889": "59"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Anachiel",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 13 (pentacle de Saturne)",
+                    "page_mathers_1889": "59"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Arauchiah",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 13 (pentacle de Saturne)",
+                    "page_mathers_1889": "59"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Anazachia",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 13 (pentacle de Saturne)",
+                    "page_mathers_1889": "59"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Arehanah",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 15 (pentacle de Saturne)",
+                    "page_mathers_1889": "60"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Rakhaniel",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 15 (pentacle de Saturne)",
+                    "page_mathers_1889": "60"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Roelhaiphar",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 15 (pentacle de Saturne)",
+                    "page_mathers_1889": "60"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Noaphiel",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 15 (pentacle de Saturne)",
+                    "page_mathers_1889": "60"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Netoniel",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 18 (pentacle de Jupiter)",
+                    "page_mathers_1889": "61"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Devachiah",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 18 (pentacle de Jupiter)",
+                    "page_mathers_1889": "61"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Tzedeqiah",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 18 (pentacle de Jupiter)",
+                    "page_mathers_1889": "61"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Parasiel",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 18 (pentacle de Jupiter)",
+                    "page_mathers_1889": "61"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Adoniel",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 21 (pentacle de Jupiter)",
+                    "page_mathers_1889": "62"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Bariel",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 21 (pentacle de Jupiter)",
+                    "page_mathers_1889": "62"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Madimiel",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 25 (pentacle de Mars)",
+                    "page_mathers_1889": "63"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Bartzachiah",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 25 (pentacle de Mars)",
+                    "page_mathers_1889": "63"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Eschiel",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 25 (pentacle de Mars)",
+                    "page_mathers_1889": "63"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Ithuriel",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 25 (pentacle de Mars)",
+                    "page_mathers_1889": "63"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Metatron",
+            "autres_graphies": [
+                "Methraton"
+            ],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 32 (pentacle du Soleil)",
+                    "page_mathers_1889": "65"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Shemeshiel",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 33 (pentacle du Soleil)",
+                    "page_mathers_1889": "65"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Paimoniah",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 33 (pentacle du Soleil)",
+                    "page_mathers_1889": "65"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Rekhodiah",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 33 (pentacle du Soleil)",
+                    "page_mathers_1889": "65"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Malkhiel",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 33 (pentacle du Soleil)",
+                    "page_mathers_1889": "65"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Nogahiel",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 39 (pentacle de Vénus)",
+                    "page_mathers_1889": "67"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Acheliah",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 39 (pentacle de Vénus)",
+                    "page_mathers_1889": "67"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Socodiah",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 39 (pentacle de Vénus)",
+                    "page_mathers_1889": "67"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Nangariel",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 39 (pentacle de Vénus)",
+                    "page_mathers_1889": "67"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Monachiel",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 41 (pentacle de Vénus)",
+                    "page_mathers_1889": "67"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Degaliel",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 41 (pentacle de Vénus)",
+                    "page_mathers_1889": "67"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Yekahel",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 44 (pentacle de Mercure)",
+                    "page_mathers_1889": "68"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Agiel",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 44 (pentacle de Mercure)",
+                    "page_mathers_1889": "68"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Boel",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 45 (pentacle de Mercure)",
+                    "page_mathers_1889": "68"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Kokaviel",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 46 (pentacle de Mercure)",
+                    "page_mathers_1889": "68"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Ghedoriah",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 46 (pentacle de Mercure)",
+                    "page_mathers_1889": "68"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Savaniah",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 46 (pentacle de Mercure)",
+                    "page_mathers_1889": "68"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Chokmahiel",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 46 (pentacle de Mercure)",
+                    "page_mathers_1889": "68"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Schioel",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 49 (pentacle de la Lune)",
+                    "page_mathers_1889": "69"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Vaol",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 49 (pentacle de la Lune)",
+                    "page_mathers_1889": "69"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Yashiel",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 49 (pentacle de la Lune)",
+                    "page_mathers_1889": "69"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Vehiel",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 49 (pentacle de la Lune)",
+                    "page_mathers_1889": "69"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Abariel",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 50 (pentacle de la Lune)",
+                    "page_mathers_1889": "69"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Vevaphel",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 51 (pentacle de la Lune)",
+                    "page_mathers_1889": "69"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Sophiel",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 52 (pentacle de la Lune)",
+                    "page_mathers_1889": "70"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Yahel",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 52 (pentacle de la Lune)",
+                    "page_mathers_1889": "70"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Iachadiel",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 53 (pentacle de la Lune)",
+                    "page_mathers_1889": "70"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Azarel",
+            "autres_graphies": [],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 53 (pentacle de la Lune)",
+                    "page_mathers_1889": "70"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Aegalmiel",
+            "autres_graphies": [
+                "iEgalmiel"
+            ],
+            "nature": "ange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XVIII, figure 41 (pentacle de Vénus)",
+                    "page_mathers_1889": "67"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Bael",
+            "autres_graphies": [],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "préface, introduction",
+                    "page_mathers_1889": "5-6"
+                },
+                {
+                    "ref": "livre II, chapitre II",
+                    "page_mathers_1889": "76"
+                }
+            ],
+            "goetia": {
+                "numero": 1,
+                "titre": "roi",
+                "legions": 66
+            }
+        },
+        {
+            "nom": "Asmodeus",
+            "autres_graphies": [],
+            "nature": "autre",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "fragment ancien de la Clé",
+                    "page_mathers_1889": "111"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Auriel",
+            "autres_graphies": [],
+            "nature": "archange",
+            "henoch": [],
+            "cle_de_salomon": [
+                {
+                    "ref": "livre I, chapitre XIII",
+                    "page_mathers_1889": "49"
+                },
+                {
+                    "ref": "livre II, chapitre VIII",
+                    "page_mathers_1889": "87"
+                }
+            ],
+            "goetia": null
+        },
+        {
+            "nom": "Agares",
+            "autres_graphies": [
+                "Agreas"
+            ],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 2,
+                "titre": "duc",
+                "legions": 31
+            }
+        },
+        {
+            "nom": "Vassago",
+            "autres_graphies": [],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 3,
+                "titre": "prince",
+                "legions": 26
+            }
+        },
+        {
+            "nom": "Samigina",
+            "autres_graphies": [
+                "Gamigin"
+            ],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 4,
+                "titre": "marquis",
+                "legions": 30
+            }
+        },
+        {
+            "nom": "Marbas",
+            "autres_graphies": [],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 5,
+                "titre": "président",
+                "legions": 36
+            }
+        },
+        {
+            "nom": "Valefor",
+            "autres_graphies": [],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 6,
+                "titre": "duc",
+                "legions": 10
+            }
+        },
+        {
+            "nom": "Amon",
+            "autres_graphies": [],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 7,
+                "titre": "marquis",
+                "legions": 40
+            }
+        },
+        {
+            "nom": "Barbatos",
+            "autres_graphies": [],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 8,
+                "titre": "duc",
+                "legions": 30
+            }
+        },
+        {
+            "nom": "Paimon",
+            "autres_graphies": [],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 9,
+                "titre": "roi",
+                "legions": 200
+            }
+        },
+        {
+            "nom": "Buer",
+            "autres_graphies": [],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 10,
+                "titre": "président",
+                "legions": 50
+            }
+        },
+        {
+            "nom": "Gusion",
+            "autres_graphies": [],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 11,
+                "titre": "duc",
+                "legions": 40
+            }
+        },
+        {
+            "nom": "Sitri",
+            "autres_graphies": [],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 12,
+                "titre": "prince",
+                "legions": 60
+            }
+        },
+        {
+            "nom": "Beleth",
+            "autres_graphies": [
+                "Bileth",
+                "Bilet"
+            ],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 13,
+                "titre": "roi",
+                "legions": 85
+            }
+        },
+        {
+            "nom": "Leraje",
+            "autres_graphies": [
+                "Leraikha",
+                "Leraie"
+            ],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 14,
+                "titre": "marquis",
+                "legions": 30
+            }
+        },
+        {
+            "nom": "Eligos",
+            "autres_graphies": [],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 15,
+                "titre": "duc",
+                "legions": 60
+            }
+        },
+        {
+            "nom": "Zepar",
+            "autres_graphies": [],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 16,
+                "titre": "duc",
+                "legions": 26
+            }
+        },
+        {
+            "nom": "Botis",
+            "autres_graphies": [],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 17,
+                "titre": "président et comte",
+                "legions": 60
+            }
+        },
+        {
+            "nom": "Bathin",
+            "autres_graphies": [],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 18,
+                "titre": "duc",
+                "legions": 30
+            }
+        },
+        {
+            "nom": "Sallos",
+            "autres_graphies": [
+                "Saleos"
+            ],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 19,
+                "titre": "duc",
+                "legions": 30
+            }
+        },
+        {
+            "nom": "Purson",
+            "autres_graphies": [],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 20,
+                "titre": "roi",
+                "legions": 22
+            }
+        },
+        {
+            "nom": "Marax",
+            "autres_graphies": [],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 21,
+                "titre": "comte et président",
+                "legions": 30
+            }
+        },
+        {
+            "nom": "Ipos",
+            "autres_graphies": [],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 22,
+                "titre": "comte et prince",
+                "legions": 36
+            }
+        },
+        {
+            "nom": "Aim",
+            "autres_graphies": [],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 23,
+                "titre": "duc",
+                "legions": 26
+            }
+        },
+        {
+            "nom": "Naberius",
+            "autres_graphies": [],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 24,
+                "titre": "marquis",
+                "legions": 19
+            }
+        },
+        {
+            "nom": "Glasya-Labolas",
+            "autres_graphies": [],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 25,
+                "titre": "président et comte",
+                "legions": 36
+            }
+        },
+        {
+            "nom": "Buné",
+            "autres_graphies": [
+                "Bune",
+                "Bimé",
+                "Bim"
+            ],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 26,
+                "titre": "duc",
+                "legions": 30
+            }
+        },
+        {
+            "nom": "Ronové",
+            "autres_graphies": [],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 27,
+                "titre": "marquis et comte",
+                "legions": 19
+            }
+        },
+        {
+            "nom": "Berith",
+            "autres_graphies": [],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 28,
+                "titre": "duc",
+                "legions": 26
+            }
+        },
+        {
+            "nom": "Astaroth",
+            "autres_graphies": [],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 29,
+                "titre": "duc",
+                "legions": 40
+            }
+        },
+        {
+            "nom": "Forneus",
+            "autres_graphies": [],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 30,
+                "titre": "marquis",
+                "legions": 29
+            }
+        },
+        {
+            "nom": "Foras",
+            "autres_graphies": [],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 31,
+                "titre": "président",
+                "legions": 29
+            }
+        },
+        {
+            "nom": "Asmoday",
+            "autres_graphies": [
+                "Asmodai"
+            ],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 32,
+                "titre": "roi",
+                "legions": 72
+            }
+        },
+        {
+            "nom": "Gaap",
+            "autres_graphies": [],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 33,
+                "titre": "président et prince",
+                "legions": 66
+            }
+        },
+        {
+            "nom": "Furfur",
+            "autres_graphies": [],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 34,
+                "titre": "comte",
+                "legions": 26
+            }
+        },
+        {
+            "nom": "Marchosias",
+            "autres_graphies": [],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 35,
+                "titre": "marquis",
+                "legions": 30
+            }
+        },
+        {
+            "nom": "Stolas",
+            "autres_graphies": [
+                "Stolos"
+            ],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 36,
+                "titre": "prince",
+                "legions": 26
+            }
+        },
+        {
+            "nom": "Phenex",
+            "autres_graphies": [
+                "Pheynix"
+            ],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 37,
+                "titre": "marquis",
+                "legions": 20
+            }
+        },
+        {
+            "nom": "Halphas",
+            "autres_graphies": [
+                "Malthus",
+                "Malthous",
+                "Malthas"
+            ],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 38,
+                "titre": "comte",
+                "legions": 26
+            }
+        },
+        {
+            "nom": "Malphas",
+            "autres_graphies": [],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 39,
+                "titre": "président",
+                "legions": 40
+            }
+        },
+        {
+            "nom": "Raum",
+            "autres_graphies": [],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 40,
+                "titre": "comte",
+                "legions": 30
+            }
+        },
+        {
+            "nom": "Focalor",
+            "autres_graphies": [
+                "Forcalor",
+                "Furcalor"
+            ],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 41,
+                "titre": "duc",
+                "legions": 30
+            }
+        },
+        {
+            "nom": "Vepar",
+            "autres_graphies": [
+                "Vephar"
+            ],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 42,
+                "titre": "duc",
+                "legions": 29
+            }
+        },
+        {
+            "nom": "Sabnock",
+            "autres_graphies": [
+                "Savnok"
+            ],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 43,
+                "titre": "marquis",
+                "legions": 50
+            }
+        },
+        {
+            "nom": "Shax",
+            "autres_graphies": [
+                "Shaz",
+                "Shass"
+            ],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 44,
+                "titre": "marquis",
+                "legions": 30
+            }
+        },
+        {
+            "nom": "Viné",
+            "autres_graphies": [
+                "Vinea"
+            ],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 45,
+                "titre": "roi et comte",
+                "legions": 36
+            }
+        },
+        {
+            "nom": "Bifrons",
+            "autres_graphies": [
+                "Bifröus",
+                "Bifrovs"
+            ],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 46,
+                "titre": "comte",
+                "legions": 6
+            }
+        },
+        {
+            "nom": "Uvall",
+            "autres_graphies": [
+                "Vual",
+                "Voval"
+            ],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 47,
+                "titre": "duc",
+                "legions": 37
+            }
+        },
+        {
+            "nom": "Haagenti",
+            "autres_graphies": [],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 48,
+                "titre": "président",
+                "legions": 33
+            }
+        },
+        {
+            "nom": "Crocell",
+            "autres_graphies": [
+                "Crokel"
+            ],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 49,
+                "titre": "duc",
+                "legions": 48
+            }
+        },
+        {
+            "nom": "Furcas",
+            "autres_graphies": [],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 50,
+                "titre": "chevalier",
+                "legions": 20
+            }
+        },
+        {
+            "nom": "Balam",
+            "autres_graphies": [
+                "Balaam"
+            ],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 51,
+                "titre": "roi",
+                "legions": 40
+            }
+        },
+        {
+            "nom": "Alloces",
+            "autres_graphies": [
+                "Alocas"
+            ],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 52,
+                "titre": "duc",
+                "legions": 36
+            }
+        },
+        {
+            "nom": "Camio",
+            "autres_graphies": [
+                "Caim"
+            ],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 53,
+                "titre": "président",
+                "legions": 30
+            }
+        },
+        {
+            "nom": "Murmur",
+            "autres_graphies": [
+                "Murmus",
+                "Murmux"
+            ],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 54,
+                "titre": "duc et comte",
+                "legions": 30
+            }
+        },
+        {
+            "nom": "Orobas",
+            "autres_graphies": [],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 55,
+                "titre": "prince",
+                "legions": 20
+            }
+        },
+        {
+            "nom": "Gremory",
+            "autres_graphies": [
+                "Gamori"
+            ],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 56,
+                "titre": "duc",
+                "legions": 26
+            }
+        },
+        {
+            "nom": "Osé",
+            "autres_graphies": [
+                "Oso",
+                "Voso"
+            ],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 57,
+                "titre": "président",
+                "legions": 30
+            }
+        },
+        {
+            "nom": "Amy",
+            "autres_graphies": [
+                "Avnas"
+            ],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 58,
+                "titre": "président",
+                "legions": 36
+            }
+        },
+        {
+            "nom": "Oriax",
+            "autres_graphies": [
+                "Orias"
+            ],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 59,
+                "titre": "marquis",
+                "legions": 30
+            }
+        },
+        {
+            "nom": "Vapula",
+            "autres_graphies": [
+                "Naphula"
+            ],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 60,
+                "titre": "duc",
+                "legions": 36
+            }
+        },
+        {
+            "nom": "Zagan",
+            "autres_graphies": [],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 61,
+                "titre": "roi et président",
+                "legions": 33
+            }
+        },
+        {
+            "nom": "Volac",
+            "autres_graphies": [
+                "Valak",
+                "Valu",
+                "Ualac"
+            ],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 62,
+                "titre": "président",
+                "legions": 38
+            }
+        },
+        {
+            "nom": "Andras",
+            "autres_graphies": [],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 63,
+                "titre": "marquis",
+                "legions": 30
+            }
+        },
+        {
+            "nom": "Haures",
+            "autres_graphies": [
+                "Hauras",
+                "Havres",
+                "Flauros"
+            ],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 64,
+                "titre": "duc",
+                "legions": 36
+            }
+        },
+        {
+            "nom": "Andrealphus",
+            "autres_graphies": [],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 65,
+                "titre": "marquis",
+                "legions": 30
+            }
+        },
+        {
+            "nom": "Cimejes",
+            "autres_graphies": [
+                "Cimeies",
+                "Kimaris"
+            ],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 66,
+                "titre": "marquis",
+                "legions": 20
+            }
+        },
+        {
+            "nom": "Amdusias",
+            "autres_graphies": [
+                "Amdukias"
+            ],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 67,
+                "titre": "duc",
+                "legions": 29
+            }
+        },
+        {
+            "nom": "Belial",
+            "autres_graphies": [],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 68,
+                "titre": "roi",
+                "legions": 50
+            }
+        },
+        {
+            "nom": "Decarabia",
+            "autres_graphies": [],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 69,
+                "titre": "marquis",
+                "legions": 30
+            }
+        },
+        {
+            "nom": "Seere",
+            "autres_graphies": [
+                "Sear",
+                "Seir"
+            ],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 70,
+                "titre": "prince",
+                "legions": 26
+            }
+        },
+        {
+            "nom": "Dantalion",
+            "autres_graphies": [],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 71,
+                "titre": "duc",
+                "legions": 36
+            }
+        },
+        {
+            "nom": "Andromalius",
+            "autres_graphies": [],
+            "nature": "esprit de la Goétia",
+            "henoch": [],
+            "cle_de_salomon": [],
+            "goetia": {
+                "numero": 72,
+                "titre": "comte",
+                "legions": 36
+            }
+        }
+    ]
+}
