@@ -29,6 +29,21 @@ Explanations: https://rosmaryn.app/chiffres/ · Also on [Hugging Face](https://h
 
 Page: https://library.rosmaryn.app/concordance/anges-et-demons/
 
+## Use from JavaScript
+
+```bash
+npm install rosmaryn-open-data
+```
+
+```js
+const rod = require('rosmaryn-open-data');
+rod.statistics;       // Human Design and astrology frequencies in 100,000 births
+rod.books;            // 3,296 public domain esoteric books
+rod.angelsAndDemons;  // concordance of angels and demons
+```
+
+Package page: [npmjs.com/package/rosmaryn-open-data](https://www.npmjs.com/package/rosmaryn-open-data). Explore the data online: [rosmaryn-dev.github.io/rosmaryn-open-data](https://rosmaryn-dev.github.io/rosmaryn-open-data/).
+
 ## About Rosmaryn
 
 - [rosmaryn.app](https://rosmaryn.app/): free calculators and encyclopedia
