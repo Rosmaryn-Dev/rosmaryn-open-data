@@ -20,6 +20,8 @@ Frequencies computed by Rosmaryn on 100,000 birth moments drawn at random betwee
 
 Columns: `famille` (family), `code`, `libelle` (label, in French), `effectif` (count), `part_pourcent` (share in percent), `naissances` (births).
 
+Archived on Zenodo: [doi:10.5281/zenodo.24450935](https://doi.org/10.5281/zenodo.24450935)
+
 Explanations: https://rosmaryn.app/chiffres/ · Also on [Hugging Face](https://huggingface.co/datasets/Rosmaryn/human-design-astrology-frequencies-100k-births).
 
 ### Concordance of angels and demons

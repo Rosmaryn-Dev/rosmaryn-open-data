@@ -12,6 +12,9 @@ identifiers:
   - type: doi
     value: "10.7910/DVN/5OD5DT"
     description: "Public domain esoteric books, archived on Harvard Dataverse"
+  - type: doi
+    value: "10.5281/zenodo.24450935"
+    description: "Human Design and astrology frequencies in 100,000 births, archived on Zenodo"
 keywords:
   - esotericism
   - public domain
