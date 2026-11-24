@@ -2,12 +2,12 @@
 
 >>> import rosmaryn_open_data as rod
 >>> len(rod.books())
-3296
+3298
 """
 import json
 import os
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 SOURCE = "https://rosmaryn.app/"
 LICENSE = "CC-BY-4.0"
 
@@ -29,7 +29,7 @@ def statistics():
 
 
 def books():
-    """3,296 public domain esoteric books and open access articles presented by Rosmaryn Library."""
+    """3,298 public domain esoteric books and open access articles presented by Rosmaryn Library."""
     return _lire("ouvrages-libres.json")["ouvrages"]
 
 

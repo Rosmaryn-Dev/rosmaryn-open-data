@@ -7,7 +7,7 @@ Open datasets published by [Rosmaryn](https://rosmaryn.app/), a holistic self-kn
 ### Public domain esoteric books
 `data/ouvrages-libres.csv` and `data/ouvrages-libres.json`. Archived on Harvard Dataverse: [doi:10.7910/DVN/5OD5DT](https://doi.org/10.7910/DVN/5OD5DT)
 
-3,296 public domain books and open access articles presented by [Rosmaryn Library](https://library.rosmaryn.app/), in 33 languages and 42 subjects, from alchemy and astrology to Kabbalah and the I Ching. 767 books can be downloaded as PDF on Library.
+3,298 public domain books and open access articles presented by [Rosmaryn Library](https://library.rosmaryn.app/), in 33 languages and 42 subjects, from alchemy and astrology to Kabbalah and the I Ching. 768 books can be downloaded as PDF on Library.
 
 Columns: `identifiant`, `titre` (title), `auteur` (author), `annee` (year), `langue` (language), `discipline` (subject, in French), `type`, `telechargeable` (PDF available), `page` (book page on Library). The dataset describes the books; it does not contain their text or files.
 
@@ -40,7 +40,7 @@ npm install rosmaryn-open-data
 ```js
 const rod = require('rosmaryn-open-data');
 rod.statistics;       // Human Design and astrology frequencies in 100,000 births
-rod.books;            // 3,296 public domain esoteric books
+rod.books;            // 3,298 public domain esoteric books
 rod.angelsAndDemons;  // concordance of angels and demons
 ```
 

@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "rosmaryn-open-data"
-version = "1.0.0"
+version = "1.0.1"
 description = "Open datasets by Rosmaryn: Human Design and astrology frequencies in 100,000 births, public domain esoteric books, concordance of angels and demons (CC BY 4.0)."
 readme = "README.md"
 license = { text = "CC-BY-4.0" }

@@ -3,8 +3,8 @@
     "source": "https://library.rosmaryn.app/donnees/",
     "licence": "CC BY 4.0, https://creativecommons.org/licenses/by/4.0/deed.fr",
     "attribution": "Rosmaryn Library, https://library.rosmaryn.app/",
-    "mis_a_jour": "2026-11-09",
-    "nombre": 3296,
+    "mis_a_jour": "2026-11-24",
+    "nombre": 3298,
     "ouvrages": [
         {
             "identifiant": "a-suggestive-inquiry-into-the-hermetic-mystery",
@@ -2986,6 +2986,17 @@
             "type": "ouvrage du domaine public",
             "telechargeable": true,
             "page": "https://library.rosmaryn.app/livre/la-magie-d-arbatel-traduite-de-henri-corneille-agrippa/"
+        },
+        {
+            "identifiant": "das-gesetz-der-serie-eine-lehre-von-den-wiederholungen-im-lebens-und-i",
+            "titre": "Das Gesetz der Serie. Eine Lehre von den Wiederholungen im Lebens- und im Weltgeschehen",
+            "auteur": "Paul Kammerer",
+            "annee": 1919,
+            "langue": "de",
+            "discipline": "Anges",
+            "type": "ouvrage du domaine public",
+            "telechargeable": false,
+            "page": "https://library.rosmaryn.app/livre/das-gesetz-der-serie-eine-lehre-von-den-wiederholungen-im-lebens-und-i/"
         },
         {
             "identifiant": "sefer-raziel-ha-malakh-edition-d-amsterdam-1701",
@@ -15251,6 +15262,17 @@
             "type": "ouvrage du domaine public",
             "telechargeable": true,
             "page": "https://library.rosmaryn.app/livre/le-yi-king-ou-livre-des-changements-de-la-dynastie-des-tsheou-premiere/"
+        },
+        {
+            "identifiant": "the-ask-yi-i-ching",
+            "titre": "The Ask Yi I Ching",
+            "auteur": "manpo",
+            "annee": 2026,
+            "langue": "en",
+            "discipline": "Yi King",
+            "type": "ouvrage sous licence CC BY 4.0",
+            "telechargeable": true,
+            "page": "https://library.rosmaryn.app/livre/the-ask-yi-i-ching/"
         },
         {
             "identifiant": "i-ging-buch-der-wandlungen-14e-ed-1987-texte-integral-avec-livres-i-a-",
