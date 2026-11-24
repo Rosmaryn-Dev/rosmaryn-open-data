@@ -15,6 +15,9 @@ identifiers:
   - type: doi
     value: "10.5281/zenodo.24450935"
     description: "Human Design and astrology frequencies in 100,000 births, archived on Zenodo"
+  - type: doi
+    value: "10.5281/zenodo.24500575"
+    description: "Concordance of angels and demons, archived on Zenodo"
   - type: url
     value: "https://www.wikidata.org/wiki/Q142272681"
     description: "Rosmaryn on Wikidata"

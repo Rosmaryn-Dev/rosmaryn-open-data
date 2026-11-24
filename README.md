@@ -29,6 +29,8 @@ Explanations: https://rosmaryn.app/chiffres/ · Also on [Hugging Face](https://h
 
 182 angels, Watchers and spirits named in three public domain texts: the Book of Enoch (R. H. Charles, 1912, with spellings from François Martin's French translation, 1906), the Key of Solomon (S. L. MacGregor Mathers, 1889) and the Goetia (L. W. de Laurence edition, 1916), with chapter, verse and page for each mention. Every reference was found in the text.
 
+Archived on Zenodo: [doi:10.5281/zenodo.24500575](https://doi.org/10.5281/zenodo.24500575)
+
 Page: https://library.rosmaryn.app/concordance/anges-et-demons/ · Wikidata: [Q142273461](https://www.wikidata.org/wiki/Q142273461)
 
 ## Use from JavaScript
