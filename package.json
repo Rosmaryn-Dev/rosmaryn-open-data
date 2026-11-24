@@ -1,6 +1,6 @@
 {
   "name": "rosmaryn-open-data",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Open datasets by Rosmaryn: Human Design and astrology frequencies in 100,000 births, 3,296 public domain esoteric books, concordance of angels and demons (CC BY 4.0).",
   "main": "index.js",
   "types": "index.d.ts",
