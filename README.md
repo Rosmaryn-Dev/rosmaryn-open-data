@@ -11,7 +11,7 @@ Open datasets published by [Rosmaryn](https://rosmaryn.app/), a holistic self-kn
 
 Columns: `identifiant`, `titre` (title), `auteur` (author), `annee` (year), `langue` (language), `discipline` (subject, in French), `type`, `telechargeable` (PDF available), `page` (book page on Library). The dataset describes the books; it does not contain their text or files.
 
-Live version: https://library.rosmaryn.app/donnees/ · Also on [data.gouv.fr](https://www.data.gouv.fr/datasets/rosmaryn-library-ouvrages-esoteriques-du-domaine-public-et-articles-en-libre-acces) and [Hugging Face](https://huggingface.co/datasets/Rosmaryn/esoteric-public-domain-books).
+Live version: https://library.rosmaryn.app/donnees/ · Also on [data.gouv.fr](https://www.data.gouv.fr/datasets/rosmaryn-library-ouvrages-esoteriques-du-domaine-public-et-articles-en-libre-acces) and [Hugging Face](https://huggingface.co/datasets/Rosmaryn/esoteric-public-domain-books). Wikidata: [Q142273352](https://www.wikidata.org/wiki/Q142273352).
 
 ### Human Design and astrology frequencies in 100,000 births
 `data/statistiques-human-design-astrologie-100000-naissances.csv`
@@ -22,14 +22,14 @@ Columns: `famille` (family), `code`, `libelle` (label, in French), `effectif` (c
 
 Archived on Zenodo: [doi:10.5281/zenodo.24450935](https://doi.org/10.5281/zenodo.24450935)
 
-Explanations: https://rosmaryn.app/chiffres/ · Also on [Hugging Face](https://huggingface.co/datasets/Rosmaryn/human-design-astrology-frequencies-100k-births).
+Explanations: https://rosmaryn.app/chiffres/ · Also on [Hugging Face](https://huggingface.co/datasets/Rosmaryn/human-design-astrology-frequencies-100k-births). Wikidata: [Q142273414](https://www.wikidata.org/wiki/Q142273414).
 
 ### Concordance of angels and demons
 `data/concordance-anges-demons.csv` and `data/concordance-anges-demons.json`
 
 182 angels, Watchers and spirits named in three public domain texts: the Book of Enoch (R. H. Charles, 1912, with spellings from François Martin's French translation, 1906), the Key of Solomon (S. L. MacGregor Mathers, 1889) and the Goetia (L. W. de Laurence edition, 1916), with chapter, verse and page for each mention. Every reference was found in the text.
 
-Page: https://library.rosmaryn.app/concordance/anges-et-demons/
+Page: https://library.rosmaryn.app/concordance/anges-et-demons/ · Wikidata: [Q142273461](https://www.wikidata.org/wiki/Q142273461)
 
 ## Use from JavaScript
 
