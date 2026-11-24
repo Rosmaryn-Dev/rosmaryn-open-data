@@ -52,3 +52,4 @@ Package page: [npmjs.com/package/rosmaryn-open-data](https://www.npmjs.com/packa
 - [Rosmaryn Pro](https://rosmaryn.pro/): software for practitioners
 - [Rosmaryn Academy](https://academy.rosmaryn.app/): online courses
 - [Rosmaryn Library](https://library.rosmaryn.app/): esoteric bookshop and public domain library
+- [Rosmaryn on Wikidata](https://www.wikidata.org/wiki/Q142272681)
