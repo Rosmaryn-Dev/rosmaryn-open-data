@@ -51,6 +51,15 @@ Columns: `identifiant`, `titre` (title), `auteur` (author or translator), `annee
 
 Archived on Mendeley Data: [doi:10.17632/49n73rk8wx.1](https://doi.org/10.17632/49n73rk8wx.1)
 
+### Planetary correspondences in Agrippa (1651)
+`data/agrippa-correspondances-planetaires.csv`
+
+347 correspondences between the seven classical planets and things of nature (elements, humours, metals, stones, plants, animals, birds), as listed by Heinrich Cornelius Agrippa in Book I, chapters XXIII to XXIX, of the 1651 English translation of the Three Books of Occult Philosophy ([scan](https://archive.org/details/b30335231)). Every entry was checked against the text; 62 doubtful readings were left out.
+
+Columns: `planete_en`, `planete_fr`, `chapitre` (chapter of Book I), `categorie_en`, `categorie_fr`, `graphie_transcription` (word as printed in 1651), `nom_anglais_moderne` (modern English name), `extrait` (exact passage).
+
+Archived on Zenodo: [doi:10.5281/zenodo.24517534](https://doi.org/10.5281/zenodo.24517534)
+
 ## Use from JavaScript
 
 ```bash

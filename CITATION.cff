@@ -24,6 +24,9 @@ identifiers:
   - type: doi
     value: "10.17632/49n73rk8wx.1"
     description: "I Ching bibliography, 800 books and articles in nine languages, archived on Mendeley Data"
+  - type: doi
+    value: "10.5281/zenodo.24517534"
+    description: "Planetary correspondences in Agrippa's Three Books of Occult Philosophy (1651), archived on Zenodo"
   - type: url
     value: "https://www.wikidata.org/wiki/Q142272681"
     description: "Rosmaryn on Wikidata"
