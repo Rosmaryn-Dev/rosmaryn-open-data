@@ -42,6 +42,15 @@ Columns: `wikidata`, `sujet` (English topic title), `langue` (language edition),
 
 Archived on Figshare: [doi:10.6084/m9.figshare.35106571](https://doi.org/10.6084/m9.figshare.35106571)
 
+### I Ching bibliography
+`data/yi-king-bibliographie.csv`
+
+800 translations, commentaries, studies and divination guides of the I Ching, in nine languages, from the classical Chinese text to 2026 editions: 729 books, 58 public domain works and 13 articles or reference pages; 647 carry an ISBN. Gathered from Open Library, national library catalogues and booksellers' records.
+
+Columns: `identifiant`, `titre` (title), `auteur` (author or translator), `annee` (year, empty when unknown), `langue` (language), `type`, `isbn`, `page` (book page on Rosmaryn Library).
+
+Archived on Mendeley Data: [doi:10.17632/49n73rk8wx.1](https://doi.org/10.17632/49n73rk8wx.1)
+
 ## Use from JavaScript
 
 ```bash

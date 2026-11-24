@@ -21,6 +21,9 @@ identifiers:
   - type: doi
     value: "10.6084/m9.figshare.35106571"
     description: "Wikipedia pageviews of esoteric topics in six languages, 2016-2026, archived on Figshare"
+  - type: doi
+    value: "10.17632/49n73rk8wx.1"
+    description: "I Ching bibliography, 800 books and articles in nine languages, archived on Mendeley Data"
   - type: url
     value: "https://www.wikidata.org/wiki/Q142272681"
     description: "Rosmaryn on Wikidata"
