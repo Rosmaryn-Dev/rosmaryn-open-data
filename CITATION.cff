@@ -18,6 +18,9 @@ identifiers:
   - type: doi
     value: "10.5281/zenodo.24500575"
     description: "Concordance of angels and demons, archived on Zenodo"
+  - type: doi
+    value: "10.6084/m9.figshare.35106571"
+    description: "Wikipedia pageviews of esoteric topics in six languages, 2016-2026, archived on Figshare"
   - type: url
     value: "https://www.wikidata.org/wiki/Q142272681"
     description: "Rosmaryn on Wikidata"

@@ -33,6 +33,15 @@ Archived on Zenodo: [doi:10.5281/zenodo.24500575](https://doi.org/10.5281/zenodo
 
 Page: https://library.rosmaryn.app/concordance/anges-et-demons/ · Wikidata: [Q142273461](https://www.wikidata.org/wiki/Q142273461)
 
+### Wikipedia pageviews of esoteric topics, 2016-2026
+`data/wikipedia-consultations-sujets-esoteriques-2016-2026.csv`
+
+Monthly pageviews (human readers, automated traffic excluded) of the Wikipedia articles on 33 esoteric and divinatory topics, in French, German, English, Spanish, Italian and Portuguese, from January 2016 to October 2026: 23,339 rows, 185 topic-language pairs. Source: Wikimedia Pageviews API and Wikidata (CC0).
+
+Columns: `wikidata`, `sujet` (English topic title), `langue` (language edition), `article`, `mois` (year-month), `vues` (views).
+
+Archived on Figshare: [doi:10.6084/m9.figshare.35106571](https://doi.org/10.6084/m9.figshare.35106571)
+
 ## Use from JavaScript
 
 ```bash
