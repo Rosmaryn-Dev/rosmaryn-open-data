@@ -5,6 +5,7 @@ type: dataset
 authors:
   - name: "Rosmaryn"
     website: "https://rosmaryn.app/"
+    orcid: "https://orcid.org/0009-0007-6170-4123"
 license: CC-BY-4.0
 repository-code: "https://github.com/Rosmaryn-Dev/rosmaryn-open-data"
 url: "https://library.rosmaryn.app/donnees/"
