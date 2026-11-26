@@ -71,6 +71,9 @@ const rod = require('rosmaryn-open-data');
 rod.statistics;       // Human Design and astrology frequencies in 100,000 births
 rod.books;            // 3,298 public domain esoteric books
 rod.angelsAndDemons;  // concordance of angels and demons
+rod.wikipediaPageviews;     // monthly Wikipedia pageviews of 33 esoteric topics, 2016-2026
+rod.iChingBibliography;     // 800 I Ching translations, commentaries and studies
+rod.agrippaCorrespondences; // 347 planetary correspondences from Agrippa (1651)
 ```
 
 Package page: [npmjs.com/package/rosmaryn-open-data](https://www.npmjs.com/package/rosmaryn-open-data). Explore the data online: [rosmaryn-dev.github.io/rosmaryn-open-data](https://rosmaryn-dev.github.io/rosmaryn-open-data/).
